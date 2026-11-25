@@ -1,0 +1,1258 @@
+{
+ "meta": {
+  "stand": "2026-11-25T15:07Z",
+  "firmen": 178,
+  "ok": 173,
+  "fehler": 5,
+  "stellen_lissabon": 1610,
+  "kandidaten": 294
+ },
+ "firmen": [
+  {
+   "name": "Amenitiz",
+   "methode": "browser",
+   "status": "fehler",
+   "treffer": 0,
+   "fehler": "Seite fast leer (Blockade oder Login?)"
+  },
+  {
+   "name": "Inetum Portugal",
+   "methode": "browser",
+   "status": "fehler",
+   "treffer": 0,
+   "fehler": "Seite fast leer (Blockade oder Login?)"
+  },
+  {
+   "name": "Iterable",
+   "methode": "browser",
+   "status": "fehler",
+   "treffer": 0,
+   "fehler": "Seite fast leer (Blockade oder Login?)"
+  },
+  {
+   "name": "Lidl Portugal",
+   "methode": "browser",
+   "status": "fehler",
+   "treffer": 0,
+   "fehler": "Browser: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.lidl.pt/\nCall log:\n  - navigating to \"https://jobs.lidl.pt/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+   "name": "Valtech Portugal",
+   "methode": "browser",
+   "status": "fehler",
+   "treffer": 0,
+   "fehler": "Browser: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.portugal.valtech.com/jobs\nCall log:\n  - navigating to \"https://careers.portugal.valtech.com/j"
+  },
+  {
+   "name": "1GLOBAL",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 25,
+   "fehler": ""
+  },
+  {
+   "name": "Accenture Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 4,
+   "fehler": ""
+  },
+  {
+   "name": "Actual Talent",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "Agicap",
+   "methode": "lever",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Airbus",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": "Schnittstelle fehlgeschlagen, Browser ok"
+  },
+  {
+   "name": "Allianz (Allianz Portugal, Allianz Partners, Allianz Trade)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Alter Solutions Portugal",
+   "methode": "smartrecruiters",
+   "status": "ok",
+   "treffer": 64,
+   "fehler": ""
+  },
+  {
+   "name": "Alvarez & Marsal Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Amazon / AWS Portugal",
+   "methode": "amazon",
+   "status": "ok",
+   "treffer": 3,
+   "fehler": ""
+  },
+  {
+   "name": "Amgen Capability Center Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 18,
+   "fehler": ""
+  },
+  {
+   "name": "Amplemarket",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "AstraZeneca (Global Hub Lisbon)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  },
+  {
+   "name": "Atlys",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Avanade Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 21,
+   "fehler": ""
+  },
+  {
+   "name": "Axians Digital Consulting Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 14,
+   "fehler": ""
+  },
+  {
+   "name": "BAT Portugal (British American Tobacco)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "BMW Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 31,
+   "fehler": ""
+  },
+  {
+   "name": "BNP Paribas",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Barkyn",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Bayer Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "BearingPoint Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 11,
+   "fehler": ""
+  },
+  {
+   "name": "Beiersdorf Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Belfius (Technology & Operations Hub Lisbon)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Beyond Gravity",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 6,
+   "fehler": ""
+  },
+  {
+   "name": "Bloq.it",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 9,
+   "fehler": ""
+  },
+  {
+   "name": "Boehringer Ingelheim Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 11,
+   "fehler": ""
+  },
+  {
+   "name": "Bolt",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "Bosch Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Bounce",
+   "methode": "ashbyhq",
+   "status": "ok",
+   "treffer": 7,
+   "fehler": ""
+  },
+  {
+   "name": "CGI Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 65,
+   "fehler": ""
+  },
+  {
+   "name": "Cabify",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 54,
+   "fehler": ""
+  },
+  {
+   "name": "Cargofive",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Casafari",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "Celfocus",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 6,
+   "fehler": ""
+  },
+  {
+   "name": "Checkfirst",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Cisco Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Cloudflare",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Codacy",
+   "methode": "personio",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "ComparaJá (CEG)",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 63,
+   "fehler": ""
+  },
+  {
+   "name": "Compass Lexecon (FTI)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": "Schnittstelle fehlgeschlagen, Browser ok"
+  },
+  {
+   "name": "Coverflex",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 5,
+   "fehler": ""
+  },
+  {
+   "name": "Critical TechWorks (BMW)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 4,
+   "fehler": ""
+  },
+  {
+   "name": "Cyncly",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 4,
+   "fehler": ""
+  },
+  {
+   "name": "DHL Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  },
+  {
+   "name": "DSV Portugal (inkl. DB Schenker)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Danone Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Dashlane",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 3,
+   "fehler": ""
+  },
+  {
+   "name": "Datadog",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "Defined.ai",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "Deloitte Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 23,
+   "fehler": ""
+  },
+  {
+   "name": "Devoteam Portugal",
+   "methode": "smartrecruiters",
+   "status": "ok",
+   "treffer": 234,
+   "fehler": ""
+  },
+  {
+   "name": "Dott",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Doutor Finanças",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 10,
+   "fehler": ""
+  },
+  {
+   "name": "EDP (Konzernzentrale)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "EY Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Ebury",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Efficio Consulting",
+   "methode": "lever",
+   "status": "ok",
+   "treffer": 9,
+   "fehler": ""
+  },
+  {
+   "name": "Emma – The Sleep Company",
+   "methode": "lever",
+   "status": "ok",
+   "treffer": 25,
+   "fehler": ""
+  },
+  {
+   "name": "Essity (Business Services Hub Lisbon)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Europcar Mobility Group Shared Service Centre",
+   "methode": "smartrecruiters",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "FREE NOW (Lyft)",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Farfetch",
+   "methode": "lever",
+   "status": "ok",
+   "treffer": 3,
+   "fehler": ""
+  },
+  {
+   "name": "Feedzai",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 10,
+   "fehler": ""
+  },
+  {
+   "name": "Ferring Pharmaceuticals (Lisbon Hub)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": "Schnittstelle fehlgeschlagen, Browser ok"
+  },
+  {
+   "name": "Fever",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Finastra",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Fixando",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 49,
+   "fehler": ""
+  },
+  {
+   "name": "Flix",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 10,
+   "fehler": ""
+  },
+  {
+   "name": "Forvis Mazars Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 85,
+   "fehler": ""
+  },
+  {
+   "name": "Fujitsu Global Delivery Centre Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 25,
+   "fehler": ""
+  },
+  {
+   "name": "Galp (Konzernzentrale)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Glovo / Delivery Hero",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Goparity",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  },
+  {
+   "name": "Greenvolt",
+   "methode": "workable",
+   "status": "ok",
+   "treffer": 19,
+   "fehler": ""
+  },
+  {
+   "name": "Grover",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Grünenthal (Lisbon Hub)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 14,
+   "fehler": ""
+  },
+  {
+   "name": "HEINEKEN Portugal (Sociedade Central de Cervejas)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Henkel Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "HiJiffy",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Hiscox (Lisbon)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  },
+  {
+   "name": "Holidu",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  },
+  {
+   "name": "Hovione",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Indie Campers",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 19,
+   "fehler": ""
+  },
+  {
+   "name": "Johnson & Johnson Portugal (MedTech / Innovative Medicine)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 18,
+   "fehler": ""
+  },
+  {
+   "name": "Jungle AI",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "KPMG Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 9,
+   "fehler": ""
+  },
+  {
+   "name": "Kaizen Institute Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 56,
+   "fehler": ""
+  },
+  {
+   "name": "Kearney",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "Kinsta",
+   "methode": "lever",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Kuehne+Nagel Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 6,
+   "fehler": ""
+  },
+  {
+   "name": "L'Oréal Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Landing.jobs",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Lighthouse",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Lime",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Luma Financial Technologies",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Lyzer",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Mastercard",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 9,
+   "fehler": ""
+  },
+  {
+   "name": "Mercadão",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  },
+  {
+   "name": "Mercedes-Benz.io",
+   "methode": "recruitee",
+   "status": "ok",
+   "treffer": 4,
+   "fehler": ""
+  },
+  {
+   "name": "Microsoft Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 22,
+   "fehler": ""
+  },
+  {
+   "name": "Minsait (Indra) Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Mollie",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "NTT DATA Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Natixis in Portugal",
+   "methode": "smartrecruiters",
+   "status": "ok",
+   "treffer": 48,
+   "fehler": ""
+  },
+  {
+   "name": "Navan",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Nestlé Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Novartis Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 7,
+   "fehler": ""
+  },
+  {
+   "name": "Novo Nordisk Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Oliver Wyman",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Organon",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 6,
+   "fehler": ""
+  },
+  {
+   "name": "Otovo",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "OutSystems",
+   "methode": "workday",
+   "status": "ok",
+   "treffer": 16,
+   "fehler": ""
+  },
+  {
+   "name": "PNO Consultants Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "PagerDuty",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 3,
+   "fehler": ""
+  },
+  {
+   "name": "Pfizer Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  },
+  {
+   "name": "Philip Morris International (Tabaqueira GBS)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 4,
+   "fehler": ""
+  },
+  {
+   "name": "Pipedrive",
+   "methode": "lever",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Pleez",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 6,
+   "fehler": ""
+  },
+  {
+   "name": "Pleo",
+   "methode": "ashbyhq",
+   "status": "ok",
+   "treffer": 22,
+   "fehler": ""
+  },
+  {
+   "name": "Powerdot",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 5,
+   "fehler": ""
+  },
+  {
+   "name": "Procter & Gamble Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 3,
+   "fehler": ""
+  },
+  {
+   "name": "PwC Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 29,
+   "fehler": ""
+  },
+  {
+   "name": "Rauva",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "Remote",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Revolut",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Riskified",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Roche Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 3,
+   "fehler": ""
+  },
+  {
+   "name": "Roland Berger",
+   "methode": "smartrecruiters",
+   "status": "ok",
+   "treffer": 9,
+   "fehler": ""
+  },
+  {
+   "name": "Rydoo",
+   "methode": "workable",
+   "status": "ok",
+   "treffer": 6,
+   "fehler": ""
+  },
+  {
+   "name": "SAP Portugal (Porto Salvo)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "SOMAÍ Pharmaceuticals",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 3,
+   "fehler": ""
+  },
+  {
+   "name": "Salsify",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 8,
+   "fehler": ""
+  },
+  {
+   "name": "Sama",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 3,
+   "fehler": ""
+  },
+  {
+   "name": "Schneider Electric Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Semapa Next",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Sensei",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 7,
+   "fehler": ""
+  },
+  {
+   "name": "Siemens Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Simon-Kucher",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Sixt",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 20,
+   "fehler": ""
+  },
+  {
+   "name": "Solvay",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 23,
+   "fehler": ""
+  },
+  {
+   "name": "Strategy& Portugal (PwC)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 39,
+   "fehler": ""
+  },
+  {
+   "name": "Stratesys Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Swiss Life Asset Managers (Competence Centre Lisbon)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 31,
+   "fehler": ""
+  },
+  {
+   "name": "Sword Health",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 7,
+   "fehler": ""
+  },
+  {
+   "name": "Talkdesk",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "Tekever",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Teya",
+   "methode": "ashbyhq",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "TheFork",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Timeleft",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Too Good To Go",
+   "methode": "ashbyhq",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Uber (Lisbon Centre of Excellence)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Unbabel",
+   "methode": "recruitee",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  },
+  {
+   "name": "Unilever Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 7,
+   "fehler": ""
+  },
+  {
+   "name": "Uniplaces",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Upwork",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Ventrata",
+   "methode": "workable",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Vodafone Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 5,
+   "fehler": ""
+  },
+  {
+   "name": "Volkswagen Autoeuropa",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 5,
+   "fehler": ""
+  },
+  {
+   "name": "Volkswagen Digital Solutions",
+   "methode": "lever",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  },
+  {
+   "name": "Vorwerk Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  },
+  {
+   "name": "Web Summit",
+   "methode": "lever",
+   "status": "ok",
+   "treffer": 11,
+   "fehler": ""
+  },
+  {
+   "name": "Westernacher Consulting",
+   "methode": "lever",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Wolt (DoorDash)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "ZEISS Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": "Schnittstelle fehlgeschlagen, Browser ok"
+  },
+  {
+   "name": "Zalando",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Zendesk",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 1,
+   "fehler": ""
+  },
+  {
+   "name": "Zeoos",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Zurich Insurance (Lisbon)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 7,
+   "fehler": ""
+  },
+  {
+   "name": "iCapital",
+   "methode": "greenhouse",
+   "status": "ok",
+   "treffer": 9,
+   "fehler": ""
+  },
+  {
+   "name": "idealista",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "proSapient",
+   "methode": "workable",
+   "status": "ok",
+   "treffer": 11,
+   "fehler": ""
+  },
+  {
+   "name": "valantic Portugal (valantic BT)",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 12,
+   "fehler": ""
+  }
+ ]
+}
