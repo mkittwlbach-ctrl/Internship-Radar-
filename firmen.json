@@ -552,12 +552,6 @@
   "prioritaet": 2
  },
  {
-  "name": "Lidl Portugal",
-  "karriere_url": "https://jobs.lidl.pt/",
-  "api_url": "",
-  "prioritaet": 2
- },
- {
   "name": "Danone Portugal",
   "karriere_url": "https://careers.danone.com/en-global/jobs.html",
   "api_url": "",
@@ -721,8 +715,8 @@
  },
  {
   "name": "Valtech Portugal",
-  "karriere_url": "https://careers.portugal.valtech.com/jobs",
-  "api_url": "",
+  "karriere_url": "https://job-boards.eu.greenhouse.io/valtech",
+  "api_url": "https://boards-api.eu.greenhouse.io/v1/boards/valtech/jobs",
   "prioritaet": 3
  },
  {
