@@ -1,0 +1,1070 @@
+[
+ {
+  "name": "Bounce",
+  "karriere_url": "https://jobs.ashbyhq.com/bounce",
+  "api_url": "https://api.ashbyhq.com/posting-api/job-board/bounce",
+  "prioritaet": 1
+ },
+ {
+  "name": "Mastercard",
+  "karriere_url": "https://careers.mastercard.com/us/en/lisbon-portugal",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Revolut",
+  "karriere_url": "https://www.revolut.com/careers/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Emma – The Sleep Company",
+  "karriere_url": "https://jobs.lever.co/emma-sleep?location=Lisbon",
+  "api_url": "https://api.lever.co/v0/postings/emma-sleep?mode=json",
+  "prioritaet": 1
+ },
+ {
+  "name": "Indie Campers",
+  "karriere_url": "https://job-boards.greenhouse.io/indiecampers-linkedin",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/indiecampers-linkedin/jobs",
+  "prioritaet": 1
+ },
+ {
+  "name": "Agicap",
+  "karriere_url": "https://jobs.lever.co/agicap",
+  "api_url": "https://api.lever.co/v0/postings/agicap?mode=json",
+  "prioritaet": 1
+ },
+ {
+  "name": "Web Summit",
+  "karriere_url": "https://jobs.lever.co/websummit",
+  "api_url": "https://api.lever.co/v0/postings/websummit?mode=json",
+  "prioritaet": 1
+ },
+ {
+  "name": "Mercedes-Benz.io",
+  "karriere_url": "https://mbio.recruitee.com",
+  "api_url": "https://mbio.recruitee.com/api/offers/",
+  "prioritaet": 1
+ },
+ {
+  "name": "Too Good To Go",
+  "karriere_url": "https://jobs.ashbyhq.com/toogoodtogo",
+  "api_url": "https://api.ashbyhq.com/posting-api/job-board/toogoodtogo",
+  "prioritaet": 1
+ },
+ {
+  "name": "Dashlane",
+  "karriere_url": "https://job-boards.greenhouse.io/dashlane",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/dashlane/jobs",
+  "prioritaet": 1
+ },
+ {
+  "name": "Cloudflare",
+  "karriere_url": "https://job-boards.greenhouse.io/cloudflare",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs",
+  "prioritaet": 1
+ },
+ {
+  "name": "Sword Health",
+  "karriere_url": "https://job-boards.greenhouse.io/swordhealth",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/swordhealth/jobs",
+  "prioritaet": 1
+ },
+ {
+  "name": "Feedzai",
+  "karriere_url": "https://careers.feedzai.com/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Powerdot",
+  "karriere_url": "https://job-boards.eu.greenhouse.io/powerdot",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/powerdot/jobs",
+  "prioritaet": 1
+ },
+ {
+  "name": "Hovione",
+  "karriere_url": "https://en-careers-hovione.icims.com/jobs/intro?hashed=-625949426",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Volkswagen Autoeuropa",
+  "karriere_url": "https://www.volkswagenautoeuropa.pt/carreiras/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Siemens Portugal",
+  "karriere_url": "https://jobs.siemens.com/en_US/externaljobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "OutSystems",
+  "karriere_url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Talkdesk",
+  "karriere_url": "https://job-boards.greenhouse.io/talkdesk2",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/talkdesk2/jobs",
+  "prioritaet": 1
+ },
+ {
+  "name": "Unbabel",
+  "karriere_url": "https://transperfect.recruitee.com",
+  "api_url": "https://transperfect.recruitee.com/api/offers/",
+  "prioritaet": 1
+ },
+ {
+  "name": "Tekever",
+  "karriere_url": "https://careers.tekever.com/jobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Bloq.it",
+  "karriere_url": "https://bloqit.teamtailor.com/jobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Coverflex",
+  "karriere_url": "https://careers.coverflex.com",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Codacy",
+  "karriere_url": "https://qamine-portugal.jobs.personio.com",
+  "api_url": "https://qamine-portugal.jobs.personio.com/xml",
+  "prioritaet": 1
+ },
+ {
+  "name": "Goparity",
+  "karriere_url": "https://goparity.com/about/the-team",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Lyzer",
+  "karriere_url": "https://www.lyzer.tech/careers",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Pleez",
+  "karriere_url": "https://www.careers-page.com/pleez",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Uniplaces",
+  "karriere_url": "https://uniplaces.thinkopen.solutions/jobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Remote",
+  "karriere_url": "https://remote.com/openings",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Mollie",
+  "karriere_url": "https://jobs.mollie.com/locations/lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Datadog",
+  "karriere_url": "https://careers.datadoghq.com/lisbon/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Riskified",
+  "karriere_url": "https://www.riskified.com/careers/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Zalando",
+  "karriere_url": "https://jobs.zalando.com",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Critical TechWorks (BMW)",
+  "karriere_url": "https://join.criticaltechworks.com/jobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Volkswagen Digital Solutions",
+  "karriere_url": "https://jobs.eu.lever.co/vwgds",
+  "api_url": "https://api.eu.lever.co/v0/postings/vwgds?mode=json",
+  "prioritaet": 1
+ },
+ {
+  "name": "Glovo / Delivery Hero",
+  "karriere_url": "https://careers.glovoapp.com/jobs-at-glovo/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Bolt",
+  "karriere_url": "https://bolt.eu/en/careers/positions/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Teya",
+  "karriere_url": "https://jobs.ashbyhq.com/teya",
+  "api_url": "https://api.ashbyhq.com/posting-api/job-board/teya",
+  "prioritaet": 1
+ },
+ {
+  "name": "Zendesk",
+  "karriere_url": "https://www.zendesk.com/company/careers/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Airbus",
+  "karriere_url": "https://ag.wd3.myworkdayjobs.com/Airbus",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Organon",
+  "karriere_url": "https://jobs.organon.com/us/en/search-results?keywords=Lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "BNP Paribas",
+  "karriere_url": "https://group.bnpparibas/en/careers/all-job-offers/trainee-internship/lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Bosch Portugal",
+  "karriere_url": "https://jobs.bosch.com/pt/?country=pt",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Nestlé Portugal",
+  "karriere_url": "https://jobdetails.nestle.com",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "L'Oréal Portugal",
+  "karriere_url": "https://careers.loreal.com/en/search-jobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Unilever Portugal",
+  "karriere_url": "https://careers.unilever.com/portugal",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Deloitte Portugal",
+  "karriere_url": "https://jobs.deloitte.pt/go/Trainees/4608455/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "PwC Portugal",
+  "karriere_url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home?c=pwcportugal",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "EY Portugal",
+  "karriere_url": "https://eyglobal.yello.co/job_boards/c1riT--B2O-KySgYWsZO1Q",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "KPMG Portugal",
+  "karriere_url": "https://kpmg.com/pt/en/careers/internships.html",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Accenture Portugal",
+  "karriere_url": "https://www.accenture.com/pt-pt/careers/jobsearch",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Kearney",
+  "karriere_url": "https://kearney.recsolu.com/job_boards/1",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Roland Berger",
+  "karriere_url": "https://careers.smartrecruiters.com/rolandberger",
+  "api_url": "https://api.smartrecruiters.com/v1/companies/rolandberger/postings?country=pt",
+  "prioritaet": 1
+ },
+ {
+  "name": "Oliver Wyman",
+  "karriere_url": "https://careers.marsh.com/eu/en/oliver-wyman-early-careers-",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Greenvolt",
+  "karriere_url": "https://apply.workable.com/greenvolt/",
+  "api_url": "https://apply.workable.com/api/v1/widget/accounts/greenvolt",
+  "prioritaet": 1
+ },
+ {
+  "name": "Efficio Consulting",
+  "karriere_url": "https://jobs.eu.lever.co/efficioconsulting",
+  "api_url": "https://api.eu.lever.co/v0/postings/efficioconsulting?mode=json",
+  "prioritaet": 1
+ },
+ {
+  "name": "SOMAÍ Pharmaceuticals",
+  "karriere_url": "https://somaipharma.factorialhr.pt",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Defined.ai",
+  "karriere_url": "https://definedai.applytojob.com/apply",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Novo Nordisk Portugal",
+  "karriere_url": "https://careers.novonordisk.com",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "ZEISS Portugal",
+  "karriere_url": "https://zeissgroup.wd3.myworkdayjobs.com/en-US/External",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "1GLOBAL",
+  "karriere_url": "https://www.1global.com/vacancies",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Solvay",
+  "karriere_url": "https://careers.solvay.com/search/?q=trainee&locationsearch=Lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Beyond Gravity",
+  "karriere_url": "https://careers.beyondgravity.com/search/?q=intern&locationsearch=Lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Semapa Next",
+  "karriere_url": "https://semapanext-1706002129.teamtailor.com/jobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Actual Talent",
+  "karriere_url": "https://winid.teamtailor.com/jobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Natixis in Portugal",
+  "karriere_url": "https://jobs.smartrecruiters.com/NatixisInPortugal",
+  "api_url": "https://api.smartrecruiters.com/v1/companies/NatixisInPortugal/postings?country=pt",
+  "prioritaet": 1
+ },
+ {
+  "name": "BAT Portugal (British American Tobacco)",
+  "karriere_url": "https://careers.bat.com/en/search-jobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Pleo",
+  "karriere_url": "https://jobs.ashbyhq.com/pleo",
+  "api_url": "https://api.ashbyhq.com/posting-api/job-board/pleo",
+  "prioritaet": 1
+ },
+ {
+  "name": "Sixt",
+  "karriere_url": "https://www.sixt.jobs/pt/jobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "AstraZeneca (Global Hub Lisbon)",
+  "karriere_url": "https://careers.astrazeneca.com/search-jobs/Lisbon%2C%20Portugal",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Amgen Capability Center Portugal",
+  "karriere_url": "https://careers.amgen.com/en/search-jobs/Lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Philip Morris International (Tabaqueira GBS)",
+  "karriere_url": "https://www.pmi.com/careers/explore-our-job-opportunities?location=Lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Ferring Pharmaceuticals (Lisbon Hub)",
+  "karriere_url": "https://ferring.wd3.myworkdayjobs.com/Ferring",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Essity (Business Services Hub Lisbon)",
+  "karriere_url": "https://www.essity.com/careers/jobs/?location=Lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Grünenthal (Lisbon Hub)",
+  "karriere_url": "https://careers.grunenthal.com/go/Location-Portugal/4707101/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Europcar Mobility Group Shared Service Centre",
+  "karriere_url": "https://careers.smartrecruiters.com/EuropcarMobilityGroup/shared-service-centre-portugal",
+  "api_url": "https://api.smartrecruiters.com/v1/companies/EuropcarMobilityGroup/postings?country=pt",
+  "prioritaet": 1
+ },
+ {
+  "name": "Uber (Lisbon Centre of Excellence)",
+  "karriere_url": "https://www.uber.com/global/en/careers/list/?location=PRT--Lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Allianz (Allianz Portugal, Allianz Partners, Allianz Trade)",
+  "karriere_url": "https://careers.allianz.com/search/?locationsearch=Lisboa",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "SAP Portugal (Porto Salvo)",
+  "karriere_url": "https://jobs.sap.com/search/?locationsearch=Porto+Salvo",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Boehringer Ingelheim Portugal",
+  "karriere_url": "https://jobs.boehringer-ingelheim.com/search/?locationsearch=Lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "BMW Portugal",
+  "karriere_url": "https://www.bmwgroup.jobs/es_pt/en/opportunities/internship-portugal.html",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Schneider Electric Portugal",
+  "karriere_url": "https://careers.se.com/jobs?location=Portugal",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "HEINEKEN Portugal (Sociedade Central de Cervejas)",
+  "karriere_url": "https://theheinekencompany-rmk.jobs.hr.cloud.sap/Portugal/go/Sales-Portugal-%28English%29/1328201/",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Procter & Gamble Portugal",
+  "karriere_url": "https://www.pgcareers.com/eu/en/search-results?keywords=Portugal",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "EDP (Konzernzentrale)",
+  "karriere_url": "https://www.edp.com/en/careers/job-opportunities",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Cisco Portugal",
+  "karriere_url": "https://jobs.cisco.com/jobs/SearchJobs/Lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Swiss Life Asset Managers (Competence Centre Lisbon)",
+  "karriere_url": "https://jobs.swisslife-am.com/",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Belfius (Technology & Operations Hub Lisbon)",
+  "karriere_url": "https://jobs.belfius.be/",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Zurich Insurance (Lisbon)",
+  "karriere_url": "https://www.careers.zurich.com/search/?locationsearch=Lissabon",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Bayer Portugal",
+  "karriere_url": "https://www.bayer.com/en/pt/career-portugal",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Beiersdorf Portugal",
+  "karriere_url": "https://www.beiersdorf.com/career/jobs?location=Portugal",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Henkel Portugal",
+  "karriere_url": "https://www.henkel.com/careers/jobs-and-application",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Lidl Portugal",
+  "karriere_url": "https://jobs.lidl.pt/",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Danone Portugal",
+  "karriere_url": "https://careers.danone.com/en-global/jobs.html",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Johnson & Johnson Portugal (MedTech / Innovative Medicine)",
+  "karriere_url": "https://www.careers.jnj.com/en/jobs/?location=Portugal",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Vodafone Portugal",
+  "karriere_url": "https://opportunities.vodafone.com/search/?locationsearch=Lisbon",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Microsoft Portugal",
+  "karriere_url": "https://jobs.careers.microsoft.com/global/en/search?lc=Lisbon%2C%20Lisboa%2C%20Portugal",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Amazon / AWS Portugal",
+  "karriere_url": "https://www.amazon.jobs/en/locations/lisbon-area-portugal",
+  "api_url": "https://www.amazon.jobs/en/search.json?normalized_country_code[]=PRT&result_limit=100",
+  "prioritaet": 2
+ },
+ {
+  "name": "Fujitsu Global Delivery Centre Portugal",
+  "karriere_url": "https://www.jobs.global.fujitsu.com/search/?locationsearch=Lisboa",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "DSV Portugal (inkl. DB Schenker)",
+  "karriere_url": "https://www.dsv.com/en/careers/job-search",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "DHL Portugal",
+  "karriere_url": "https://careers.dhl.com/eu/en/search-results?keywords=Portugal",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Roche Portugal",
+  "karriere_url": "https://careers.roche.com/global/en/search-results?keywords=Portugal",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Hiscox (Lisbon)",
+  "karriere_url": "https://www.hiscoxgroup.com/careers",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Kuehne+Nagel Portugal",
+  "karriere_url": "https://jobs.kuehne-nagel.com/global/en/portugal",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Vorwerk Portugal",
+  "karriere_url": "https://www.vorwerk.com/pt/pt/c/home/carreiras/vorwerk",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Galp (Konzernzentrale)",
+  "karriere_url": "https://www.galp.com/corp/en/careers",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Novartis Portugal",
+  "karriere_url": "https://www.novartis.com/careers/career-search?country%5B0%5D=LOC_PT",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Pfizer Portugal",
+  "karriere_url": "https://www.pfizer.com/about/careers/search-results?keywords=Portugal",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Capgemini Portugal (inkl. Capgemini Invent)",
+  "karriere_url": "https://www.capgemini.com/pt-en/careers/join-capgemini/job-search/?country_code=pt-en",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "valantic Portugal (valantic BT)",
+  "karriere_url": "https://jobs.valantic.com/search/?locationsearch=Lisbon",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Westernacher Consulting",
+  "karriere_url": "https://jobs.eu.lever.co/westernacher?location=Lisbon",
+  "api_url": "https://api.eu.lever.co/v0/postings/westernacher?mode=json",
+  "prioritaet": 1
+ },
+ {
+  "name": "NTT DATA Portugal",
+  "karriere_url": "https://careers.emeal.nttdata.com/s/careers?language=pt_PT",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Devoteam Portugal",
+  "karriere_url": "https://www.devoteam.com/en-pt/jobs/",
+  "api_url": "https://api.smartrecruiters.com/v1/companies/Devoteam/postings?country=pt",
+  "prioritaet": 1
+ },
+ {
+  "name": "Celfocus",
+  "karriere_url": "https://careers.celfocus.com/jobs",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "BearingPoint Portugal",
+  "karriere_url": "https://bearingpointportugal.teamtailor.com/jobs",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Simon-Kucher",
+  "karriere_url": "https://simon-kucher.csod.com/ux/ats/careersite/6/home/?c=simon-kucher",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Alvarez & Marsal Portugal",
+  "karriere_url": "https://careers.alvarezandmarsal.com/",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Stratesys Portugal",
+  "karriere_url": "https://www.stratesys-ts.com/en/careers/",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Axians Digital Consulting Portugal",
+  "karriere_url": "https://axiansdigitalconsulting.teamtailor.com/jobs",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Inetum Portugal",
+  "karriere_url": "https://www.inetum.com/pt/pt/careers",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Valtech Portugal",
+  "karriere_url": "https://careers.portugal.valtech.com/jobs",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Minsait (Indra) Portugal",
+  "karriere_url": "https://www.careers-page.com/minsait",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Avanade Portugal",
+  "karriere_url": "https://www.avanade.com/en/career",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "CGI Portugal",
+  "karriere_url": "https://www.cgi.com/portugal/pt-pt/cgi-summer-internship",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Alter Solutions Portugal",
+  "karriere_url": "https://jobs.smartrecruiters.com/AlterSolutions",
+  "api_url": "https://api.smartrecruiters.com/v1/companies/AlterSolutions/postings?country=pt",
+  "prioritaet": 3
+ },
+ {
+  "name": "Strategy& Portugal (PwC)",
+  "karriere_url": "https://www.strategyand.pwc.com/pt/en/careers.html",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Kaizen Institute Portugal",
+  "karriere_url": "https://kaizen.com/pt/carreiras-portugal/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Compass Lexecon (FTI)",
+  "karriere_url": "https://fticonsulting.wd108.myworkdayjobs.com/CompassLexeconCareers/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Forvis Mazars Portugal",
+  "karriere_url": "https://www.forvismazars.com/pt/en/join-us/job-offers",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "PNO Consultants Portugal",
+  "karriere_url": "https://www.pnoconsultants.com/careers/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Pipedrive",
+  "karriere_url": "https://www.pipedrive.com/en/jobs",
+  "api_url": "https://api.lever.co/v0/postings/pipedrive?mode=json",
+  "prioritaet": 1
+ },
+ {
+  "name": "Rydoo",
+  "karriere_url": "https://apply.workable.com/rydoo/",
+  "api_url": "https://apply.workable.com/api/v1/widget/accounts/rydoo",
+  "prioritaet": 1
+ },
+ {
+  "name": "Cyncly",
+  "karriere_url": "https://www.cyncly.com/en/careers",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Grover",
+  "karriere_url": "https://job-boards.greenhouse.io/grover",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/grover/jobs",
+  "prioritaet": 1
+ },
+ {
+  "name": "Salsify",
+  "karriere_url": "https://job-boards.greenhouse.io/salsify",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/salsify/jobs",
+  "prioritaet": 1
+ },
+ {
+  "name": "Finastra",
+  "karriere_url": "https://www.finastra.com/careers",
+  "api_url": "",
+  "prioritaet": 1
+ },
+ {
+  "name": "Ebury",
+  "karriere_url": "https://job-boards.eu.greenhouse.io/ebury",
+  "api_url": "https://boards-api.eu.greenhouse.io/v1/boards/ebury/jobs",
+  "prioritaet": 2
+ },
+ {
+  "name": "Amplemarket",
+  "karriere_url": "https://job-boards.eu.greenhouse.io/amplemarket",
+  "api_url": "https://boards-api.eu.greenhouse.io/v1/boards/amplemarket/jobs",
+  "prioritaet": 2
+ },
+ {
+  "name": "Fever",
+  "karriere_url": "https://careers.feverup.com/",
+  "api_url": "https://boards-api.eu.greenhouse.io/v1/boards/feverup/jobs",
+  "prioritaet": 2
+ },
+ {
+  "name": "Farfetch",
+  "karriere_url": "https://www.farfetch.com/careers",
+  "api_url": "https://api.lever.co/v0/postings/farfetch?mode=json",
+  "prioritaet": 2
+ },
+ {
+  "name": "iCapital",
+  "karriere_url": "https://job-boards.greenhouse.io/icapitalnetwork",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/icapitalnetwork/jobs",
+  "prioritaet": 2
+ },
+ {
+  "name": "Casafari",
+  "karriere_url": "https://www.casafari.com/careers/",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Flix",
+  "karriere_url": "https://flix.careers/",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Zeoos",
+  "karriere_url": "https://zeoos.com/",
+  "api_url": "",
+  "prioritaet": 2
+ },
+ {
+  "name": "Kinsta",
+  "karriere_url": "https://kinsta.com/careers/",
+  "api_url": "https://api.lever.co/v0/postings/kinsta?mode=json",
+  "prioritaet": 3
+ },
+ {
+  "name": "ComparaJá (CEG)",
+  "karriere_url": "https://job-boards.greenhouse.io/comparaja",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/comparaja/jobs",
+  "prioritaet": 3
+ },
+ {
+  "name": "Lighthouse",
+  "karriere_url": "https://job-boards.eu.greenhouse.io/lighthouse",
+  "api_url": "https://boards-api.eu.greenhouse.io/v1/boards/lighthouse/jobs",
+  "prioritaet": 3
+ },
+ {
+  "name": "Iterable",
+  "karriere_url": "https://job-boards.greenhouse.io/iterable",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/iterable/jobs",
+  "prioritaet": 3
+ },
+ {
+  "name": "Upwork",
+  "karriere_url": "https://job-boards.greenhouse.io/upwork",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/upwork/jobs",
+  "prioritaet": 3
+ },
+ {
+  "name": "Navan",
+  "karriere_url": "https://navan.com/careers",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "PagerDuty",
+  "karriere_url": "https://careers.pagerduty.com/",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/pagerduty/jobs",
+  "prioritaet": 3
+ },
+ {
+  "name": "TheFork",
+  "karriere_url": "https://job-boards.greenhouse.io/thefork",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/thefork/jobs",
+  "prioritaet": 3
+ },
+ {
+  "name": "Amenitiz",
+  "karriere_url": "https://job-boards.eu.greenhouse.io/amenitiz",
+  "api_url": "https://boards-api.eu.greenhouse.io/v1/boards/amenitiz/jobs",
+  "prioritaet": 3
+ },
+ {
+  "name": "Holidu",
+  "karriere_url": "https://www.holidu.com/careers",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "FREE NOW (Lyft)",
+  "karriere_url": "https://job-boards.greenhouse.io/freenow",
+  "api_url": "https://boards-api.greenhouse.io/v1/boards/freenow/jobs",
+  "prioritaet": 3
+ },
+ {
+  "name": "Timeleft",
+  "karriere_url": "https://timeleft.com/careers/",
+  "api_url": "https://boards-api.eu.greenhouse.io/v1/boards/timeleft/jobs",
+  "prioritaet": 3
+ },
+ {
+  "name": "Ventrata",
+  "karriere_url": "https://ventrata.com/careers",
+  "api_url": "https://apply.workable.com/api/v1/widget/accounts/ventrata",
+  "prioritaet": 3
+ },
+ {
+  "name": "Landing.jobs",
+  "karriere_url": "https://landing.jobs/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "HiJiffy",
+  "karriere_url": "https://www.hijiffy.com/careers",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Cargofive",
+  "karriere_url": "https://cargofive.com/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Sensei",
+  "karriere_url": "https://www.sensei.tech/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Checkfirst",
+  "karriere_url": "https://checkfirst.ai/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Barkyn",
+  "karriere_url": "https://www.barkyn.com/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Rauva",
+  "karriere_url": "https://www.rauva.com/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Doutor Finanças",
+  "karriere_url": "https://www.doutorfinancas.pt/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Wolt (DoorDash)",
+  "karriere_url": "https://careers.wolt.com/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Cabify",
+  "karriere_url": "https://cabify.careers/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Lime",
+  "karriere_url": "https://www.li.me/careers",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Dott",
+  "karriere_url": "https://ridedott.com/careers",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Jungle AI",
+  "karriere_url": "https://www.jungle.ai/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Otovo",
+  "karriere_url": "https://www.otovo.com/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "idealista",
+  "karriere_url": "https://www.idealista.pt/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Luma Financial Technologies",
+  "karriere_url": "https://lumafintech.com/careers/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Sama",
+  "karriere_url": "https://www.sama.com/careers",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Atlys",
+  "karriere_url": "https://www.atlys.com/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Mercadão",
+  "karriere_url": "https://mercadao.pt/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "Fixando",
+  "karriere_url": "https://fixando.pt/",
+  "api_url": "",
+  "prioritaet": 3
+ },
+ {
+  "name": "proSapient",
+  "karriere_url": "https://apply.workable.com/prosapient/",
+  "api_url": "https://apply.workable.com/api/v1/widget/accounts/prosapient",
+  "prioritaet": 1
+ }
+]
