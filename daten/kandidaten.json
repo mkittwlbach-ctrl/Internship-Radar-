@@ -1,25 +1,18 @@
 {
  "meta": {
-  "stand": "2026-11-25T15:07Z",
-  "firmen": 178,
-  "ok": 173,
-  "fehler": 5,
-  "stellen_lissabon": 1610,
-  "kandidaten": 294
+  "stand": "2026-11-26T13:00Z",
+  "datum": "2026-11-26",
+  "fertig": true,
+  "firmen": 177,
+  "ok": 150,
+  "leer": 21,
+  "fehler": 6,
+  "stellen_lissabon": 871,
+  "kandidaten": 220,
+  "neu": 220,
+  "weg": 0
  },
  "stellen": [
-  {
-   "titel": "Product Engineer",
-   "ort": "Lisbon",
-   "url": "https://jobs.ashbyhq.com/Bounce/34286e2c-d01e-4704-9b81-9ab87cad2c29",
-   "firma": "Bounce"
-  },
-  {
-   "titel": "Product Designer",
-   "ort": "Lisbon",
-   "url": "https://jobs.ashbyhq.com/Bounce/c6b97346-9072-4311-94a3-e68ef740394e",
-   "firma": "Bounce"
-  },
   {
    "titel": "Partnerships, Sales Internship",
    "ort": "Lisbon",
@@ -33,9 +26,9 @@
    "firma": "Bounce"
   },
   {
-   "titel": "Accounts Receivable Accountant",
+   "titel": "(Junior) Customer Escalation Manager - French Speaker",
    "ort": "Lisbon / Lisbon",
-   "url": "https://jobs.lever.co/emma-sleep/859c3397-b890-41d8-896a-17aa67d5f68e",
+   "url": "https://jobs.lever.co/emma-sleep/83014287-152d-4fa2-90b7-0e374b0839c4",
    "firma": "Emma – The Sleep Company"
   },
   {
@@ -66,6 +59,12 @@
    "titel": "People Process Automation Intern",
    "ort": "Lisbon / Lisbon",
    "url": "https://jobs.lever.co/emma-sleep/ed8efcfe-efe9-436a-877f-16a42265911d",
+   "firma": "Emma – The Sleep Company"
+  },
+  {
+   "titel": "Performance Marketing Intern",
+   "ort": "Lisbon / Lisbon",
+   "url": "https://jobs.lever.co/emma-sleep/6c8ef2cf-b418-4534-ac4e-a2dd7651e027",
    "firma": "Emma – The Sleep Company"
   },
   {
@@ -207,10 +206,10 @@
    "firma": "Mercedes-Benz.io"
   },
   {
-   "titel": "Expert Product Designer",
-   "ort": "Remote - Portugal",
-   "url": "https://job-boards.greenhouse.io/swordhealth/jobs/4516727009",
-   "firma": "Sword Health"
+   "titel": "Product Manager Intern (2027) - Lisbon, PT",
+   "ort": "In-Office",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008",
+   "firma": "Cloudflare"
   },
   {
    "titel": "Growth Coordinator",
@@ -225,22 +224,22 @@
    "firma": "Powerdot"
   },
   {
-   "titel": "Sales Engineer / Lisbon",
-   "ort": "Lisbon, Lisboa, Portugal Lisbon Portugal",
-   "url": "https://transperfect.com/o/sales-engineer-lisbon",
-   "firma": "Unbabel"
-  },
-  {
    "titel": "Compliance & Privacy Analyst | Lisbon",
    "ort": "Lisbon, Lisboa, Portugal Lisbon Portugal",
    "url": "https://transperfect.com/o/compliance-privacy-analyst-lisbon",
    "firma": "Unbabel"
   },
   {
-   "titel": "Data Engineering | Intern | Lisbon",
-   "ort": "Lisbon, Lisboa, Portugal Lisbon Portugal",
-   "url": "https://transperfect.com/o/data-engineering-intern-lisbon-3",
-   "firma": "Unbabel"
+   "titel": "Key Account Manager",
+   "ort": "Lisbon, Portugal Lisbon Portugal",
+   "url": "https://bloqit.teamtailor.com/jobs/8777377-key-account-manager",
+   "firma": "Bloq.it"
+  },
+  {
+   "titel": "Founder's Associate",
+   "ort": "Lisbon, Portugal Lisbon Portugal",
+   "url": "https://bloqit.teamtailor.com/jobs/7908443-founder-s-associate",
+   "firma": "Bloq.it"
   },
   {
    "titel": "Product Owner & Data Scientist",
@@ -255,22 +254,10 @@
    "firma": "Volkswagen Digital Solutions"
   },
   {
-   "titel": "SAP SuccessFactors Consultant - EC Payroll",
-   "ort": "Lisbon / Lisbon",
-   "url": "https://jobs.eu.lever.co/vwgds/58c58524-e6be-4fdc-81d7-313d1bca8da2",
-   "firma": "Volkswagen Digital Solutions"
-  },
-  {
    "titel": "Business Development Representative - Lisboa",
    "ort": "Lisbon",
    "url": "https://jobs.ashbyhq.com/teya/2e08e124-fe67-48c7-bb54-e3cb2a8d6b82",
    "firma": "Teya"
-  },
-  {
-   "titel": "Software Engineer - Product Engineering & Maintenance (all genders)",
-   "ort": "Lisbon Lisbon pt",
-   "url": "https://jobs.smartrecruiters.com/rolandberger/744000160825247",
-   "firma": "Roland Berger"
   },
   {
    "titel": "Business Analysts",
@@ -294,12 +281,6 @@
    "titel": "Accounting General Ledger Trainee",
    "ort": "Lisbon Lisbon Portugal Lisbon Portugal",
    "url": "https://apply.workable.com/j/384F31B61E",
-   "firma": "Greenvolt"
-  },
-  {
-   "titel": "Accounts Receivable Trainee",
-   "ort": "Lisbon Lisbon Portugal Lisbon Portugal",
-   "url": "https://apply.workable.com/j/7CECC4C647",
    "firma": "Greenvolt"
   },
   {
@@ -339,18 +320,6 @@
    "firma": "Greenvolt"
   },
   {
-   "titel": "Technical Area Trainee",
-   "ort": "Mortágua Viseu District Portugal Mortágua Portugal",
-   "url": "https://apply.workable.com/j/AE66E5ACF7",
-   "firma": "Greenvolt"
-  },
-  {
-   "titel": "Accountant",
-   "ort": "Lisbon / Lisbon",
-   "url": "https://jobs.eu.lever.co/efficioconsulting/0165d00c-38a3-4815-a24a-cfe9bcf6ee81",
-   "firma": "Efficio Consulting"
-  },
-  {
    "titel": "Data & AI Consultant",
    "ort": "Lisbon / Lisbon",
    "url": "https://jobs.eu.lever.co/efficioconsulting/52a4cb7c-3f4a-4f13-a7b5-4b9e682d328e",
@@ -363,21 +332,21 @@
    "firma": "Efficio Consulting"
   },
   {
+   "titel": "Visiting Analyst Summer Internship - 2027",
+   "ort": "Lisbon Lisboa Portugal",
+   "url": "https://semapanext-1706002129.teamtailor.com/jobs/8625551-visiting-analyst-summer-internship-2027",
+   "firma": "Semapa Next"
+  },
+  {
    "titel": "Junior Financial Crime | SG",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163663059",
+   "ort": "Portugal  pt",
+   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163722489",
    "firma": "Natixis in Portugal"
   },
   {
    "titel": "Junior QA Analyst (French Speaker) | BPCE-SI",
    "ort": "Portugal  pt",
    "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163271409",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "Business Analyst w/SQL (French Speaker) | BPCE-SI",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163250790",
    "firma": "Natixis in Portugal"
   },
   {
@@ -390,18 +359,6 @@
    "titel": "GCP/Power BI Data Analyst (French Speaker) | BPCE-SI",
    "ort": "Portugal  pt",
    "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163248294",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "Junior Data Engineer | TE&S",
-   "ort": "Portugal  pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163179261",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "Junior Credit Risk Analyst - Financial Institutions | Risk",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000162568489",
    "firma": "Natixis in Portugal"
   },
   {
@@ -429,51 +386,9 @@
    "firma": "Natixis in Portugal"
   },
   {
-   "titel": "Support Functions Intern | Natixis Trainee Program 2027 S1",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000159699129",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "IT Intern | Natixis Trainee Program 2027 S1",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000159699089",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "Banking Intern | Natixis Trainee Program 2027 S1",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000159699079",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "Solvency Metrics Analyst | Finance",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000159334849",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "Junior Liquidity Metrics Analyst | Finance",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000159154169",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "Junior Surveillance Officer | ECOMM SG",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000152222849",
-   "firma": "Natixis in Portugal"
-  },
-  {
    "titel": "QA Analyst (French Speaker) | BPCE-SI",
    "ort": "Portugal  pt",
    "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000151810079",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "Salesforce Developer | TE&S",
-   "ort": "Portugal  pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000145799609",
    "firma": "Natixis in Portugal"
   },
   {
@@ -486,12 +401,6 @@
    "titel": "Sales Development Representative - UK & I",
    "ort": "Lisbon / London",
    "url": "https://jobs.ashbyhq.com/pleo/53e879fd-10b0-42cf-9647-d623427c9b7a",
-   "firma": "Pleo"
-  },
-  {
-   "titel": "Talent Acquisition Partner",
-   "ort": "Lisbon",
-   "url": "https://jobs.ashbyhq.com/pleo/fe3ce1d0-a0cf-4ba5-bf04-dd98d2ebb6b4",
    "firma": "Pleo"
   },
   {
@@ -531,12 +440,6 @@
    "firma": "Pleo"
   },
   {
-   "titel": "Talent Acquisition Partner (12 month Fixed Term Contract)",
-   "ort": "Lisbon / Madrid",
-   "url": "https://jobs.ashbyhq.com/pleo/27b99d4e-0698-4486-b57c-98b810864619",
-   "firma": "Pleo"
-  },
-  {
    "titel": "Business Applications Specialist (Order to Cash)",
    "ort": "Lisbon / Madrid",
    "url": "https://jobs.ashbyhq.com/pleo/8623378e-ec0e-4d0a-8532-67933bcdca36",
@@ -549,15 +452,9 @@
    "firma": "Amazon / AWS Portugal"
   },
   {
-   "titel": "Devoteam Cyber Trust | Cybersecurity Engineer (IAM) | IEFP Internship",
+   "titel": "Devoteam Cyber Trust  | Junior Cloud SecOps | Sustainable Construction Sector",
    "ort": "Lisboa Lisboa pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000162699719",
-   "firma": "Devoteam Portugal"
-  },
-  {
-   "titel": "Banking Sector | Business Analyst",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000162689489",
+   "url": "https://jobs.smartrecruiters.com/Devoteam/744000163722149",
    "firma": "Devoteam Portugal"
   },
   {
@@ -580,32 +477,14 @@
   },
   {
    "titel": "Creative Tech | Web Analyst",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000161512238",
-   "firma": "Devoteam Portugal"
-  },
-  {
-   "titel": "Creative Tech | Web Analyst",
    "ort": "Lisboa Lisboa pt",
    "url": "https://jobs.smartrecruiters.com/Devoteam/744000161511398",
-   "firma": "Devoteam Portugal"
-  },
-  {
-   "titel": "Human Resources Trainee",
-   "ort": "Lisboa Lisboa pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000161121719",
    "firma": "Devoteam Portugal"
   },
   {
    "titel": "Key Account Manager",
    "ort": "Lisboa Lisboa pt",
    "url": "https://jobs.smartrecruiters.com/Devoteam/744000161056020",
-   "firma": "Devoteam Portugal"
-  },
-  {
-   "titel": "Low Code Unit | Power Platform Consultant",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000159839380",
    "firma": "Devoteam Portugal"
   },
   {
@@ -651,24 +530,6 @@
    "firma": "Devoteam Portugal"
   },
   {
-   "titel": "Investment Sector |  Internal control support",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000139637043",
-   "firma": "Devoteam Portugal"
-  },
-  {
-   "titel": "Devoteam Cyber Trust | Product Engineer – Security Platform",
-   "ort": "Lisboa Lisboa pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000136431469",
-   "firma": "Devoteam Portugal"
-  },
-  {
-   "titel": "Distributed Cloud | Data Analyst",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000136270900",
-   "firma": "Devoteam Portugal"
-  },
-  {
    "titel": "Distributed Cloud | Data Analyst",
    "ort": "Lisboa Lisboa pt",
    "url": "https://jobs.smartrecruiters.com/Devoteam/744000136275878",
@@ -687,12 +548,6 @@
    "firma": "Devoteam Portugal"
   },
   {
-   "titel": "Digital Impulse | Business Consultant",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000128201651",
-   "firma": "Devoteam Portugal"
-  },
-  {
    "titel": "Devoteam Cyber Trust | Cybersecurity Analyst",
    "ort": "Lisboa  pt",
    "url": "https://jobs.smartrecruiters.com/Devoteam/744000123731106",
@@ -705,27 +560,9 @@
    "firma": "Devoteam Portugal"
   },
   {
-   "titel": "Banking Sector | Salesforce Developer",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000114738932",
-   "firma": "Devoteam Portugal"
-  },
-  {
    "titel": "Telecom Sector | Data Analyst",
    "ort": "Lisboa Lisboa pt",
    "url": "https://jobs.smartrecruiters.com/Devoteam/744000113675443",
-   "firma": "Devoteam Portugal"
-  },
-  {
-   "titel": "Banking Sector | Data Analyst",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000104976835",
-   "firma": "Devoteam Portugal"
-  },
-  {
-   "titel": "Banking Sector | Cyber Security Analyst",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000101690448",
    "firma": "Devoteam Portugal"
   },
   {
@@ -741,33 +578,51 @@
    "firma": "Devoteam Portugal"
   },
   {
-   "titel": "Retail & E-Commerce | Salesforce Commerce Cloud",
-   "ort": "Porto Porto pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000100393916",
-   "firma": "Devoteam Portugal"
+   "titel": "Microsoft Dynamics 365 Technical Consultant",
+   "ort": "Lisboa Lisboa Portugal",
+   "url": "https://bearingpointportugal.teamtailor.com/jobs/8447541-microsoft-dynamics-365-technical-consultant",
+   "firma": "BearingPoint Portugal"
+  },
+  {
+   "titel": "SAP HCM Consultant",
+   "ort": "Lisboa Portugal",
+   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8769731-sap-hcm-consultant",
+   "firma": "Axians Digital Consulting Portugal"
+  },
+  {
+   "titel": "SAP BDC Consultant",
+   "ort": "Lisboa Portugal",
+   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8681427-sap-bdc-consultant",
+   "firma": "Axians Digital Consulting Portugal"
+  },
+  {
+   "titel": "SAP FI-TR Consultant",
+   "ort": "Lisboa Portugal \n            Porto Portugal",
+   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8676164-sap-fi-tr-consultant",
+   "firma": "Axians Digital Consulting Portugal"
+  },
+  {
+   "titel": "SAP Logistics Consultant",
+   "ort": "Lisboa Portugal",
+   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8181057-sap-logistics-consultant",
+   "firma": "Axians Digital Consulting Portugal"
+  },
+  {
+   "titel": "SAP SD Consultant",
+   "ort": "Lisboa Portugal",
+   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8180181-sap-sd-consultant",
+   "firma": "Axians Digital Consulting Portugal"
+  },
+  {
+   "titel": "Graduate Program",
+   "ort": "Lisboa Portugal \n            Porto Portugal",
+   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8025931-graduate-program",
+   "firma": "Axians Digital Consulting Portugal"
   },
   {
    "titel": "Private Debt Credit Analyst",
    "ort": "Lisbon  pt",
    "url": "https://jobs.smartrecruiters.com/AlterSolutions/744000067212022",
-   "firma": "Alter Solutions Portugal"
-  },
-  {
-   "titel": "Business Analyst for Credit Risk Stress Testing",
-   "ort": "Porto  pt",
-   "url": "https://jobs.smartrecruiters.com/AlterSolutions/744000063217845",
-   "firma": "Alter Solutions Portugal"
-  },
-  {
-   "titel": "RPA Analyst/Developer",
-   "ort": "Lisbon  pt",
-   "url": "https://jobs.smartrecruiters.com/AlterSolutions/744000053982207",
-   "firma": "Alter Solutions Portugal"
-  },
-  {
-   "titel": "Junior Platform Engineer",
-   "ort": "Oeiras  pt",
-   "url": "https://jobs.smartrecruiters.com/AlterSolutions/743999994940735",
    "firma": "Alter Solutions Portugal"
   },
   {
@@ -801,33 +656,9 @@
    "firma": "Amplemarket"
   },
   {
-   "titel": "Legal Counsel - Commercial/General",
-   "ort": "Lisbon",
-   "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4983679101",
-   "firma": "Fever"
-  },
-  {
-   "titel": "Translator (Product Information) – Swedish",
-   "ort": "PT Lisboa, Portugal / PT Lisboa, Portugal",
-   "url": "https://jobs.lever.co/farfetch/49dbce32-8ff3-4940-a475-550cd906bd20",
-   "firma": "Farfetch"
-  },
-  {
    "titel": "Fund Finance - Associate",
    "ort": "Lisbon, Portugal",
    "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8885060002",
-   "firma": "iCapital"
-  },
-  {
-   "titel": "Software Engineer - Associate",
-   "ort": "Lisbon, Portugal",
-   "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8576779002",
-   "firma": "iCapital"
-  },
-  {
-   "titel": "UiPath - RPA Developer (Python) -  Associate",
-   "ort": "Lisbon, Portugal",
-   "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8844044002",
    "firma": "iCapital"
   },
   {
@@ -888,6 +719,12 @@
    "titel": "Business Transformation Analyst - ComparaJa",
    "ort": "Lisbon, Portugal",
    "url": "https://job-boards.greenhouse.io/comparaja/jobs/8200935003",
+   "firma": "ComparaJá (CEG)"
+  },
+  {
+   "titel": "Comercial de Crédito",
+   "ort": "Lisboa",
+   "url": "https://job-boards.greenhouse.io/comparaja/jobs/8044267003",
    "firma": "ComparaJá (CEG)"
   },
   {
@@ -1113,45 +950,21 @@
    "firma": "proSapient"
   },
   {
-   "titel": "Software Engineer - Customer Success Portugal View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Netherlands View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Software Engineer - Customer Success Portugal View Job Engin",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=7412899",
+   "titel": "Advanced Product Manager - Digital Trust Portugal View Job",
+   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=7978882",
    "firma": "Feedzai"
-  },
-  {
-   "titel": "Advanced Software Engineer - Customer Success São Paulo, Brazil View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Netherlands View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Software Engineer - Customer Success Portugal View Job Engin",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8121243",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Key Account Manager",
-   "ort": "Key Account Manager Business Development · Lisbon, Portugal · Hybrid",
-   "url": "https://bloqit.teamtailor.com/jobs/8777377-key-account-manager",
-   "firma": "Bloq.it"
-  },
-  {
-   "titel": "Operations Excellence Consultant",
-   "ort": "Operations Excellence Consultant Operations Strategy · Porto, Portugal · Hybrid",
-   "url": "https://bloqit.teamtailor.com/jobs/8550213-operations-excellence-consultant",
-   "firma": "Bloq.it"
-  },
-  {
-   "titel": "Accounts Receivable Specialist",
-   "ort": "Accounts Receivable Specialist Finance · Porto, Portugal",
-   "url": "https://bloqit.teamtailor.com/jobs/8517553-accounts-receivable-specialist",
-   "firma": "Bloq.it"
-  },
-  {
-   "titel": "Founder's Associate",
-   "ort": "Founder's Associate Skunkworks · Lisbon, Portugal · Hybrid",
-   "url": "https://bloqit.teamtailor.com/jobs/7908443-founder-s-associate",
-   "firma": "Bloq.it"
   },
   {
    "titel": "Partnerships",
-   "ort": "Rua Marquês de Fronteira 8 4º Esq 1070-289 Lisboa Portugal COMPANIES Apply for funding Partnerships Corporate gift cards HELP Help centre Customer Support Contacts GOPARITY About Impact report Impact",
+   "ort": "Rua Marquês de Fronteira 8 4º Esq 1070-289 Lisboa Portugal COMPANIES Apply for funding Partnerships Corporate gift cards HELP Help centre Customer Support Contacts GOPARITY About Impact report Impact Angels Club INVESTOR",
    "url": "https://goparity.com/partnerships/sustainable-employee-benefits",
+   "firma": "Goparity"
+  },
+  {
+   "titel": "Contacts",
+   "ort": "Rua Marquês de Fronteira 8 4º Esq 1070-289 Lisboa Portugal COMPANIES Apply for funding Partnerships Corporate gift cards HELP Help centre Customer Support Contacts GOPARITY About Impact report Impact Angels Club INVESTOR",
+   "url": "https://goparity.zendesk.com/hc/en-gb/articles/29813708946321-How-can-I-contact-Goparity",
    "firma": "Goparity"
   },
   {
@@ -1174,51 +987,39 @@
   },
   {
    "titel": "From Rio to Lisbon and Back to Mollie: Alicia Zavalis’ Journey of Courage and Career Growth August 19, 2025",
-   "ort": "In Lisbon, our product and engineering teams are building the future of payments. It’s where innovation meets collaboration, all against the backdrop of stunning ocean views 🌊 and plenty of sunshine",
+   "ort": "In Lisbon, our product and engineering teams are building the future of payments. It’s where innovation meets collaboration, all against the backdrop of stunning ocean views 🌊 and plenty of sunshine ☀️. Here, solving co",
    "url": "https://jobs.mollie.com/articles/from-rio-to-lisbon-and-back-to-mollie-alicia-zavalis-journey-of-courage-and-career-growth",
    "firma": "Mollie"
   },
   {
-   "titel": "Payroll Specialist (International – Europe / Multi-Country)",
-   "ort": "Payroll Specialist (International – Europe / Multi-Country) Location Lisbon, Lisbon, Portugal Full Time Regular Seeking a Payroll Specialist to ensure accurate and timely payroll processing across mul",
-   "url": "https://jobs.organon.com/us/en/job/R543023/Payroll-Specialist-International-Europe-Multi-Country",
-   "firma": "Organon"
+   "titel": "Corporate Office Sustainability, Environment, Health and Safety - Own Operations Expert (f/m/div)",
+   "ort": "Corporate Office Sustainability, Environment, Health and Safety - Own Operations Expert (f/m/div) Áreas de trabalho Outros Locais da Bosch Lisboa Híbrido Vaga publicada 11/25/2026",
+   "url": "https://jobs.bosch.com/pt/job/REF298891Y-corporate-office-sustainability-environment-health-and-safety-own-operations-expert-f-m-div",
+   "firma": "Bosch Portugal"
   },
   {
-   "titel": "Trainee - Talent Acquisition",
-   "ort": "Trainee - Talent Acquisition Lisboa, PT 23/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, P",
-   "url": "https://jobs.deloitte.pt/job/Lisboa-Trainee-Talent-Acquisition/1378192155/",
+   "titel": "L' Internship Program December 2026: Brand Activation, PR & Advocacy, Key Account & Commercial Operations (Lisbon) Lisbon, Lisbon District, Portugal",
+   "ort": "L' Internship Program December 2026: Brand Activation, PR & Advocacy, Key Account & Commercial Operations (Lisbon) Lisbon, Lisbon District, Portugal Save for Later",
+   "url": "https://careers.loreal.com/en/job/lisbon/l-internship-program-december-2026-brand-activation-pr-and-advocacy-key-account-and-commercial-oper/3456/47247592576",
+   "firma": "L'Oréal Portugal"
+  },
+  {
+   "titel": "Operate Associate Analyst | Backoffice Porto",
+   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
+   "url": "https://jobs.deloitte.pt/job/Porto-Operate-Associate-Analyst-Backoffice-Porto/1354196655/",
    "firma": "Deloitte Portugal"
   },
   {
    "titel": "Operate Associate Analyst | Backoffice Lisboa",
-   "ort": "Trainee - Talent Acquisition Lisboa, PT 23/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, P",
+   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
    "url": "https://jobs.deloitte.pt/job/Lisboa-Operate-Associate-Analyst-Backoffice-Lisboa/1374120155/",
    "firma": "Deloitte Portugal"
   },
   {
    "titel": "Consultant Incentivos",
-   "ort": "Trainee - Talent Acquisition Lisboa, PT 23/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, P",
+   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
    "url": "https://jobs.deloitte.pt/job/Lisboa-Consultant-Incentivos/1370699955/",
    "firma": "Deloitte Portugal"
-  },
-  {
-   "titel": "Operate Associate Analyst | Backoffice Porto",
-   "ort": "Trainee - Talent Acquisition Lisboa, PT 23/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, P",
-   "url": "https://jobs.deloitte.pt/job/Porto-Operate-Associate-Analyst-Backoffice-Porto/1354196655/",
-   "firma": "Deloitte Portugal"
-  },
-  {
-   "titel": "Junior Backend .NET Engineer",
-   "ort": "Junior Backend .NET Engineer Matosinhos, Portugal Posted on: 24/11/2026 – Application Deadline: 09/12/2026",
-   "url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home/requisition/609?c=pwcportugal",
-   "firma": "PwC Portugal"
-  },
-  {
-   "titel": "Public & Non-Profit Sectors Accountant",
-   "ort": "Public & Non-Profit Sectors Accountant Porto, Portugal Posted on: 20/11/2026 – Application Deadline: -",
-   "url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home/requisition/606?c=pwcportugal",
-   "firma": "PwC Portugal"
   },
   {
    "titel": "Regulatory Assistant Associate",
@@ -1230,12 +1031,6 @@
    "titel": "IT Strategy Consultant",
    "ort": "IT Strategy Consultant Portugal Posted on: 17/11/2026 – Application Deadline: 30/11/2026",
    "url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home/requisition/589?c=pwcportugal",
-   "firma": "PwC Portugal"
-  },
-  {
-   "titel": "Accountant",
-   "ort": "Accountant Lisboa, Portugal Posted on: 12/11/2026 – Application Deadline: -",
-   "url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home/requisition/600?c=pwcportugal",
    "firma": "PwC Portugal"
   },
   {
@@ -1263,27 +1058,15 @@
    "firma": "PwC Portugal"
   },
   {
-   "titel": "Junior HR Generalist",
-   "ort": "Junior HR Generalist Matosinhos, Portugal Posted on: 04/11/2026 – Application Deadline: -",
-   "url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home/requisition/550?c=pwcportugal",
-   "firma": "PwC Portugal"
-  },
-  {
-   "titel": "Accountant",
-   "ort": "Accountant Coimbra, Portugal Posted on: 02/11/2026 – Application Deadline: -",
-   "url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home/requisition/593?c=pwcportugal",
-   "firma": "PwC Portugal"
+   "titel": "mail_outline Contact us",
+   "ort": "list_alt Submit RFP mail_outline Contact us Portugal (EN) expand_more",
+   "url": "https://kpmg.com/pt/en/contact/general-contact.html",
+   "firma": "KPMG Portugal"
   },
   {
    "titel": "Kearney Summer Associate 2027",
-   "ort": "Kearney Summer Associate 2027 Intern/Trainee Americas Atlanta, Bangkok, Boston, Chicago, Dallas, Dubai, Jakarta, Kuala Lumpur, Lisbon, Madrid, Mexico City, New York, San Francisco, Sao Paulo, Singapor",
+   "ort": "Kearney Summer Associate 2027 Intern/Trainee Americas Atlanta, Bangkok, Boston, Chicago, Dallas, Dubai, Jakarta, Kuala Lumpur, Lisbon, Madrid, Mexico City, New York, San Francisco, Sao Paulo, Singapore, Tokyo, Toronto, W",
    "url": "https://kearney.recsolu.com/jobs/WgAMJSQyGzVX_CtKOIvAGA?job_board_id=EPd41qlA4_03IncZMnWyRQ",
-   "firma": "Kearney"
-  },
-  {
-   "titel": "Kearney Summer Business Analyst Intern 2027",
-   "ort": "Kearney Summer Business Analyst Intern 2027 Intern/Trainee Europe Lisbon Aug 26",
-   "url": "https://kearney.recsolu.com/jobs/w51dHIkqjmCH7qVG2XoDIg?job_board_id=EPd41qlA4_03IncZMnWyRQ",
    "firma": "Kearney"
   },
   {
@@ -1293,58 +1076,28 @@
    "firma": "Defined.ai"
   },
   {
-   "titel": "Junior Accountant",
-   "ort": "Junior Accountant",
-   "url": "https://zeissgroup.wd3.myworkdayjobs.com/en-US/External/job/Lisboa/Junior-Accountant_JR_1055535",
-   "firma": "ZEISS Portugal"
-  },
-  {
-   "titel": "Payroll Trainee (F/M/X)",
-   "ort": "Payroll Trainee (F/M/X) Portugal - Lisbon, PT Human Resources Internship Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X)",
-   "url": "https://careers.solvay.com/job/Portugal-Lisbon-Payroll-Trainee-%28FMX%29/1370380957/",
-   "firma": "Solvay"
-  },
-  {
    "titel": "Finance and Analytics Trainee (F/M/X)",
-   "ort": "Payroll Trainee (F/M/X) Portugal - Lisbon, PT Human Resources Internship Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X)",
+   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
    "url": "https://careers.solvay.com/job/Portugal-Lisbon-Finance-and-Analytics-Trainee-%28FMX%29/1376460657/",
    "firma": "Solvay"
   },
   {
    "titel": "Digital Technologies Controller Trainee (F/M/X)",
-   "ort": "Payroll Trainee (F/M/X) Portugal - Lisbon, PT Human Resources Internship Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X)",
+   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
    "url": "https://careers.solvay.com/job/Portugal-Lisbon-Digital-Technologies-Controller-Trainee-%28FMX%29/1377177557/",
    "firma": "Solvay"
   },
   {
-   "titel": "Talent Acquisition Trainee - French Speaker (F/M/X)",
-   "ort": "Payroll Trainee (F/M/X) Portugal - Lisbon, PT Human Resources Internship Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X)",
-   "url": "https://careers.solvay.com/job/Portugal-Lisbon-Talent-Acquisition-Trainee-French-Speaker-%28FMX%29/1377932957/",
+   "titel": "IT PMO Trainee (F/M/X)",
+   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
+   "url": "https://careers.solvay.com/job/Portugal-Lisbon-IT-PMO-Trainee-%28FMX%29/1377029657/",
    "firma": "Solvay"
   },
   {
-   "titel": "RPA Developer Trainee (H/M/X)",
-   "ort": "Payroll Trainee (F/M/X) Portugal - Lisbon, PT Human Resources Internship Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X)",
-   "url": "https://careers.solvay.com/job/Portugal-Lisbon-RPA-Developer-Trainee-%28HMX%29/1375975457/",
-   "firma": "Solvay"
-  },
-  {
-   "titel": "Accounts Payable Specialist (all genders)",
-   "ort": "Title Accounts Payable Specialist (all genders) Other Locations Lisbon, PT Business Unit Finance Job Experience Level Professionals Job Category/Job Family Finance / Controlling",
-   "url": "https://careers.beyondgravity.com/BeyondGravity/job/Lisbon-Accounts-Payable-Specialist-%28all-genders%29/1447571133/",
-   "firma": "Beyond Gravity"
-  },
-  {
-   "titel": "Visiting Analyst Summer Internship - 2027 Investment Team · Lisbon · Hybrid",
-   "ort": "Visiting Analyst Summer Internship - 2027 Investment Team · Lisbon · Hybrid",
-   "url": "https://semapanext-1706002129.teamtailor.com/jobs/8625551-visiting-analyst-summer-internship-2027",
-   "firma": "Semapa Next"
-  },
-  {
-   "titel": "Working Student Accounts Receivable (m/f/d) - French speaker",
-   "ort": "Finance & Internal Audit View Working Student Accounts Receivable (m/f/d) - French speaker Full-time Lisbon, Portugal",
-   "url": "https://www.sixt.jobs/pt/jobs/480ea813-afd9-4faa-a6aa-c26d064022c4",
-   "firma": "Sixt"
+   "titel": "Route to Market Trade Analyst Location: Lisbon, Lisbon District",
+   "ort": "Save job Route to Market Trade Analyst Location: Lisbon, Lisbon District",
+   "url": "https://careers.bat.com/en/job/lisbon/route-to-market-trade-analyst/1045/47228866816",
+   "firma": "BAT Portugal (British American Tobacco)"
   },
   {
    "titel": "Collections Controller (m/f/d) - International Intermediary Business (B2P)",
@@ -1354,7 +1107,7 @@
   },
   {
    "titel": "Telesales Hunter - French Speaking",
-   "ort": "View Telesales Hunter - French Speaking Full-time Lisbon, Portugal",
+   "ort": "Sales View Telesales Hunter - French Speaking Full-time Lisbon, Portugal",
    "url": "https://www.sixt.jobs/pt/jobs/6be2fa8c-eaa1-4577-a6a8-aca1c00fa28e",
    "firma": "Sixt"
   },
@@ -1366,57 +1119,39 @@
   },
   {
    "titel": "Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal",
-   "ort": "Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE",
+   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
    "url": "https://careers.astrazeneca.com/job/lisbon/associate-business-analyst-global-business-services-gbs/7684/97917643360",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Engagement Analyst , Portugal",
-   "ort": "Engagement Analyst , Portugal VIEW ROLE",
+   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
    "url": "https://careers.astrazeneca.com/job/portugal/engagement-analyst/7684/103737663328",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Scientific Communication & Medical Information Analyst , Portugal",
-   "ort": "Scientific Communication & Medical Information Analyst , Portugal VIEW ROLE",
+   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
    "url": "https://careers.astrazeneca.com/job/portugal/scientific-communication-and-medical-information-analyst/7684/102772905744",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Scientific Communication & Medical Information Analyst , Portugal",
-   "ort": "Scientific Communication & Medical Information Analyst , Portugal VIEW ROLE",
+   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
    "url": "https://careers.astrazeneca.com/job/portugal/scientific-communication-and-medical-information-analyst/7684/102772905728",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
-   "titel": "HR Solutions Partner , Portugal",
-   "ort": "HR Solutions Partner , Portugal VIEW ROLE",
-   "url": "https://careers.astrazeneca.com/job/portugal/hr-solutions-partner/7684/101354556128",
-   "firma": "AstraZeneca (Global Hub Lisbon)"
-  },
-  {
    "titel": "Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon",
-   "ort": "28 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 C",
+   "ort": "Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button",
    "url": "https://careers.amgen.com/en/job/lisbon/operations-performance-and-reporting-analyst/87/103726673296",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Oct. 15, 2026 CRM Operations Specialist Portugal - Lisbon",
-   "ort": "28 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 C",
+   "ort": "Oct. 15, 2026 CRM Operations Specialist Portugal - Lisbon Save Job Button",
    "url": "https://careers.amgen.com/en/job/lisbon/crm-operations-specialist/87/101999675024",
    "firma": "Amgen Capability Center Portugal"
-  },
-  {
-   "titel": "Accounting & Reporting Specialist",
-   "ort": "Accounting & Reporting Specialist",
-   "url": "https://ferring.wd3.myworkdayjobs.com/en-US/Ferring/job/Lisbon-Portugal/Accounting---Reporting-Specialist_R0038818",
-   "firma": "Ferring Pharmaceuticals (Lisbon Hub)"
-  },
-  {
-   "titel": "Job category",
-   "ort": "Title Location Job category Date posted",
-   "url": "https://careers.grunenthal.com/go/Location-Portugal/4707101/?q=&sortColumn=sort_department&sortDirection=desc#hdrDepartmentButton",
-   "firma": "Grünenthal (Lisbon Hub)"
   },
   {
    "titel": "Supply Network Planner",
@@ -1425,93 +1160,15 @@
    "firma": "Grünenthal (Lisbon Hub)"
   },
   {
-   "titel": "Data Engineer Internship (m/f/x)",
-   "ort": "Data Engineer Internship (m/f/x) Location PACO DE ARCOS, LISBON, Portugal Category Information Technology Job Id R000161204 Job Type Full time Internships Starting Pay / Salary Range: €1,200.00 / mont",
-   "url": "https://www.pgcareers.com/eu/en/job/R000161204/Data-Engineer-Internship-m-f-x",
-   "firma": "Procter & Gamble Portugal"
-  },
-  {
-   "titel": "Werkstudent (m/w/d) Berlin, Deutschland Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/werkstudent-m-w-d/a31d5e1c-31a7-4e8c-a8d3-15d05855a1fa",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Werkstudent/in Qualitatives Risiko Management (60%) Zürich, Schweiz Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/werkstudent-in-qualitatives-risiko-management/dbb879b0-0744-4cab-827c-63d9ced704d1",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Junior Fund Finance Manager – Real Estate (f/m/d) Luxembourg Albert Borschette, Luxembourg Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/junior-fund-finance-manager-real-estate-f-m-d/c9c08d28-1b57-49b3-b4c9-aa4f51f22362",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Werkstudent (m/w/d) Qualitatives Risiko Management, Prozesse und BCM Berlin, Deutschland Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/werkstudent-m-w-d-qualitatives-risiko-management-prozesse-und-bcm/8ba1e47b-b088-444a-ab63-5908897940c1",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
+   "titel": "Contacts",
+   "ort": "Headquarters - EDP S.A. Avenida 24 de julho, 12 1249-300 Lisboa PORTUGAL Contacts Follow EDP",
+   "url": "https://edp.com/node/104461/",
+   "firma": "EDP (Konzernzentrale)"
   },
   {
    "titel": "Legal Procurement Specialist Lissabon, Portugal Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
+   "ort": "Legal Procurement Specialist Lissabon, Portugal Mehr erfahren",
    "url": "https://jobs.swisslife-am.com/offene-stellen/legal-procurement-specialist/8ba8433e-87e1-47f4-843f-629cd309a1b3",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Fund Accountant Lissabon, Portugal Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/fund-accountant/563f94cd-8173-4aa4-8491-9034bbf298eb",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Werkstudent (m/w/d) Asset Management Hamburg, Deutschland Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/werkstudent-m-w-d-asset-management/4d091a2d-01e2-47c0-afe1-b45a796e87c6",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Werkstudent Marketing (m/w/d) Berlin, Deutschland Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/werkstudent-marketing-m-w-d/4114765a-2ea5-4438-a761-e21b0fabf5ff",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Werkstudent (m/w/d) Tax Hamburg, Deutschland Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/werkstudent-m-w-d-tax/1b1ab3f7-a471-43e6-b113-b81b91d2427c",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Senior Key Account Manager Wholesale (m/w/d) Frankfurt, Deutschland Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/senior-key-account-manager-wholesale-m-w-d/6c2353cd-4c34-4874-b439-3d4e94322b60",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Responsable Commercial CGPI H/F Paris, Frankreich Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/responsable-commercial-cgpi-h-f/ff76ce82-5472-4315-b56a-89bbe55d0400",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Werkstudent (m/w/d) Grafikdesign Köln, Deutschland Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/werkstudent-m-w-d-grafikdesign/6ae55834-b120-42b2-9613-1b0a0ce4407c",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "ESG Data & Reporting Analyst – Infrastructure Equity (50%) Zürich, Schweiz Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/esg-data-reporting-analyst-infrastructure-equity/a38416c4-21af-4713-8e94-d5ca07a47749",
-   "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
-  },
-  {
-   "titel": "Working Student AI & Automation Multi Asset & Equity (w/m/d) 60% Zürich, Schweiz Mehr erfahren",
-   "ort": "30 Stellen Senior AI Architect - AI Factory (f/m/d) Zürich, Schweiz Mehr erfahren Reporting Operator Lissabon, Portugal Mehr erfahren Asset Unit Reporting Specialist Lissabon, Portugal Mehr erfahren C",
-   "url": "https://jobs.swisslife-am.com/offene-stellen/working-student-ai-automation-multi-asset-equity-w-m-d/0d72c281-bf90-4578-be32-e0d93fa72254",
    "firma": "Swiss Life Asset Managers (Competence Centre Lisbon)"
   },
   {
@@ -1522,86 +1179,62 @@
   },
   {
    "titel": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers",
-   "ort": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 202",
+   "ort": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026",
    "url": "https://opportunities.vodafone.com/job/Lisbon-Operations-Intelligence-&-Performance-Insights-Expert-%28mfd%29-for-Vantage-Towers/1446603033/",
    "firma": "Vodafone Portugal"
   },
   {
    "titel": "Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers",
-   "ort": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 202",
+   "ort": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026",
    "url": "https://opportunities.vodafone.com/job/Lisbon-Automation%2C-AI-and-Zero-Touch-Operations-Expert-%28mfd%29-for-Vantage-Towers/1446602833/",
    "firma": "Vodafone Portugal"
   },
   {
-   "titel": "Member of Technical Staff, Software Engineer - ESAI (AI / Agentic Developer Productivity) United States, Washington, Redmond Posted 8 days ago",
-   "ort": "Member of Technical Staff, Software Engineer - ESAI (AI / Agentic Developer Productivity) United States, Washington, Redmond Posted 8 days ago",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557053360?lc=Lisbon%2C+Lisboa%2C+Portugal",
-   "firma": "Microsoft Portugal"
-  },
-  {
    "titel": "Telesales Executive - DHL Express Portugal",
-   "ort": "Telesales Executive - DHL Express Portugal Location Lisbon, Lisboa, Portugal Full-time TELESALES EXECUTIVE (m/f). Procuras um novo desafio na DHL EXPRESS? Este anúncio poderá ser para ti! O Departamen",
+   "ort": "Telesales Executive - DHL Express Portugal Location Lisbon, Lisboa, Portugal Full-time TELESALES EXECUTIVE (m/f). Procuras um novo desafio na DHL EXPRESS? Este anúncio poderá ser para ti! O Departamento de Marketing & Sa",
    "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV363539ENGLOBALEXTERNAL/Telesales-Executive-DHL-Express-Portugal",
    "firma": "DHL Portugal"
   },
   {
+   "titel": "COORDENAÇÃO OPERAÇÕES (M/F)",
+   "ort": "COORDENAÇÃO OPERAÇÕES (M/F) Location Azambuja, Lisboa, Portugal Full-time Objetivo Principal da Função: Assegurar uma gestão eficiente da equipa de trabalho de modo a garantir que o plano de trabalho previsto é rigorosam",
+   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV387110ENGLOBALEXTERNAL/COORDENA%C3%87%C3%83O-OPERA%C3%87%C3%95ES-M-F",
+   "firma": "DHL Portugal"
+  },
+  {
    "titel": "Estagio profissional GTW & Operations Support",
-   "ort": "Estagio profissional GTW & Operations Support Location Lisbon, Lisboa, Portugal Full-time Queres iniciar a tua carreira numa empresa líder mundial em logística e transporte expresso? Na DHL Express pr",
+   "ort": "Estagio profissional GTW & Operations Support Location Lisbon, Lisboa, Portugal Full-time Queres iniciar a tua carreira numa empresa líder mundial em logística e transporte expresso? Na DHL Express procuramos um(a) Estag",
    "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV386784ENGLOBALEXTERNAL/Estagio-profissional-GTW-Operations-Support",
    "firma": "DHL Portugal"
   },
   {
    "titel": "Estágio Marketing & Sales - DHL Express Portugal",
-   "ort": "Estágio Marketing & Sales - DHL Express Portugal Location Lisbon, Lisboa, Portugal Full-time Procuras um novo desafio na DHL EXPRESS? Este anúncio poderá ser para ti! Estágio Profissional remunerado n",
+   "ort": "Estágio Marketing & Sales - DHL Express Portugal Location Lisbon, Lisboa, Portugal Full-time Procuras um novo desafio na DHL EXPRESS? Este anúncio poderá ser para ti! Estágio Profissional remunerado na área de Sales Supp",
    "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV334603ENGLOBALEXTERNAL/Est%C3%A1gio-Marketing-Sales-DHL-Express-Portugal",
    "firma": "DHL Portugal"
   },
   {
-   "titel": "CUSTOMS OPS SUPPORT - DHL EXPRESS",
-   "ort": "CUSTOMS OPS SUPPORT - DHL EXPRESS Location Porto, Porto, Portugal Part-time Customs Ops Support . (m/f) . Se procura um desafio numa área dinâmica e fundamental para o comércio internacional, esta pod",
-   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV384489ENGLOBALEXTERNAL/CUSTOMS-OPS-SUPPORT-DHL-EXPRESS",
-   "firma": "DHL Portugal"
-  },
-  {
-   "titel": "ESTÁGIO PROFISSIONAL | TECNICO DE MANUTENÇÃO | DHL EXPRESS PORTUGAL",
-   "ort": "ESTÁGIO PROFISSIONAL | TECNICO DE MANUTENÇÃO | DHL EXPRESS PORTUGAL Location Maia, Porto, Portugal Full-time Na DHL Express, a inovação e a tecnologia estão no centro da nossa operação. Todos os dias,",
-   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV364753ENGLOBALEXTERNAL/EST%C3%81GIO-PROFISSIONAL-TECNICO-DE-MANUTEN%C3%87%C3%83O-DHL-EXPRESS-PORTUGAL",
-   "firma": "DHL Portugal"
-  },
-  {
-   "titel": "ESTÁGIO_ ENGINEERING AND INFRASTRUCTURE - DHL EXPRESS PORTUGAL",
-   "ort": "ESTÁGIO_ ENGINEERING AND INFRASTRUCTURE - DHL EXPRESS PORTUGAL Location Lisbon, Lisboa, Portugal Full-time Estágio em Engenharia & Infraestruturas. DHL Express Portugal | Lisboa. Na DHL Express, ligam",
-   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV358323ENGLOBALEXTERNAL/EST%C3%81GIO-ENGINEERING-AND-INFRASTRUCTURE-DHL-EXPRESS-PORTUGAL",
-   "firma": "DHL Portugal"
-  },
-  {
    "titel": "Sales Account Manager, Point of Care (South)",
-   "ort": "Sales Account Manager, Point of Care (South) Location Lisbon, Portugal Category Sales & Marketing We are currently hiring a Sales Account Manager, Point of Care to drive the expansion of Roche's Point",
+   "ort": "Sales Account Manager, Point of Care (South) Location Lisbon, Portugal Category Sales & Marketing We are currently hiring a Sales Account Manager, Point of Care to drive the expansion of Roche's Point of Care portfolio i",
    "url": "https://careers.roche.com/global/en/job/202611-128098/Sales-Account-Manager-Point-of-Care-South",
    "firma": "Roche Portugal"
   },
   {
-   "titel": "Junior Software Engineer (IEFP Internship)",
-   "ort": "Junior Software Engineer (IEFP Internship) Location Porto, Portugal Remote Hybrid Entry Level Job Type Fixed Term Job Id 20177 Save Junior Software Engineer (IEFP Internship) 20177",
-   "url": "https://jobs.kuehne-nagel.com/global/en/job/20177/Junior-Software-Engineer-IEFP-Internship",
-   "firma": "Kuehne+Nagel Portugal"
+   "titel": "Formulário de contacto Vorwerk Portugal",
+   "ort": "Entre em contacto connosco Podemos ajudá-lo? Apoio ao Cliente: 210 11 76 76 bimbyapoioaocliente@vorwerk.pt kobold.apoioaocliente@vorwerk.pt Chamada para a rede fixa nacional Horário de funcionamento: 2ª a 6ª das 9h00 às",
+   "url": "https://support-portugal.vorwerk.com/hc/pt/requests/new?ticket_form_id=17426194304796",
+   "firma": "Vorwerk Portugal"
   },
   {
-   "titel": "IpTel - Integrator Évora, VNG - Cais Gaia, VNG - Lake Towers, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "ort": "IpTel - Integrator Évora, VNG - Cais Gaia, VNG - Lake Towers, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/569207-en_GB+sap_btp",
+   "titel": "Contact us",
+   "ort": "Contact us Investors Portugal | EN",
+   "url": "https://www.capgemini.com/pt-en/contact-us",
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
-   "titel": "Telco Business/Technical Analyst Évora, Fundão, VNG - Cais Gaia, Lisboa - Expo Products & Systems Engineering Permanent Experienced Professionals",
-   "ort": "Telco Business/Technical Analyst Évora, Fundão, VNG - Cais Gaia, Lisboa - Expo Products & Systems Engineering Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/562203-en_US+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "OSS Architect Évora, Fundão, VNG - Cais Gaia, Lisboa - Expo Products & Systems Engineering Permanent Experienced Professionals",
-   "ort": "OSS Architect Évora, Fundão, VNG - Cais Gaia, Lisboa - Expo Products & Systems Engineering Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/563471-en_GB+sap_btp",
+   "titel": "Salesforce Business Analyst | DCX-SFS / ABL Lisboa - Colombo, VNG - Lake Towers SaaS Solutions Permanent Experienced Professionals",
+   "ort": "Salesforce Business Analyst | DCX-SFS / ABL Lisboa - Colombo, VNG - Lake Towers SaaS Solutions Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/391394-en_US+sap_btp",
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
@@ -1618,74 +1251,26 @@
   },
   {
    "titel": "Celfocus Academy | Application Security Trainee SH Application Security · Lisbon, Porto",
-   "ort": "Data Architect Data & Analytics | Data Foundations | Business Data · Lisbon, Porto Senior Data Scientist SH Artificial Intelligence · Porto, Lisbon Celfocus Academy | Application Security Trainee SH A",
+   "ort": "Data Architect Data & Analytics | Data Foundations | Business Data · Lisbon, Porto Senior Data Scientist SH Artificial Intelligence · Porto, Lisbon Celfocus Academy | Application Security Trainee SH Application Security",
    "url": "https://careers.celfocus.com/jobs/8470877-celfocus-academy-application-security-trainee",
    "firma": "Celfocus"
   },
   {
    "titel": "Application Security Analyst SH Application Security · Lisbon, Porto",
-   "ort": "Data Architect Data & Analytics | Data Foundations | Business Data · Lisbon, Porto Senior Data Scientist SH Artificial Intelligence · Porto, Lisbon Celfocus Academy | Application Security Trainee SH A",
+   "ort": "Data Architect Data & Analytics | Data Foundations | Business Data · Lisbon, Porto Senior Data Scientist SH Artificial Intelligence · Porto, Lisbon Celfocus Academy | Application Security Trainee SH Application Security",
    "url": "https://careers.celfocus.com/jobs/8450993-application-security-analyst",
    "firma": "Celfocus"
   },
   {
    "titel": "Application Security | Curricular Internship SH Application Security · Lisbon, Porto",
-   "ort": "Data Architect Data & Analytics | Data Foundations | Business Data · Lisbon, Porto Senior Data Scientist SH Artificial Intelligence · Porto, Lisbon Celfocus Academy | Application Security Trainee SH A",
+   "ort": "Data Architect Data & Analytics | Data Foundations | Business Data · Lisbon, Porto Senior Data Scientist SH Artificial Intelligence · Porto, Lisbon Celfocus Academy | Application Security Trainee SH Application Security",
    "url": "https://careers.celfocus.com/jobs/8126039-application-security-curricular-internship",
    "firma": "Celfocus"
   },
   {
-   "titel": "Microsoft Dynamics 365 Technical Consultant",
-   "ort": "Microsoft Dynamics 365 Technical Consultant Consulting · Lisboa · Hybrid Senior Consultant / Technology Architect – Identity & Access Management (IAM) Consulting · Lisboa · Hybrid Cloud Data Engineer",
-   "url": "https://bearingpointportugal.teamtailor.com/jobs/8447541-microsoft-dynamics-365-technical-consultant",
-   "firma": "BearingPoint Portugal"
-  },
-  {
-   "titel": "SAP HCM Consultant",
-   "ort": "SAP HCM Consultant SAP Public Finance · Lisboa SAP BDC Consultant SAP Public Finance · Lisboa · Híbrido SAP FI-TR Consultant Sap Competence Center · Lisboa, Porto · Híbrido Senior Data Scientist Mobil",
-   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8769731-sap-hcm-consultant",
-   "firma": "Axians Digital Consulting Portugal"
-  },
-  {
-   "titel": "SAP BDC Consultant",
-   "ort": "SAP HCM Consultant SAP Public Finance · Lisboa SAP BDC Consultant SAP Public Finance · Lisboa · Híbrido SAP FI-TR Consultant Sap Competence Center · Lisboa, Porto · Híbrido Senior Data Scientist Mobil",
-   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8681427-sap-bdc-consultant",
-   "firma": "Axians Digital Consulting Portugal"
-  },
-  {
-   "titel": "SAP FI-TR Consultant",
-   "ort": "SAP HCM Consultant SAP Public Finance · Lisboa SAP BDC Consultant SAP Public Finance · Lisboa · Híbrido SAP FI-TR Consultant Sap Competence Center · Lisboa, Porto · Híbrido Senior Data Scientist Mobil",
-   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8676164-sap-fi-tr-consultant",
-   "firma": "Axians Digital Consulting Portugal"
-  },
-  {
-   "titel": "SAP Logistics Consultant",
-   "ort": "SAP HCM Consultant SAP Public Finance · Lisboa SAP BDC Consultant SAP Public Finance · Lisboa · Híbrido SAP FI-TR Consultant Sap Competence Center · Lisboa, Porto · Híbrido Senior Data Scientist Mobil",
-   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8181057-sap-logistics-consultant",
-   "firma": "Axians Digital Consulting Portugal"
-  },
-  {
-   "titel": "SAP SD Consultant",
-   "ort": "SAP HCM Consultant SAP Public Finance · Lisboa SAP BDC Consultant SAP Public Finance · Lisboa · Híbrido SAP FI-TR Consultant Sap Competence Center · Lisboa, Porto · Híbrido Senior Data Scientist Mobil",
-   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8180181-sap-sd-consultant",
-   "firma": "Axians Digital Consulting Portugal"
-  },
-  {
-   "titel": "Graduate Program",
-   "ort": "SAP HCM Consultant SAP Public Finance · Lisboa SAP BDC Consultant SAP Public Finance · Lisboa · Híbrido SAP FI-TR Consultant Sap Competence Center · Lisboa, Porto · Híbrido Senior Data Scientist Mobil",
-   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8025931-graduate-program",
-   "firma": "Axians Digital Consulting Portugal"
-  },
-  {
-   "titel": "Business Consulting",
-   "ort": "Close submenu Serviços Business Consulting Systems Integration Managed IT services Application services Infrastructure services Business Process services Geospatial Intelligence",
-   "url": "https://www.cgi.com/portugal/pt-pt/business-consulting",
-   "firma": "CGI Portugal"
-  },
-  {
-   "titel": "CGI delivers modern API platform for Finnair to drive ancillary product sales Founded in 1923, Finnair is one of the longest-operating and ...",
-   "ort": "CGI delivers modern API platform for Finnair to drive ancillary product sales Founded in 1923, Finnair is one of the longest-operating and ...",
-   "url": "https://www.cgi.com/portugal/en/media/case-study/cgi-delivers-modern-api-platform-finnair-drive-ancillary-product-sales",
+   "titel": "Contacte-nos",
+   "ort": "MenuPortugal Open submenu (Serviços)Serviços Open submenu (Indústrias)Indústrias Open submenu (Insights)Insights Open submenu (Carreiras)Carreiras Contacte-nos",
+   "url": "https://www.cgi.com/portugal/pt-pt/contacte-nos",
    "firma": "CGI Portugal"
   },
   {
@@ -1707,70 +1292,46 @@
    "firma": "Kaizen Institute Portugal"
   },
   {
-   "titel": "Compensação para projetos internacionais",
-   "ort": "FériasCompensação para projetos internacionaisFormação e desenvolvimentoAtividades de Team Building Tecnologia",
-   "url": "https://kaizen.com/pt/carreiras-portugal/#accordion-2-accordion-item-14",
-   "firma": "Kaizen Institute Portugal"
-  },
-  {
-   "titel": "Trainee",
-   "ort": "Trainee Consultant Senior Consultant Project Leader Manager Principal Director",
-   "url": "https://kaizen.com/pt/carreiras-portugal/#s-accordion-3-accordion-item-18",
-   "firma": "Kaizen Institute Portugal"
-  },
-  {
-   "titel": "Consultant",
-   "ort": "Trainee Consultant Senior Consultant Project Leader Manager Principal Director",
-   "url": "https://kaizen.com/pt/carreiras-portugal/#s-accordion-3-accordion-item-19",
-   "firma": "Kaizen Institute Portugal"
-  },
-  {
-   "titel": "Consultoria",
-   "ort": "Consultoria Manutenção Qualidade Operações Armazéns e Distribuição Analítica de Negócios Cultura KAIZEN™ Lean Six Sigma Ver todos os serviços de consultoria",
-   "url": "https://kaizen.com/pt/carreiras-portugal/#links_for_page_19350",
-   "firma": "Kaizen Institute Portugal"
-  },
-  {
-   "titel": "International tax",
-   "ort": "Financial Incentives and Tax Benefits Corporate structures International tax Global compliance Private client tax National & domestic tax M&A tax VAT and indirect tax Global mobility and employment ta",
-   "url": "https://www.forvismazars.com/pt/en/services/tax/international-tax",
+   "titel": "IRS: O prazo começou a contar",
+   "ort": "O fim do regime do RNH ESG e os Preços de Transferência CBAM Distribuição alimentar Portugal 2030 Plano de Avisos Medidas em aberto A importância dos Diagnósticos fiscais Preços de Transferência... O \"parente\" esquecido.",
+   "url": "https://www.forvismazars.com/pt/en/insights/tax-letters/irs-o-prazo-comecou-a-contar",
    "firma": "Forvis Mazars Portugal"
-  },
-  {
-   "titel": "Consulting",
-   "ort": "Services Legal Sustentabilidade Audit & assurance Consulting Outsourcing Advisory Services Tax Reshape Assessment Tool Insights Media Our publications Tax Letters Global insights Annual reports Transp",
-   "url": "https://www.forvismazars.com/pt/en/services/consulting",
-   "firma": "Forvis Mazars Portugal"
-  },
-  {
-   "titel": "Outsourcing",
-   "ort": "Services Legal Sustentabilidade Audit & assurance Consulting Outsourcing Advisory Services Tax Reshape Assessment Tool Insights Media Our publications Tax Letters Global insights Annual reports Transp",
-   "url": "https://www.forvismazars.com/pt/en/services/outsourcing",
-   "firma": "Forvis Mazars Portugal"
-  },
-  {
-   "titel": "Cyncly Account",
-   "ort": "Products Solutions Company Resources Contact Us Cyncly Account Support WORLDWIDE | EN Select your country and language preferences Country Worldwide Worldwide United States United Kingdom Australia Au",
-   "url": "https://account.cyncly.com/index.html",
-   "firma": "Cyncly"
   },
   {
    "titel": "Business account",
-   "ort": "Start and elevate your business in Portugal All it takes to succeed, in one platform: global business payments, certified invoicing*, online accounting, and more. Business account Accounting *Certifie",
+   "ort": "Start and elevate your business in Portugal All it takes to succeed, in one platform: global business payments, certified invoicing*, online accounting, and more. Business account Accounting *Certified invoicing is manda",
    "url": "https://welcome.rauva.com/business-owner?plan=charged",
    "firma": "Rauva"
   },
   {
    "titel": "Accounting",
-   "ort": "Start and elevate your business in Portugal All it takes to succeed, in one platform: global business payments, certified invoicing*, online accounting, and more. Business account Accounting *Certifie",
+   "ort": "Start and elevate your business in Portugal All it takes to succeed, in one platform: global business payments, certified invoicing*, online accounting, and more. Business account Accounting *Certified invoicing is manda",
    "url": "https://rauva.com/accounting",
    "firma": "Rauva"
   },
   {
+   "titel": "Product Owner, Asset Management",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/3c5728b1-9398-485a-b955-8455fca552ba",
+   "firma": "Luma Financial Technologies"
+  },
+  {
    "titel": "Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation",
-   "ort": "NewsSama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk AnnotationSama CEO Wendy Gonzalez to Speak at Web Summit LisbonSama Introduces Smart Review, Redefining Quality Assurance in",
+   "ort": "NewsSama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk AnnotationSama CEO Wendy Gonzalez to Speak at Web Summit LisbonSama Introduces Smart Review, Redefining Quality Assurance in AI Data Labeling",
    "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/sama-eliminates-repetitive-work-in-ai-data-labeling-with-launch-1103945",
    "firma": "Sama"
+  },
+  {
+   "titel": "Crie uma conta",
+   "ort": "Portugal Português instagram linkedin youtube tiktok Fixando Página inicial MCP Quem somos Mapa do site Parceiros Entrar Crie uma conta Tema Clientes Como funciona Especialistas Como funciona Crie uma conta Pacotes Supor",
+   "url": "https://www.fixando.pt/choose_account",
+   "firma": "Fixando"
+  },
+  {
+   "titel": "Crie uma conta",
+   "ort": "Portugal Português instagram linkedin youtube tiktok Fixando Página inicial MCP Quem somos Mapa do site Parceiros Entrar Crie uma conta Tema Clientes Como funciona Especialistas Como funciona Crie uma conta Pacotes Supor",
+   "url": "https://www.fixando.pt/pro",
+   "firma": "Fixando"
   }
  ]
 }

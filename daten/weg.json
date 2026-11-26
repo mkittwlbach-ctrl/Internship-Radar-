@@ -1,0 +1,16 @@
+{
+ "meta": {
+  "stand": "2026-11-26T13:00Z",
+  "datum": "2026-11-26",
+  "fertig": true,
+  "firmen": 177,
+  "ok": 150,
+  "leer": 21,
+  "fehler": 6,
+  "stellen_lissabon": 871,
+  "kandidaten": 220,
+  "neu": 220,
+  "weg": 0
+ },
+ "stellen": []
+}
