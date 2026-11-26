@@ -1,15 +1,15 @@
 {
  "meta": {
-  "stand": "2026-11-26T13:00Z",
+  "stand": "2026-11-26T14:36Z",
   "datum": "2026-11-26",
   "fertig": true,
   "firmen": 177,
   "ok": 150,
   "leer": 21,
   "fehler": 6,
-  "stellen_lissabon": 871,
-  "kandidaten": 220,
-  "neu": 220,
+  "stellen_lissabon": 862,
+  "kandidaten": 217,
+  "neu": 217,
   "weg": 0
  },
  "stellen": [
@@ -101,12 +101,6 @@
    "titel": "Franchise Governance & Standards Manager",
    "ort": "Lisbon / Lisbon",
    "url": "https://jobs.lever.co/emma-sleep/f67c7b95-2cde-496f-a096-dc88a2c13150",
-   "firma": "Emma – The Sleep Company"
-  },
-  {
-   "titel": "Global Key Account Management Intern",
-   "ort": "Lisbon / Lisbon",
-   "url": "https://jobs.lever.co/emma-sleep/ecfd5129-0dc0-4a43-86bb-28aad76bd95e",
    "firma": "Emma – The Sleep Company"
   },
   {
@@ -518,60 +512,6 @@
    "firma": "Powerdot"
   },
   {
-   "titel": "Senior OutSystems Developer",
-   "ort": "Portugal - Lisbon",
-   "url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems/job/Portugal---Lisbon/Senior-OutSystems-Developer_R1650",
-   "firma": "OutSystems"
-  },
-  {
-   "titel": "Senior Security Engineer",
-   "ort": "Portugal - Lisbon",
-   "url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems/job/Portugal---Lisbon/Senior-Security-Engineer_R1642-1",
-   "firma": "OutSystems"
-  },
-  {
-   "titel": "Principal AI Engineer",
-   "ort": "Portugal - Lisbon",
-   "url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems/job/Portugal---Lisbon/Principal-AI-Engineer_R1765-1",
-   "firma": "OutSystems"
-  },
-  {
-   "titel": "Principal Software Engineer",
-   "ort": "Portugal - Lisbon",
-   "url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems/job/Portugal---Lisbon/Principal-Software-Engineer_R1826",
-   "firma": "OutSystems"
-  },
-  {
-   "titel": "Lead Salesforce Software Engineer",
-   "ort": "Portugal - Remote",
-   "url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems/job/Portugal---Remote/Lead-Salesforce-Software-Engineer_R1050",
-   "firma": "OutSystems"
-  },
-  {
-   "titel": "Senior Security Engineer - Cloud Security",
-   "ort": "Portugal - Remote",
-   "url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems/job/Portugal---Remote/Senior-Security-Engineer_R1641",
-   "firma": "OutSystems"
-  },
-  {
-   "titel": "Global Support L2",
-   "ort": "Portugal - Remote",
-   "url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems/job/Portugal---Remote/Global-Support-L2_R1808",
-   "firma": "OutSystems"
-  },
-  {
-   "titel": "Senior Security Engineer - Application Security",
-   "ort": "Portugal - Remote",
-   "url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems/job/Portugal---Remote/Senior-Security-Engineer---Application-Security_R1655",
-   "firma": "OutSystems"
-  },
-  {
-   "titel": "Lead Architect",
-   "ort": "Portugal - Remote",
-   "url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems/job/Portugal---Remote/Lead-Architect_R1840",
-   "firma": "OutSystems"
-  },
-  {
    "titel": "Senior Solution Consultant",
    "ort": "Lisbon",
    "url": "https://job-boards.greenhouse.io/talkdesk2/jobs/8193682",
@@ -689,6 +629,12 @@
    "titel": "AI Cloud Architect Reviewer",
    "ort": "Lisbon / Lisbon",
    "url": "https://jobs.eu.lever.co/vwgds/4c0fd0a7-16e5-441e-87f5-c2ebd8411939",
+   "firma": "Volkswagen Digital Solutions"
+  },
+  {
+   "titel": "AI Demand Coordinator",
+   "ort": "Lisbon / Lisbon",
+   "url": "https://jobs.eu.lever.co/vwgds/baee14f0-d18e-46b6-8471-08d1de8fd36c",
    "firma": "Volkswagen Digital Solutions"
   },
   {
@@ -1031,12 +977,6 @@
    "titel": "Junior Financial Crime | SG",
    "ort": "Portugal  pt",
    "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163722489",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "Junior QA Analyst (French Speaker) | BPCE-SI",
-   "ort": "Portugal  pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163271409",
    "firma": "Natixis in Portugal"
   },
   {
@@ -3398,63 +3338,63 @@
    "firma": "Mastercard"
   },
   {
-   "titel": "Instructional Designer Portugal View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8278640",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8414352",
-   "firma": "Feedzai"
-  },
-  {
    "titel": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
    "url": "https://careers.feedzai.com/job_description?gh_jid=8414402",
    "firma": "Feedzai"
   },
   {
    "titel": "Software Engineer - Customer Success Portugal View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
    "url": "https://careers.feedzai.com/job_description?gh_jid=7412899",
    "firma": "Feedzai"
   },
   {
+   "titel": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8414412",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Advanced Software Engineer - Customer Success São Paulo, Brazil View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8121243",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Instructional Designer Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8278640",
+   "firma": "Feedzai"
+  },
+  {
    "titel": "Advanced Product Manager - Digital Trust Portugal View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
    "url": "https://careers.feedzai.com/job_description?gh_jid=7978882",
    "firma": "Feedzai"
   },
   {
    "titel": "Engineering Manager - Risk Experience Portugal View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
    "url": "https://careers.feedzai.com/job_description?gh_jid=8400549",
    "firma": "Feedzai"
   },
   {
-   "titel": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8414412",
+   "titel": "Engineering Manager - Performance & Reliability Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=7745616",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8414352",
    "firma": "Feedzai"
   },
   {
    "titel": "Head of GTM OS & Regional Business Partner Netherlands View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
    "url": "https://careers.feedzai.com/job_description?gh_jid=8414408",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Advanced Software Engineer - Customer Success São Paulo, Brazil View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8121243",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Engineering Manager - Performance & Reliability Portugal View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=7745616",
    "firma": "Feedzai"
   },
   {
@@ -3620,6 +3560,12 @@
    "firma": "Organon"
   },
   {
+   "titel": "Global Portfolio Manager – Learning & Development (f/m/div.)",
+   "ort": "Global Portfolio Manager – Learning & Development (f/m/div.) Áreas de trabalho Recursos Humanos Locais da Bosch Lisboa Híbrido Vaga publicada 11/26/2026",
+   "url": "https://jobs.bosch.com/pt/job/REF301947E-global-portfolio-manager-learning-development-f-m-div",
+   "firma": "Bosch Portugal"
+  },
+  {
    "titel": "Senior AI Integration Lead Go-to-Market (f/m/div.)",
    "ort": "Senior AI Integration Lead Go-to-Market (f/m/div.) Áreas de trabalho Engenharia Locais da Bosch Lisboa Híbrido Vaga publicada 11/26/2026",
    "url": "https://jobs.bosch.com/pt/job/REF299331B-senior-ai-integration-lead-go-to-market-f-m-div",
@@ -3632,9 +3578,9 @@
    "firma": "Bosch Portugal"
   },
   {
-   "titel": "L' Internship Program December 2026: Brand Activation, PR & Advocacy, Key Account & Commercial Operations (Lisbon) Lisbon, Lisbon District, Portugal",
-   "ort": "L' Internship Program December 2026: Brand Activation, PR & Advocacy, Key Account & Commercial Operations (Lisbon) Lisbon, Lisbon District, Portugal Save for Later",
-   "url": "https://careers.loreal.com/en/job/lisbon/l-internship-program-december-2026-brand-activation-pr-and-advocacy-key-account-and-commercial-oper/3456/47247592576",
+   "titel": "Brand Media Manager || L'Oréal Spain & Portugal Madrid, Madrid, Spain",
+   "ort": "Singapore Management Trainee 2027 Singapore, Singapore, Singapore Save for Later CDI - Animateur de conditionnement - Schéma de Nuit - Usine de La Roche Posay (H/F) Châtellerault, Nouvelle-Aquitaine, France Save for Late",
+   "url": "https://careers.loreal.com/en/job/madrid/brand-media-manager-l-oreal-spain-and-portugal/3456/47253890240",
    "firma": "L'Oréal Portugal"
   },
   {
@@ -3668,44 +3614,32 @@
    "firma": "Deloitte Portugal"
   },
   {
-   "titel": "Operate Associate Analyst | Backoffice Porto",
-   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
-   "url": "https://jobs.deloitte.pt/job/Porto-Operate-Associate-Analyst-Backoffice-Porto/1354196655/",
-   "firma": "Deloitte Portugal"
-  },
-  {
-   "titel": "Operate Associate Analyst | Backoffice Lisboa",
-   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
-   "url": "https://jobs.deloitte.pt/job/Lisboa-Operate-Associate-Analyst-Backoffice-Lisboa/1374120155/",
-   "firma": "Deloitte Portugal"
-  },
-  {
    "titel": "Manager Assurance | Lisboa",
-   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
+   "ort": "Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2 mais… 12/11/2026 Tax & Legal | Senior Consultant Preços de Transferência Lisboa, PT 06/11/2026 Consultant Incentivos Lisboa, PT 04/11/",
    "url": "https://jobs.deloitte.pt/job/Lisboa-Manager-Assurance-Lisboa/1377324255/",
    "firma": "Deloitte Portugal"
   },
   {
    "titel": "Candidatura Espontânea",
-   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
+   "ort": "Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2 mais… 12/11/2026 Tax & Legal | Senior Consultant Preços de Transferência Lisboa, PT 06/11/2026 Consultant Incentivos Lisboa, PT 04/11/",
    "url": "https://jobs.deloitte.pt/job/Lisboa-Candidatura-Espont%C3%A2nea/1353167355/",
    "firma": "Deloitte Portugal"
   },
   {
    "titel": "Tax & Legal | Senior Consultant Preços de Transferência",
-   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
+   "ort": "Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2 mais… 12/11/2026 Tax & Legal | Senior Consultant Preços de Transferência Lisboa, PT 06/11/2026 Consultant Incentivos Lisboa, PT 04/11/",
    "url": "https://jobs.deloitte.pt/job/Lisboa-Tax-&-Legal-%C2%A0-Senior-Consultant-Pre%C3%A7os-de-Transfer%C3%AAncia/1376084355/",
    "firma": "Deloitte Portugal"
   },
   {
    "titel": "Consultant Incentivos",
-   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
+   "ort": "Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2 mais… 12/11/2026 Tax & Legal | Senior Consultant Preços de Transferência Lisboa, PT 06/11/2026 Consultant Incentivos Lisboa, PT 04/11/",
    "url": "https://jobs.deloitte.pt/job/Lisboa-Consultant-Incentivos/1370699955/",
    "firma": "Deloitte Portugal"
   },
   {
    "titel": "Audit & Assurance | Senior Consultant | Lisboa",
-   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
+   "ort": "Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2 mais… 12/11/2026 Tax & Legal | Senior Consultant Preços de Transferência Lisboa, PT 06/11/2026 Consultant Incentivos Lisboa, PT 04/11/",
    "url": "https://jobs.deloitte.pt/job/Lisboa-Audit-&-Assurance-Senior-Consultant-Lisboa/1375518455/",
    "firma": "Deloitte Portugal"
   },
@@ -4172,12 +4106,6 @@
    "firma": "Sixt"
   },
   {
-   "titel": "Software Engineering Manager – Strategic Fleet Planning (m/f/d)",
-   "ort": "TECH & Engineering View Software Engineering Manager – Strategic Fleet Planning (m/f/d) Full-time Lisbon, Portugal",
-   "url": "https://www.sixt.jobs/pt/jobs/9c0d7aee-fb56-4a06-a9a8-1d2849845023",
-   "firma": "Sixt"
-  },
-  {
    "titel": "Team Lead Roadside Assistance 24/7 Cockpit (m/f/d)",
    "ort": "Customer Service View Team Lead Roadside Assistance 24/7 Cockpit (m/f/d) Full-time Lisbon, Portugal",
    "url": "https://www.sixt.jobs/pt/jobs/2265a7bd-89c7-4ebf-8913-c56317cca54f",
@@ -4205,6 +4133,12 @@
    "titel": "Payroll Specialist (m/f/d)",
    "ort": "Human Resources & Training View Payroll Specialist (m/f/d) Full-time Lisbon, Portugal",
    "url": "https://www.sixt.jobs/pt/jobs/d1bde0e4-c6d8-45c9-94b7-68f53fc44084",
+   "firma": "Sixt"
+  },
+  {
+   "titel": "Senior HR Controlling Analyst (m/f/d)",
+   "ort": "Human Resources & Training View Senior HR Controlling Analyst (m/f/d) Full-time Lisbon, Portugal",
+   "url": "https://www.sixt.jobs/pt/jobs/9c7cdac5-888d-4e07-bb0c-b5ea99f663d2",
    "firma": "Sixt"
   },
   {
@@ -5085,73 +5019,73 @@
   },
   {
    "titel": "Bolzano 1 open position Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Bolzano%2C%20Italy",
    "firma": "Holidu"
   },
   {
    "titel": "Cagliari 1 open position Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Cagliari%2C%20Italy",
    "firma": "Holidu"
   },
   {
    "titel": "Catania 1 open position Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Catania%2C%20Italy",
    "firma": "Holidu"
   },
   {
-   "titel": "Lisbon 1 open position Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "titel": "Lisbon 2 open positions Explore",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Lisbon%2C%20Portugal",
    "firma": "Holidu"
   },
   {
    "titel": "Madrid 1 open position Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Madrid%2C%20Spain",
    "firma": "Holidu"
   },
   {
    "titel": "Málaga 2 open positions Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Malaga%2C%20Spain",
    "firma": "Holidu"
   },
   {
    "titel": "Milan 3 open positions Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Milan%2C%20Italy",
    "firma": "Holidu"
   },
   {
    "titel": "Munich 1 open position Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Munich%2C%20Germany",
    "firma": "Holidu"
   },
   {
    "titel": "Remote in Italy 2 open positions Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Remote%20in%20Italy",
    "firma": "Holidu"
   },
   {
    "titel": "Remote in Portugal 1 open position Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Remote%20in%20Portugal",
    "firma": "Holidu"
   },
   {
    "titel": "Valencia 2 open positions Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Valencia%2C%20Spain",
    "firma": "Holidu"
   },
   {
    "titel": "Zagreb 2 open positions Explore",
-   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 1 open position Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explor",
+   "ort": "Bolzano 1 open position Explore Cagliari 1 open position Explore Catania 1 open position Explore Lisbon 2 open positions Explore Madrid 1 open position Explore Málaga 2 open positions Explore Milan 3 open positions Explo",
    "url": "https://www.holidu.com/careers/list?location=Zagreb%2C%20Croatia",
    "firma": "Holidu"
   },
@@ -5178,6 +5112,18 @@
    "ort": "Recruiter (High Volume) FTC 6M Recruiting • Remote, Portugal • Full time • Remote",
    "url": "https://www.li.me/about/careers?ashby_jid=cb3779fa-3db7-4c81-8ced-03cf49f6fdd3",
    "firma": "Lime"
+  },
+  {
+   "titel": "Casas à venda em Portugal",
+   "ort": "Estás à procura de casa? Motor de pesquisa principal Pesquisa mais rapidamente com a nossa app Apartamentos de bancos Casas à venda em Portugal Arrendamento de casas em Portugal Casas e apartamentos em arrendamento Apart",
+   "url": "https://www.idealista.pt/properties-for-sale-in-portugal",
+   "firma": "idealista"
+  },
+  {
+   "titel": "Apartamentos e casas de luxo à venda em Portugal",
+   "ort": "Estás à procura de casa? Motor de pesquisa principal Pesquisa mais rapidamente com a nossa app Apartamentos de bancos Casas à venda em Portugal Arrendamento de casas em Portugal Casas e apartamentos em arrendamento Apart",
+   "url": "https://www.idealista.pt/luxury-homes-portugal",
+   "firma": "idealista"
   },
   {
    "titel": "Product Owner, Asset Management",

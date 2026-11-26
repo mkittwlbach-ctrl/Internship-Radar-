@@ -1,15 +1,15 @@
 {
  "meta": {
-  "stand": "2026-11-26T13:00Z",
+  "stand": "2026-11-26T14:36Z",
   "datum": "2026-11-26",
   "fertig": true,
   "firmen": 177,
   "ok": 150,
   "leer": 21,
   "fehler": 6,
-  "stellen_lissabon": 871,
-  "kandidaten": 220,
-  "neu": 220,
+  "stellen_lissabon": 862,
+  "kandidaten": 217,
+  "neu": 217,
   "weg": 0
  },
  "firmen": [
@@ -49,11 +49,11 @@
    "fehler": "Seite leer oder gesperrt"
   },
   {
-   "name": "Schneider Electric Portugal",
+   "name": "Volkswagen Autoeuropa",
    "methode": "browser",
    "status": "fehler",
    "treffer": 0,
-   "fehler": "Seite leer oder gesperrt"
+   "fehler": "Browser: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.volkswagenautoeuropa.pt/carreiras/\", waiting until \"domcontentloaded\"\n"
   },
   {
    "name": "Airbus",
@@ -112,13 +112,6 @@
    "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
-   "name": "Compass Lexecon (FTI)",
-   "methode": "browser",
-   "status": "leer",
-   "treffer": 0,
-   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkdayjobs.com/wday/cxs/fticonsulting/Compas | Browser: ok"
-  },
-  {
    "name": "Ferring Pharmaceuticals (Lisbon Hub)",
    "methode": "browser",
    "status": "leer",
@@ -168,7 +161,21 @@
    "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
+   "name": "OutSystems",
+   "methode": "browser",
+   "status": "leer",
+   "treffer": 0,
+   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://outsystems.wd503.myworkdayjobs.com/wday/cxs/outsystems/OutSystems/j | Browser: ok"
+  },
+  {
    "name": "SOMAÍ Pharmaceuticals",
+   "methode": "browser",
+   "status": "leer",
+   "treffer": 0,
+   "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
+  },
+  {
+   "name": "Schneider Electric Portugal",
    "methode": "browser",
    "status": "leer",
    "treffer": 0,
@@ -190,13 +197,6 @@
   },
   {
    "name": "Zeoos",
-   "methode": "browser",
-   "status": "leer",
-   "treffer": 0,
-   "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
-  },
-  {
-   "name": "idealista",
    "methode": "browser",
    "status": "leer",
    "treffer": 0,
@@ -360,7 +360,7 @@
    "name": "Bosch Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 2,
+   "treffer": 3,
    "fehler": ""
   },
   {
@@ -424,6 +424,13 @@
    "methode": "greenhouse",
    "status": "ok",
    "treffer": 63,
+   "fehler": ""
+  },
+  {
+   "name": "Compass Lexecon (FTI)",
+   "methode": "workday",
+   "status": "ok",
+   "treffer": 0,
    "fehler": ""
   },
   {
@@ -493,7 +500,7 @@
    "name": "Deloitte Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 12,
+   "treffer": 10,
    "fehler": ""
   },
   {
@@ -549,7 +556,7 @@
    "name": "Emma – The Sleep Company",
    "methode": "lever",
    "status": "ok",
-   "treffer": 26,
+   "treffer": 25,
    "fehler": ""
   },
   {
@@ -829,7 +836,7 @@
    "name": "Natixis in Portugal",
    "methode": "smartrecruiters",
    "status": "ok",
-   "treffer": 32,
+   "treffer": 31,
    "fehler": ""
   },
   {
@@ -865,13 +872,6 @@
    "methode": "browser",
    "status": "ok",
    "treffer": 3,
-   "fehler": ""
-  },
-  {
-   "name": "OutSystems",
-   "methode": "workday",
-   "status": "ok",
-   "treffer": 27,
    "fehler": ""
   },
   {
@@ -1169,17 +1169,10 @@
    "fehler": ""
   },
   {
-   "name": "Volkswagen Autoeuropa",
-   "methode": "browser",
-   "status": "ok",
-   "treffer": 0,
-   "fehler": ""
-  },
-  {
    "name": "Volkswagen Digital Solutions",
    "methode": "lever",
    "status": "ok",
-   "treffer": 12,
+   "treffer": 13,
    "fehler": ""
   },
   {
@@ -1236,6 +1229,13 @@
    "methode": "greenhouse",
    "status": "ok",
    "treffer": 9,
+   "fehler": ""
+  },
+  {
+   "name": "idealista",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
    "fehler": ""
   },
   {

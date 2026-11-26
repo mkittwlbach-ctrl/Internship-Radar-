@@ -1,15 +1,15 @@
 {
  "meta": {
-  "stand": "2026-11-26T13:00Z",
+  "stand": "2026-11-26T14:36Z",
   "datum": "2026-11-26",
   "fertig": true,
   "firmen": 177,
   "ok": 150,
   "leer": 21,
   "fehler": 6,
-  "stellen_lissabon": 871,
-  "kandidaten": 220,
-  "neu": 220,
+  "stellen_lissabon": 862,
+  "kandidaten": 217,
+  "neu": 217,
   "weg": 0
  },
  "stellen": [
@@ -35,12 +35,6 @@
    "titel": "E-commerce Website Operations Intern",
    "ort": "Lisbon / Lisbon",
    "url": "https://jobs.lever.co/emma-sleep/214d2360-7f3a-4f06-8f8a-716666ab6fb9",
-   "firma": "Emma – The Sleep Company"
-  },
-  {
-   "titel": "Global Key Account Management Intern",
-   "ort": "Lisbon / Lisbon",
-   "url": "https://jobs.lever.co/emma-sleep/ecfd5129-0dc0-4a43-86bb-28aad76bd95e",
    "firma": "Emma – The Sleep Company"
   },
   {
@@ -341,12 +335,6 @@
    "titel": "Junior Financial Crime | SG",
    "ort": "Portugal  pt",
    "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163722489",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "Junior QA Analyst (French Speaker) | BPCE-SI",
-   "ort": "Portugal  pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163271409",
    "firma": "Natixis in Portugal"
   },
   {
@@ -951,7 +939,7 @@
   },
   {
    "titel": "Advanced Product Manager - Digital Trust Portugal View Job",
-   "ort": "Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Custom",
+   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
    "url": "https://careers.feedzai.com/job_description?gh_jid=7978882",
    "firma": "Feedzai"
   },
@@ -998,26 +986,8 @@
    "firma": "Bosch Portugal"
   },
   {
-   "titel": "L' Internship Program December 2026: Brand Activation, PR & Advocacy, Key Account & Commercial Operations (Lisbon) Lisbon, Lisbon District, Portugal",
-   "ort": "L' Internship Program December 2026: Brand Activation, PR & Advocacy, Key Account & Commercial Operations (Lisbon) Lisbon, Lisbon District, Portugal Save for Later",
-   "url": "https://careers.loreal.com/en/job/lisbon/l-internship-program-december-2026-brand-activation-pr-and-advocacy-key-account-and-commercial-oper/3456/47247592576",
-   "firma": "L'Oréal Portugal"
-  },
-  {
-   "titel": "Operate Associate Analyst | Backoffice Porto",
-   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
-   "url": "https://jobs.deloitte.pt/job/Porto-Operate-Associate-Analyst-Backoffice-Porto/1354196655/",
-   "firma": "Deloitte Portugal"
-  },
-  {
-   "titel": "Operate Associate Analyst | Backoffice Lisboa",
-   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
-   "url": "https://jobs.deloitte.pt/job/Lisboa-Operate-Associate-Analyst-Backoffice-Lisboa/1374120155/",
-   "firma": "Deloitte Portugal"
-  },
-  {
    "titel": "Consultant Incentivos",
-   "ort": "Operate Associate Analyst | Backoffice Porto Porto, PT 26/11/2026 Operate Associate Analyst | Backoffice Lisboa Lisboa, PT 21/11/2026 Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2",
+   "ort": "Manager Assurance | Lisboa Lisboa, PT 17/11/2026 Candidatura Espontânea Lisboa, PT +2 mais… 12/11/2026 Tax & Legal | Senior Consultant Preços de Transferência Lisboa, PT 06/11/2026 Consultant Incentivos Lisboa, PT 04/11/",
    "url": "https://jobs.deloitte.pt/job/Lisboa-Consultant-Incentivos/1370699955/",
    "firma": "Deloitte Portugal"
   },
@@ -1308,6 +1278,18 @@
    "ort": "Start and elevate your business in Portugal All it takes to succeed, in one platform: global business payments, certified invoicing*, online accounting, and more. Business account Accounting *Certified invoicing is manda",
    "url": "https://rauva.com/accounting",
    "firma": "Rauva"
+  },
+  {
+   "titel": "Casas à venda em Portugal",
+   "ort": "Estás à procura de casa? Motor de pesquisa principal Pesquisa mais rapidamente com a nossa app Apartamentos de bancos Casas à venda em Portugal Arrendamento de casas em Portugal Casas e apartamentos em arrendamento Apart",
+   "url": "https://www.idealista.pt/properties-for-sale-in-portugal",
+   "firma": "idealista"
+  },
+  {
+   "titel": "Apartamentos e casas de luxo à venda em Portugal",
+   "ort": "Estás à procura de casa? Motor de pesquisa principal Pesquisa mais rapidamente com a nossa app Apartamentos de bancos Casas à venda em Portugal Arrendamento de casas em Portugal Casas e apartamentos em arrendamento Apart",
+   "url": "https://www.idealista.pt/luxury-homes-portugal",
+   "firma": "idealista"
   },
   {
    "titel": "Product Owner, Asset Management",
