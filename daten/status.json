@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-26T14:36Z",
-  "datum": "2026-11-26",
+  "stand": "2026-11-27T12:56Z",
+  "datum": "2026-11-27",
   "fertig": true,
   "firmen": 177,
-  "ok": 150,
-  "leer": 21,
-  "fehler": 6,
-  "stellen_lissabon": 862,
-  "kandidaten": 217,
-  "neu": 217,
-  "weg": 0
+  "ok": 149,
+  "leer": 23,
+  "fehler": 5,
+  "stellen_lissabon": 853,
+  "kandidaten": 210,
+  "neu": 3,
+  "weg": 37
  },
  "firmen": [
   {
@@ -47,13 +47,6 @@
    "status": "fehler",
    "treffer": 0,
    "fehler": "Seite leer oder gesperrt"
-  },
-  {
-   "name": "Volkswagen Autoeuropa",
-   "methode": "browser",
-   "status": "fehler",
-   "treffer": 0,
-   "fehler": "Browser: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.volkswagenautoeuropa.pt/carreiras/\", waiting until \"domcontentloaded\"\n"
   },
   {
    "name": "Airbus",
@@ -110,6 +103,13 @@
    "status": "leer",
    "treffer": 0,
    "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
+  },
+  {
+   "name": "Compass Lexecon (FTI)",
+   "methode": "browser",
+   "status": "leer",
+   "treffer": 0,
+   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkdayjobs.com/wday/cxs/fticonsulting/Compas | Browser: ok"
   },
   {
    "name": "Ferring Pharmaceuticals (Lisbon Hub)",
@@ -203,6 +203,13 @@
    "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
+   "name": "idealista",
+   "methode": "browser",
+   "status": "leer",
+   "treffer": 0,
+   "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
+  },
+  {
    "name": "1GLOBAL",
    "methode": "browser",
    "status": "ok",
@@ -276,7 +283,7 @@
    "name": "AstraZeneca (Global Hub Lisbon)",
    "methode": "browser",
    "status": "ok",
-   "treffer": 10,
+   "treffer": 14,
    "fehler": ""
   },
   {
@@ -290,14 +297,14 @@
    "name": "Axians Digital Consulting Portugal",
    "methode": "teamtailor",
    "status": "ok",
-   "treffer": 9,
+   "treffer": 8,
    "fehler": ""
   },
   {
    "name": "BAT Portugal (British American Tobacco)",
    "methode": "browser",
    "status": "ok",
-   "treffer": 1,
+   "treffer": 0,
    "fehler": ""
   },
   {
@@ -332,7 +339,7 @@
    "name": "Beyond Gravity",
    "methode": "browser",
    "status": "ok",
-   "treffer": 1,
+   "treffer": 0,
    "fehler": ""
   },
   {
@@ -360,7 +367,7 @@
    "name": "Bosch Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 3,
+   "treffer": 6,
    "fehler": ""
   },
   {
@@ -427,17 +434,10 @@
    "fehler": ""
   },
   {
-   "name": "Compass Lexecon (FTI)",
-   "methode": "workday",
-   "status": "ok",
-   "treffer": 0,
-   "fehler": ""
-  },
-  {
    "name": "Coverflex",
    "methode": "browser",
    "status": "ok",
-   "treffer": 5,
+   "treffer": 4,
    "fehler": ""
   },
   {
@@ -507,7 +507,7 @@
    "name": "Devoteam Portugal",
    "methode": "smartrecruiters",
    "status": "ok",
-   "treffer": 151,
+   "treffer": 150,
    "fehler": ""
   },
   {
@@ -759,7 +759,7 @@
    "name": "L'Oréal Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 1,
+   "treffer": 0,
    "fehler": ""
   },
   {
@@ -780,7 +780,7 @@
    "name": "Luma Financial Technologies",
    "methode": "browser",
    "status": "ok",
-   "treffer": 7,
+   "treffer": 0,
    "fehler": ""
   },
   {
@@ -836,7 +836,7 @@
    "name": "Natixis in Portugal",
    "methode": "smartrecruiters",
    "status": "ok",
-   "treffer": 31,
+   "treffer": 32,
    "fehler": ""
   },
   {
@@ -850,7 +850,7 @@
    "name": "Novartis Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 6,
+   "treffer": 5,
    "fehler": ""
   },
   {
@@ -920,7 +920,7 @@
    "name": "Pleo",
    "methode": "ashbyhq",
    "status": "ok",
-   "treffer": 23,
+   "treffer": 21,
    "fehler": ""
   },
   {
@@ -969,7 +969,7 @@
    "name": "Roche Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 2,
+   "treffer": 3,
    "fehler": ""
   },
   {
@@ -1046,7 +1046,7 @@
    "name": "Solvay",
    "methode": "browser",
    "status": "ok",
-   "treffer": 6,
+   "treffer": 3,
    "fehler": ""
   },
   {
@@ -1081,7 +1081,7 @@
    "name": "Tekever",
    "methode": "browser",
    "status": "ok",
-   "treffer": 1,
+   "treffer": 3,
    "fehler": ""
   },
   {
@@ -1123,7 +1123,7 @@
    "name": "Unbabel",
    "methode": "recruitee",
    "status": "ok",
-   "treffer": 11,
+   "treffer": 12,
    "fehler": ""
   },
   {
@@ -1166,6 +1166,13 @@
    "methode": "browser",
    "status": "ok",
    "treffer": 2,
+   "fehler": ""
+  },
+  {
+   "name": "Volkswagen Autoeuropa",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
    "fehler": ""
   },
   {
@@ -1229,13 +1236,6 @@
    "methode": "greenhouse",
    "status": "ok",
    "treffer": 9,
-   "fehler": ""
-  },
-  {
-   "name": "idealista",
-   "methode": "browser",
-   "status": "ok",
-   "treffer": 2,
    "fehler": ""
   },
   {

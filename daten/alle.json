@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-26T14:36Z",
-  "datum": "2026-11-26",
+  "stand": "2026-11-27T12:56Z",
+  "datum": "2026-11-27",
   "fertig": true,
   "firmen": 177,
-  "ok": 150,
-  "leer": 21,
-  "fehler": 6,
-  "stellen_lissabon": 862,
-  "kandidaten": 217,
-  "neu": 217,
-  "weg": 0
+  "ok": 149,
+  "leer": 23,
+  "fehler": 5,
+  "stellen_lissabon": 853,
+  "kandidaten": 210,
+  "neu": 3,
+  "weg": 37
  },
  "stellen": [
   {
@@ -68,6 +68,12 @@
    "firma": "Emma – The Sleep Company"
   },
   {
+   "titel": "Analytics Engineer",
+   "ort": "Frankfurt / Frankfurt / Lisbon / Berlin",
+   "url": "https://jobs.lever.co/emma-sleep/0b987a9f-c040-4abc-a9c0-4ca205f702cf",
+   "firma": "Emma – The Sleep Company"
+  },
+  {
    "titel": "D365 F&O Technical Architect",
    "ort": "Lisbon / Lisbon / Frankfurt",
    "url": "https://jobs.lever.co/emma-sleep/cde15320-e26d-4b7f-8834-3fb2cca1a2b0",
@@ -83,12 +89,6 @@
    "titel": "E-commerce Website Operations Intern",
    "ort": "Lisbon / Lisbon",
    "url": "https://jobs.lever.co/emma-sleep/214d2360-7f3a-4f06-8f8a-716666ab6fb9",
-   "firma": "Emma – The Sleep Company"
-  },
-  {
-   "titel": "Employer Branding Manager",
-   "ort": "Lisbon / Lisbon",
-   "url": "https://jobs.lever.co/emma-sleep/254985be-9a9e-4863-bbaa-d8245167a43b",
    "firma": "Emma – The Sleep Company"
   },
   {
@@ -522,6 +522,12 @@
    "ort": "Portugal",
    "url": "https://job-boards.greenhouse.io/talkdesk2/jobs/7613717",
    "firma": "Talkdesk"
+  },
+  {
+   "titel": "Freelance English into Mongolian - Technical Marketing",
+   "ort": "Remote job Lisbon Portugal",
+   "url": "https://transperfect.com/o/freelance-english-into-mongolian-technical-marketing",
+   "firma": "Unbabel"
   },
   {
    "titel": "Sales Engineer / Lisbon",
@@ -974,9 +980,15 @@
    "firma": "Actual Talent"
   },
   {
-   "titel": "Junior Financial Crime | SG",
+   "titel": "Junior Financial Crime Officer | SG",
    "ort": "Portugal  pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163722489",
+   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163891079",
+   "firma": "Natixis in Portugal"
+  },
+  {
+   "titel": "Back Officer | GBO",
+   "ort": "Lisbon Lisbon pt",
+   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163883194",
    "firma": "Natixis in Portugal"
   },
   {
@@ -1167,7 +1179,7 @@
   },
   {
    "titel": "Technical Program Manager, Revenue Operations",
-   "ort": "Lisbon / Madrid",
+   "ort": "Lisbon / London / Madrid",
    "url": "https://jobs.ashbyhq.com/pleo/13a96e9a-2a4b-43ef-b4eb-d417b48c4da8",
    "firma": "Pleo"
   },
@@ -1179,7 +1191,7 @@
   },
   {
    "titel": "Senior Transaction Monitoring Framework Specialist",
-   "ort": "Madrid / Lisbon",
+   "ort": "Madrid / Berlin / Lisbon / Copenhagen",
    "url": "https://jobs.ashbyhq.com/pleo/d7516e92-0f65-4c11-9644-1ee2f34dc80f",
    "firma": "Pleo"
   },
@@ -1205,12 +1217,6 @@
    "titel": "GTM Enablement Specialist",
    "ort": "Lisbon / London / Madrid",
    "url": "https://jobs.ashbyhq.com/pleo/ee4e6ac1-4492-462c-be32-2bf00e5907ac",
-   "firma": "Pleo"
-  },
-  {
-   "titel": "Account Manager ES",
-   "ort": "Lisbon / Madrid",
-   "url": "https://jobs.ashbyhq.com/pleo/daf01099-d709-4ba3-9ba2-d4172b29638f",
    "firma": "Pleo"
   },
   {
@@ -1262,12 +1268,6 @@
    "firma": "Pleo"
   },
   {
-   "titel": "Senior Campaign Manager (Temp Contract)",
-   "ort": "London / Berlin / Lisbon / Madrid",
-   "url": "https://jobs.ashbyhq.com/pleo/c894dbed-0c90-44d1-81db-0de99f1197a0",
-   "firma": "Pleo"
-  },
-  {
    "titel": "GTM Enablement Associate",
    "ort": "Lisbon / Madrid",
    "url": "https://jobs.ashbyhq.com/pleo/288ae3a8-269f-49f7-abd3-462a1e3485f6",
@@ -1314,6 +1314,12 @@
    "ort": "Lisbon, PRT",
    "url": "https://www.amazon.jobs/en/jobs/10472198/technical-account-manager-enterprise-support-strategic-industries-energy",
    "firma": "Amazon / AWS Portugal"
+  },
+  {
+   "titel": "Software Development | Angular Developer",
+   "ort": "Lisboa Lisboa pt",
+   "url": "https://jobs.smartrecruiters.com/Devoteam/744000163890265",
+   "firma": "Devoteam Portugal"
   },
   {
    "titel": "Creative Tech | DevOps Engineer",
@@ -1628,12 +1634,6 @@
    "firma": "Devoteam Portugal"
   },
   {
-   "titel": "Devoteam Cyber Trust | Engagement Manager",
-   "ort": "Lisboa Lisboa pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000148475979",
-   "firma": "Devoteam Portugal"
-  },
-  {
    "titel": "Nearshore Sector | Senior Power Platform Developer / Architect",
    "ort": "Lisboa Lisboa pt",
    "url": "https://jobs.smartrecruiters.com/Devoteam/744000146211895",
@@ -1919,12 +1919,6 @@
    "titel": "Software Development| Python Developer",
    "ort": "Lisboa Lisboa pt",
    "url": "https://jobs.smartrecruiters.com/Devoteam/744000115910321",
-   "firma": "Devoteam Portugal"
-  },
-  {
-   "titel": "Software Development | Angular Developer",
-   "ort": "Lisboa Lisboa pt",
-   "url": "https://jobs.smartrecruiters.com/Devoteam/744000115893057",
    "firma": "Devoteam Portugal"
   },
   {
@@ -2279,12 +2273,6 @@
    "titel": "SAP Logistics Consultant",
    "ort": "Lisboa Portugal",
    "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8181057-sap-logistics-consultant",
-   "firma": "Axians Digital Consulting Portugal"
-  },
-  {
-   "titel": "SAP Developer (German speaker)",
-   "ort": "Lisboa Portugal",
-   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8180796-sap-developer-german-speaker",
    "firma": "Axians Digital Consulting Portugal"
   },
   {
@@ -2962,13 +2950,13 @@
   {
    "titel": "Credit Experience Advisor",
    "ort": "Lisboa",
-   "url": "https://job-boards.greenhouse.io/comparaja/jobs/8044250003",
+   "url": "https://job-boards.greenhouse.io/comparaja/jobs/8044285003",
    "firma": "ComparaJá (CEG)"
   },
   {
    "titel": "Credit Experience Advisor",
    "ort": "Lisboa",
-   "url": "https://job-boards.greenhouse.io/comparaja/jobs/8044285003",
+   "url": "https://job-boards.greenhouse.io/comparaja/jobs/8044250003",
    "firma": "ComparaJá (CEG)"
   },
   {
@@ -3308,15 +3296,15 @@
    "firma": "Mastercard"
   },
   {
-   "titel": "Manager - Global Product Management",
-   "ort": "Manager - Global Product Management Location Portugal, P-1269-046 Category Product Job Type Full time Job Id R-289065 Take on the role of Manager - Global Product Management to lead the evolution of Mastercard Intelligen",
-   "url": "https://careers.mastercard.com/us/en/job/R-289065/Manager-Global-Product-Management",
+   "titel": "Senior Analyst, Market Delivery",
+   "ort": "Senior Analyst, Market Delivery Location Portugal, P-1269-046 Category Product Job Type Full time Job Id R-293203 Become part of our team as a Senior Analyst, Market Delivery, ensuring the successful delivery of business",
+   "url": "https://careers.mastercard.com/us/en/job/R-293203/Senior-Analyst-Market-Delivery",
    "firma": "Mastercard"
   },
   {
-   "titel": "Senior Software Engineer",
-   "ort": "Senior Software Engineer Location Lisboa, Portugal, 1050-227 Category Engineering Job Type Full time Job Id R-290748 We are looking for a Senior Software Engineer to design, develop, and maintain secure, scalable blockch",
-   "url": "https://careers.mastercard.com/us/en/job/R-290748/Senior-Software-Engineer",
+   "titel": "Manager - Global Product Management",
+   "ort": "Manager - Global Product Management Location Portugal, P-1269-046 Category Product Job Type Full time Job Id R-289065 Take on the role of Manager - Global Product Management to lead the evolution of Mastercard Intelligen",
+   "url": "https://careers.mastercard.com/us/en/job/R-289065/Manager-Global-Product-Management",
    "firma": "Mastercard"
   },
   {
@@ -3326,76 +3314,88 @@
    "firma": "Mastercard"
   },
   {
+   "titel": "Senior Software Engineer",
+   "ort": "Senior Software Engineer Location Lisboa, Portugal, 1050-227 Category Engineering Job Type Full time Job Id R-290748 We are looking for a Senior Software Engineer to design, develop, and maintain secure, scalable blockch",
+   "url": "https://careers.mastercard.com/us/en/job/R-290748/Senior-Software-Engineer",
+   "firma": "Mastercard"
+  },
+  {
    "titel": "Director, Product Management – Digital Credentials Global Product & Authentication Lead",
    "ort": "Director, Product Management – Digital Credentials Global Product & Authentication Lead Location Portugal, P-1269-046 Category Product Job Type Full time Job Id R-286300 We are currently hiring a Director, Product Manage",
    "url": "https://careers.mastercard.com/us/en/job/R-286300/Director-Product-Management-Digital-Credentials-Global-Product-Authentication-Lead",
    "firma": "Mastercard"
   },
   {
-   "titel": "Director, Product Management",
-   "ort": "Director, Product Management Location Portugal, P-1269-046 Category Product Job Type Full time Job Id R-290013 Director, Product Management will lead the productisation of Mastercard’s Global Portfolio Optimisation frame",
-   "url": "https://careers.mastercard.com/us/en/job/R-290013/Director-Product-Management",
-   "firma": "Mastercard"
-  },
-  {
-   "titel": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8414402",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Software Engineer - Customer Success Portugal View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=7412899",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8414412",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Advanced Software Engineer - Customer Success São Paulo, Brazil View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8121243",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Instructional Designer Portugal View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8278640",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Advanced Product Manager - Digital Trust Portugal View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=7978882",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Engineering Manager - Risk Experience Portugal View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8400549",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Engineering Manager - Performance & Reliability Portugal View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=7745616",
-   "firma": "Feedzai"
-  },
-  {
    "titel": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
    "url": "https://careers.feedzai.com/job_description?gh_jid=8414352",
    "firma": "Feedzai"
   },
   {
+   "titel": "Software Engineer - Customer Success Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=7412899",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Instructional Designer Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8278640",
+   "firma": "Feedzai"
+  },
+  {
    "titel": "Head of GTM OS & Regional Business Partner Netherlands View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
    "url": "https://careers.feedzai.com/job_description?gh_jid=8414408",
    "firma": "Feedzai"
+  },
+  {
+   "titel": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8414412",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Engineering Manager - Risk Experience Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8400549",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Advanced Software Engineer - Customer Success São Paulo, Brazil View Job",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8121243",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Engineering Manager - Performance & Reliability Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=7745616",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Advanced Product Manager - Digital Trust Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=7978882",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8414402",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Global Planner",
+   "ort": "Global Planner DELIVERY OFFICE · (PT) Tekever Lisboa · Hybrid",
+   "url": "https://careers.tekever.com/jobs/8807013-global-planner",
+   "firma": "Tekever"
+  },
+  {
+   "titel": "Delivery Manager",
+   "ort": "Delivery Manager DELIVERY OFFICE · (PT) Tekever Lisboa · Hybrid",
+   "url": "https://careers.tekever.com/jobs/8806733-delivery-manager",
+   "firma": "Tekever"
   },
   {
    "titel": "Bid Writter",
@@ -3405,31 +3405,25 @@
   },
   {
    "titel": "Insurance Specialist",
-   "ort": "Insurance Specialist Team Portugal · Portugal · Fully Remote Head of AI Ops Portugal · Fully Remote FP&A Manager Finance & Legal · Europe · Fully Remote Spontaneous Application – Categorie Protette (L. 68/99) Italy · Ful",
+   "ort": "Insurance Specialist Team Portugal · Portugal · Fully Remote Head of AI Ops Portugal · Fully Remote Spontaneous Application – Categorie Protette (L. 68/99) Italy · Fully Remote",
    "url": "https://careers.coverflex.com/jobs/8703516-insurance-specialist",
    "firma": "Coverflex"
   },
   {
    "titel": "Head of AI Ops",
-   "ort": "Insurance Specialist Team Portugal · Portugal · Fully Remote Head of AI Ops Portugal · Fully Remote FP&A Manager Finance & Legal · Europe · Fully Remote Spontaneous Application – Categorie Protette (L. 68/99) Italy · Ful",
+   "ort": "Insurance Specialist Team Portugal · Portugal · Fully Remote Head of AI Ops Portugal · Fully Remote Spontaneous Application – Categorie Protette (L. 68/99) Italy · Fully Remote",
    "url": "https://careers.coverflex.com/jobs/8397576-head-of-ai-ops",
    "firma": "Coverflex"
   },
   {
-   "titel": "FP&A Manager",
-   "ort": "Insurance Specialist Team Portugal · Portugal · Fully Remote Head of AI Ops Portugal · Fully Remote FP&A Manager Finance & Legal · Europe · Fully Remote Spontaneous Application – Categorie Protette (L. 68/99) Italy · Ful",
-   "url": "https://careers.coverflex.com/jobs/8384730-fp-a-manager",
-   "firma": "Coverflex"
-  },
-  {
    "titel": "Spontaneous Application – Categorie Protette (L. 68/99)",
-   "ort": "Insurance Specialist Team Portugal · Portugal · Fully Remote Head of AI Ops Portugal · Fully Remote FP&A Manager Finance & Legal · Europe · Fully Remote Spontaneous Application – Categorie Protette (L. 68/99) Italy · Ful",
+   "ort": "Insurance Specialist Team Portugal · Portugal · Fully Remote Head of AI Ops Portugal · Fully Remote Spontaneous Application – Categorie Protette (L. 68/99) Italy · Fully Remote",
    "url": "https://careers.coverflex.com/jobs/7117813-spontaneous-application-categorie-protette-l-68-99",
    "firma": "Coverflex"
   },
   {
    "titel": "All jobs",
-   "ort": "Job openings Insurance Specialist Team Portugal · Portugal · Fully Remote Head of AI Ops Portugal · Fully Remote FP&A Manager Finance & Legal · Europe · Fully Remote Spontaneous Application – Categorie Protette (L. 68/99",
+   "ort": "Job openings Insurance Specialist Team Portugal · Portugal · Fully Remote Head of AI Ops Portugal · Fully Remote Spontaneous Application – Categorie Protette (L. 68/99) Italy · Fully Remote All jobs",
    "url": "https://careers.coverflex.com/jobs",
    "firma": "Coverflex"
   },
@@ -3578,10 +3572,22 @@
    "firma": "Bosch Portugal"
   },
   {
-   "titel": "Brand Media Manager || L'Oréal Spain & Portugal Madrid, Madrid, Spain",
-   "ort": "Singapore Management Trainee 2027 Singapore, Singapore, Singapore Save for Later CDI - Animateur de conditionnement - Schéma de Nuit - Usine de La Roche Posay (H/F) Châtellerault, Nouvelle-Aquitaine, France Save for Late",
-   "url": "https://careers.loreal.com/en/job/madrid/brand-media-manager-l-oreal-spain-and-portugal/3456/47253890240",
-   "firma": "L'Oréal Portugal"
+   "titel": "Senior AI Solution Developer - ERP (f/m/div.)",
+   "ort": "Senior AI Solution Developer - ERP (f/m/div.) Áreas de trabalho Engenharia Locais da Bosch Lisboa Híbrido Vaga publicada 11/20/2026",
+   "url": "https://jobs.bosch.com/pt/job/REF299333K-senior-ai-solution-developer-erp-f-m-div",
+   "firma": "Bosch Portugal"
+  },
+  {
+   "titel": "Senior AI Solution Developer - CRM (f/m/div.)",
+   "ort": "Senior AI Solution Developer - CRM (f/m/div.) Áreas de trabalho Engenharia Locais da Bosch Lisboa Híbrido Vaga publicada 11/20/2026",
+   "url": "https://jobs.bosch.com/pt/job/REF299332X-senior-ai-solution-developer-crm-f-m-div",
+   "firma": "Bosch Portugal"
+  },
+  {
+   "titel": "Export Control Classification Engineer (f/m/div.)",
+   "ort": "Export Control Classification Engineer (f/m/div.) Áreas de trabalho Contabilidade de gestão, contabilidade financeira e controlo de crédito Locais da Bosch Lisboa Híbrido Vaga publicada 11/20/2026",
+   "url": "https://jobs.bosch.com/pt/job/REF298034N-export-control-classification-engineer-f-m-div",
+   "firma": "Bosch Portugal"
   },
   {
    "titel": "Saltar para o conteúdo principal",
@@ -3653,6 +3659,12 @@
    "titel": "Create Profile",
    "ort": "Sign in Create Profile English (UK) Portuguese (Portugal)",
    "url": "https://pwcportugal.csod.com/ats/careersite/createprofile.aspx?c=pwcportugal&site=4&lang=en-GB&returnurl=~%2Fux%2Fats%2Fcareersite%2F4%2Fhome%3Fc%3Dpwcportugal%26lang%3Den-GB",
+   "firma": "PwC Portugal"
+  },
+  {
+   "titel": "QA Engineer",
+   "ort": "QA Engineer Matosinhos, Portugal Posted on: 26/11/2026 – Application Deadline: 09/12/2026",
+   "url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home/requisition/614?c=pwcportugal",
    "firma": "PwC Portugal"
   },
   {
@@ -3779,12 +3791,6 @@
    "titel": "Financial Due Diligence Analyst",
    "ort": "Financial Due Diligence Analyst Matosinhos, Portugal Posted on: 06/11/2026 – Application Deadline: -",
    "url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home/requisition/368?c=pwcportugal",
-   "firma": "PwC Portugal"
-  },
-  {
-   "titel": "Administrative Support Assistant",
-   "ort": "Administrative Support Assistant Matosinhos, Portugal Posted on: 05/11/2026 – Application Deadline: -",
-   "url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home/requisition/578?c=pwcportugal",
    "firma": "PwC Portugal"
   },
   {
@@ -3980,46 +3986,16 @@
    "firma": "Solvay"
   },
   {
-   "titel": "Finance and Analytics Trainee (F/M/X)",
-   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
-   "url": "https://careers.solvay.com/job/Portugal-Lisbon-Finance-and-Analytics-Trainee-%28FMX%29/1376460657/",
-   "firma": "Solvay"
-  },
-  {
    "titel": "Digital Technologies Controller Trainee (F/M/X)",
-   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
+   "ort": "Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X) Portugal - Lisbon, PT Human Resources Internship",
    "url": "https://careers.solvay.com/job/Portugal-Lisbon-Digital-Technologies-Controller-Trainee-%28FMX%29/1377177557/",
    "firma": "Solvay"
   },
   {
    "titel": "Talent Acquisition Trainee - French Speaker (F/M/X)",
-   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
+   "ort": "Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X) Portugal - Lisbon, PT Human Resources Internship",
    "url": "https://careers.solvay.com/job/Portugal-Lisbon-Talent-Acquisition-Trainee-French-Speaker-%28FMX%29/1377932957/",
    "firma": "Solvay"
-  },
-  {
-   "titel": "RPA Developer Trainee (H/M/X)",
-   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
-   "url": "https://careers.solvay.com/job/Portugal-Lisbon-RPA-Developer-Trainee-%28HMX%29/1375975457/",
-   "firma": "Solvay"
-  },
-  {
-   "titel": "IT PMO Trainee (F/M/X)",
-   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
-   "url": "https://careers.solvay.com/job/Portugal-Lisbon-IT-PMO-Trainee-%28FMX%29/1377029657/",
-   "firma": "Solvay"
-  },
-  {
-   "titel": "Accounts Payable Specialist (all genders)",
-   "ort": "Title Accounts Payable Specialist (all genders) Other Locations Lisbon, PT Business Unit Finance Job Experience Level Professionals Job Category/Job Family Finance / Controlling",
-   "url": "https://careers.beyondgravity.com/BeyondGravity/job/Lisbon-Accounts-Payable-Specialist-%28all-genders%29/1447571133/",
-   "firma": "Beyond Gravity"
-  },
-  {
-   "titel": "Route to Market Trade Analyst Location: Lisbon, Lisbon District",
-   "ort": "Save job Route to Market Trade Analyst Location: Lisbon, Lisbon District",
-   "url": "https://careers.bat.com/en/job/lisbon/route-to-market-trade-analyst/1045/47228866816",
-   "firma": "BAT Portugal (British American Tobacco)"
   },
   {
    "titel": "Senior Automation Engineer (m/f/d)",
@@ -4143,61 +4119,85 @@
   },
   {
    "titel": "Operational Excellence Manager - Business Planning , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/operational-excellence-manager-business-planning/7684/103169053536",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/lisbon/associate-business-analyst-global-business-services-gbs/7684/97917643360",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
+   "titel": "Senior Director EUIT, Finance Transformation and Product Experience Lisbon, Lisbon District, Portugal",
+   "ort": "Senior Director EUIT, Finance Transformation and Product Experience Lisbon, Lisbon District, Portugal VIEW ROLE",
+   "url": "https://careers.astrazeneca.com/job/lisbon/senior-director-euit-finance-transformation-and-product-experience/7684/103820750848",
+   "firma": "AstraZeneca (Global Hub Lisbon)"
+  },
+  {
    "titel": "Director - Lisbon Hub , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Director - Lisbon Hub , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/director-lisbon-hub/7684/103245988272",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
+   "titel": "Franchise Lead - Amyloidosis , Portugal",
+   "ort": "Franchise Lead - Amyloidosis , Portugal VIEW ROLE",
+   "url": "https://careers.astrazeneca.com/job/portugal/franchise-lead-amyloidosis/7684/103827106784",
+   "firma": "AstraZeneca (Global Hub Lisbon)"
+  },
+  {
+   "titel": "Franchise Lead - Cardiorenal , Portugal",
+   "ort": "Franchise Lead - Cardiorenal , Portugal VIEW ROLE",
+   "url": "https://careers.astrazeneca.com/job/portugal/franchise-lead-cardiorenal/7684/103827106768",
+   "firma": "AstraZeneca (Global Hub Lisbon)"
+  },
+  {
+   "titel": "Franchise Lead - Severe Asthma , Portugal",
+   "ort": "Franchise Lead - Severe Asthma , Portugal VIEW ROLE",
+   "url": "https://careers.astrazeneca.com/job/portugal/franchise-lead-severe-asthma/7684/103820749680",
+   "firma": "AstraZeneca (Global Hub Lisbon)"
+  },
+  {
    "titel": "Engagement Analyst , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Engagement Analyst , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/engagement-analyst/7684/103737663328",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Senior Manager - GBS Process & Analytics Services Finance , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Senior Manager - GBS Process & Analytics Services Finance , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/senior-manager-gbs-process-and-analytics-services-finance/7684/103687673488",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Senior Business Analyst - Process & Analytics Services , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Senior Business Analyst - Process & Analytics Services , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/senior-business-analyst-process-and-analytics-services/7684/103479234480",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Global HR Experience Lead, Onboarding , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Global HR Experience Lead, Onboarding , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/global-hr-experience-lead-onboarding/7684/103467940992",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Scientific Communication & Medical Information Analyst , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Scientific Communication & Medical Information Analyst , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/scientific-communication-and-medical-information-analyst/7684/102772905744",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Scientific Communication & Medical Information Analyst , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Scientific Communication & Medical Information Analyst , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/scientific-communication-and-medical-information-analyst/7684/102772905728",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "HR Solutions Partner , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "HR Solutions Partner , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/hr-solutions-partner/7684/101354556128",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
@@ -4580,12 +4580,6 @@
    "firma": "Fujitsu Global Delivery Centre Portugal"
   },
   {
-   "titel": "Workplace & Facilities Coordinator (GRF10)",
-   "ort": "Workplace & Facilities Coordinator (GRF10) Lisboa, 11, PRT, Global Delivery Business Group Portugal Posting Start Date11/23/26",
-   "url": "https://www.jobs.global.fujitsu.com/job/Workplace-&amp;-Facilities-Coordinator-%28GRF10%29/13152-en_US",
-   "firma": "Fujitsu Global Delivery Centre Portugal"
-  },
-  {
    "titel": "Head of Finance (Portugal)",
    "ort": "Head of Finance (Portugal) Lisboa, 11, PRT, Corporate Functions Portugal Posting Start Date11/25/26",
    "url": "https://www.jobs.global.fujitsu.com/job/Head-of-Finance-%28Portugal%29/13947-en_US",
@@ -4616,6 +4610,12 @@
    "firma": "Fujitsu Global Delivery Centre Portugal"
   },
   {
+   "titel": "IT Support with Spanish & English",
+   "ort": "IT Support with Spanish & English Multiple Locations Portugal Posting Start Date2/23/26",
+   "url": "https://www.jobs.global.fujitsu.com/job/IT-Support-with-Spanish-&amp;-English/1707-en_US",
+   "firma": "Fujitsu Global Delivery Centre Portugal"
+  },
+  {
    "titel": "Telesales Executive - DHL Express Portugal",
    "ort": "Telesales Executive - DHL Express Portugal Location Lisbon, Lisboa, Portugal Full-time TELESALES EXECUTIVE (m/f). Procuras um novo desafio na DHL EXPRESS? Este anúncio poderá ser para ti! O Departamento de Marketing & Sa",
    "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV363539ENGLOBALEXTERNAL/Telesales-Executive-DHL-Express-Portugal",
@@ -4628,9 +4628,9 @@
    "firma": "DHL Portugal"
   },
   {
-   "titel": "Estagio profissional GTW & Operations Support",
-   "ort": "Estagio profissional GTW & Operations Support Location Lisbon, Lisboa, Portugal Full-time Queres iniciar a tua carreira numa empresa líder mundial em logística e transporte expresso? Na DHL Express procuramos um(a) Estag",
-   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV386784ENGLOBALEXTERNAL/Estagio-profissional-GTW-Operations-Support",
+   "titel": "CUSTOMS CONTACT - DHL EXPRESS",
+   "ort": "CUSTOMS CONTACT - DHL EXPRESS Location Lisbon, Lisboa, Portugal Full-time O Customs Contact é responsável pelo contacto junto do cliente transmitindo e solicitando informação / documentação referente a todos os envios ex",
+   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV392083ENGLOBALEXTERNAL/CUSTOMS-CONTACT-DHL-EXPRESS",
    "firma": "DHL Portugal"
   },
   {
@@ -4670,6 +4670,12 @@
    "firma": "Roche Portugal"
   },
   {
+   "titel": "Sales Account Manager - Cardiometabolic & Diabetes Care (Aveiro/Gaia/Porto)",
+   "ort": "Sales Account Manager - Cardiometabolic & Diabetes Care (Aveiro/Gaia/Porto) Location Lisbon, Portugal Category Sales & Marketing We are expanding our team: As a Sales Account Manager in Cardiometabolic & Diabetes Care, y",
+   "url": "https://careers.roche.com/global/en/job/202611-130018/Sales-Account-Manager-Cardiometabolic-Diabetes-Care-Aveiro-Gaia-Porto",
+   "firma": "Roche Portugal"
+  },
+  {
    "titel": "Formulário de contacto Vorwerk Portugal",
    "ort": "Entre em contacto connosco Podemos ajudá-lo? Apoio ao Cliente: 210 11 76 76 bimbyapoioaocliente@vorwerk.pt kobold.apoioaocliente@vorwerk.pt Chamada para a rede fixa nacional Horário de funcionamento: 2ª a 6ª das 9h00 às",
    "url": "https://support-portugal.vorwerk.com/hc/pt/requests/new?ticket_form_id=17426194304796",
@@ -4677,38 +4683,32 @@
   },
   {
    "titel": "Clear All",
-   "ort": "Function Location (1) Division Date Posted PortugalX Clear All Showing 2 results Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 202",
+   "ort": "Function Location (1) Division Date Posted PortugalX Clear All Showing 1 results Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 202",
    "url": "https://www.novartis.com/careers/career-search",
    "firma": "Novartis Portugal"
   },
   {
    "titel": "Job Title Sort ascending",
-   "ort": "Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 2026 Business Insights & Execution Excellence Head Regular, Full time General Manage",
+   "ort": "Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 2026",
    "url": "https://www.novartis.com/careers/career-search?country%5B0%5D=LOC_PT&sort=asc&order=Job%20Title",
    "firma": "Novartis Portugal"
   },
   {
    "titel": "Business",
-   "ort": "Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 2026 Business Insights & Execution Excellence Head Regular, Full time General Manage",
+   "ort": "Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 2026",
    "url": "https://www.novartis.com/careers/career-search?country%5B0%5D=LOC_PT&sort=asc&order=Business",
    "firma": "Novartis Portugal"
   },
   {
    "titel": "Date Posted",
-   "ort": "Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 2026 Business Insights & Execution Excellence Head Regular, Full time General Manage",
+   "ort": "Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 2026",
    "url": "https://www.novartis.com/careers/career-search?country%5B0%5D=LOC_PT&sort=asc&order=Date%20Posted",
    "firma": "Novartis Portugal"
   },
   {
    "titel": "Brand Manager",
-   "ort": "Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 2026 Business Insights & Execution Excellence Head Regular, Full time General Manage",
+   "ort": "Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 2026",
    "url": "https://www.novartis.com/careers/career-search/job/details/req-10093491-brand-manager",
-   "firma": "Novartis Portugal"
-  },
-  {
-   "titel": "Business Insights & Execution Excellence Head",
-   "ort": "Job Title Sort ascending Business Location Site Date Posted Brand Manager Regular, Full time General Management Portugal Sintra Nov 20, 2026 Business Insights & Execution Excellence Head Regular, Full time General Manage",
-   "url": "https://www.novartis.com/careers/career-search/job/details/req-10092737-business-insights-execution-excellence-head",
    "firma": "Novartis Portugal"
   },
   {
@@ -4724,68 +4724,68 @@
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
-   "titel": "Validation Engineer Lisboa - Expo, VNG - Lake Towers, Fundão Software Engineering Permanent Experienced Professionals",
-   "ort": "Validation Engineer Lisboa - Expo, VNG - Lake Towers, Fundão Software Engineering Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/227090-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "Costumer Technical Project Manager - Market Services Lisboa - Expo, Fundão, VNG - Lake Towers, VNG - Cais Gaia, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "ort": "Costumer Technical Project Manager - Market Services Lisboa - Expo, Fundão, VNG - Lake Towers, VNG - Cais Gaia, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/568798-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "Microsoft Dynamics 365 Developer Lisboa - Colombo, VNG - Lake Towers Software Engineering Permanent Experienced Professionals",
-   "ort": "Microsoft Dynamics 365 Developer Lisboa - Colombo, VNG - Lake Towers Software Engineering Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/338971-en_US+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "IpTel - Technical Project Manager Lisboa - Expo, Fundão, VNG - Lake Towers, VNG - Cais Gaia, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "ort": "IpTel - Technical Project Manager Lisboa - Expo, Fundão, VNG - Lake Towers, VNG - Cais Gaia, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/570170-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "Salesforce Business Analyst | DCX-SFS / ABL Lisboa - Colombo, VNG - Lake Towers SaaS Solutions Permanent Experienced Professionals",
-   "ort": "Salesforce Business Analyst | DCX-SFS / ABL Lisboa - Colombo, VNG - Lake Towers SaaS Solutions Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/391394-en_US+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "Packet Core Technical Project Manager Lisboa - Colombo, Évora, Fundão, VNG - Lake Towers, VNG - Cais Gaia + 1 Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "ort": "Packet Core Technical Project Manager Lisboa - Colombo, Évora, Fundão, VNG - Lake Towers, VNG - Cais Gaia + 1 Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/399414-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "Test Manager Lisboa - Colombo, Évora, Lisboa - Expo, Fundão, VNG - Lake Towers + 1 Quality Engineering & Testing Permanent Experienced Professionals",
-   "ort": "Test Manager Lisboa - Colombo, Évora, Lisboa - Expo, Fundão, VNG - Lake Towers + 1 Quality Engineering & Testing Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/528664-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "Test Manager / Technical Project Manager Lisboa - Colombo, Évora, Fundão, VNG - Lake Towers, VNG - Cais Gaia + 1 Products & Systems Engineering Permanent Experienced Professionals",
-   "ort": "Test Manager / Technical Project Manager Lisboa - Colombo, Évora, Fundão, VNG - Lake Towers, VNG - Cais Gaia + 1 Products & Systems Engineering Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/567198-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "E2E Tester (IMS / PaCO / SDM) Lisboa - Colombo, Évora, Fundão, VNG - Lake Towers, VNG - Cais Gaia + 1 Products & Systems Engineering Permanent Experienced Professionals",
-   "ort": "E2E Tester (IMS / PaCO / SDM) Lisboa - Colombo, Évora, Fundão, VNG - Lake Towers, VNG - Cais Gaia + 1 Products & Systems Engineering Permanent Experienced Professionals",
+   "titel": "E2E Tester (IMS / PaCO / SDM) Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão, VNG - Lake Towers + 1 Products & Systems Engineering Permanent Experienced Professionals",
+   "ort": "E2E Tester (IMS / PaCO / SDM) Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão, VNG - Lake Towers + 1 Products & Systems Engineering Permanent Experienced Professionals",
    "url": "https://www.capgemini.com/pt-en/jobs/567214-en_GB+sap_btp",
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
-   "titel": "Senior RTL Engineer Lisboa - Expo, Fundão, VNG - Cais Gaia Products & Systems Engineering Permanent Experienced Professionals",
-   "ort": "Senior RTL Engineer Lisboa - Expo, Fundão, VNG - Cais Gaia Products & Systems Engineering Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/539123-en_GB+sap_btp",
+   "titel": "Packet core TPM VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "ort": "Packet core TPM VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/567159-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Test Manager / Technical Project Manager Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão, VNG - Lake Towers + 1 Products & Systems Engineering Permanent Experienced Professionals",
+   "ort": "Test Manager / Technical Project Manager Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão, VNG - Lake Towers + 1 Products & Systems Engineering Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/567198-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Packet Core Technical Project Manager VNG - Lake Towers, Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão + 1 Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "ort": "Packet Core Technical Project Manager VNG - Lake Towers, Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão + 1 Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/399414-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Market Services - CTPM/ Test Manager VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "ort": "Market Services - CTPM/ Test Manager VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/569181-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "AI Engineer (Data Science / Data Engineering) Évora, Lisboa - Expo, Fundão, VNG - Cais Gaia Data & AI Permanent Experienced Professionals",
+   "ort": "AI Engineer (Data Science / Data Engineering) Évora, Lisboa - Expo, Fundão, VNG - Cais Gaia Data & AI Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/570730-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Core Network Customer Technical Project Manager - IMS/VoLTE VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "ort": "Core Network Customer Technical Project Manager - IMS/VoLTE VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/399068-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Costumer Technical Project Manager - Market Services VNG - Lake Towers, Lisboa - Expo, VNG - Cais Gaia, Fundão, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "ort": "Costumer Technical Project Manager - Market Services VNG - Lake Towers, Lisboa - Expo, VNG - Cais Gaia, Fundão, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/568798-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Core CS Network Operations Engineer VNG - Lake Towers, Évora, VNG - Cais Gaia, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "ort": "Core CS Network Operations Engineer VNG - Lake Towers, Évora, VNG - Cais Gaia, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/529216-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Test Manager VNG - Lake Towers, Évora, Lisboa - Expo, Lisboa - Colombo, Fundão + 1 Quality Engineering & Testing Permanent Experienced Professionals",
+   "ort": "Test Manager VNG - Lake Towers, Évora, Lisboa - Expo, Lisboa - Colombo, Fundão + 1 Quality Engineering & Testing Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/528664-en_GB+sap_btp",
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
    "titel": "Sales Executive (all genders)",
-   "ort": "Sales Executive (all genders) Lisbon, PT Oct 29, 2026",
+   "ort": "Sales Executive (all genders) Lisbon, PT Nov 27, 2026",
    "url": "https://jobs.valantic.com/job/Lisbon-Sales-Executive-%28all-genders%29/1153083155/",
    "firma": "valantic Portugal (valantic BT)"
   },
@@ -5112,60 +5112,6 @@
    "ort": "Recruiter (High Volume) FTC 6M Recruiting • Remote, Portugal • Full time • Remote",
    "url": "https://www.li.me/about/careers?ashby_jid=cb3779fa-3db7-4c81-8ced-03cf49f6fdd3",
    "firma": "Lime"
-  },
-  {
-   "titel": "Casas à venda em Portugal",
-   "ort": "Estás à procura de casa? Motor de pesquisa principal Pesquisa mais rapidamente com a nossa app Apartamentos de bancos Casas à venda em Portugal Arrendamento de casas em Portugal Casas e apartamentos em arrendamento Apart",
-   "url": "https://www.idealista.pt/properties-for-sale-in-portugal",
-   "firma": "idealista"
-  },
-  {
-   "titel": "Apartamentos e casas de luxo à venda em Portugal",
-   "ort": "Estás à procura de casa? Motor de pesquisa principal Pesquisa mais rapidamente com a nossa app Apartamentos de bancos Casas à venda em Portugal Arrendamento de casas em Portugal Casas e apartamentos em arrendamento Apart",
-   "url": "https://www.idealista.pt/luxury-homes-portugal",
-   "firma": "idealista"
-  },
-  {
-   "titel": "Product Owner, Asset Management",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
-   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/3c5728b1-9398-485a-b955-8455fca552ba",
-   "firma": "Luma Financial Technologies"
-  },
-  {
-   "titel": "Production Support Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
-   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/63c5b8a6-4efb-477f-9574-ee51a310f7e5",
-   "firma": "Luma Financial Technologies"
-  },
-  {
-   "titel": "Production Support Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
-   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/d264873c-f6fb-4ff0-acf1-854bd6bb298b",
-   "firma": "Luma Financial Technologies"
-  },
-  {
-   "titel": "Senior Software Development Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
-   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/140707de-cba9-417d-8518-fd3aeea252fc",
-   "firma": "Luma Financial Technologies"
-  },
-  {
-   "titel": "Senior Software Development Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
-   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/2a3757d9-6762-4c89-af2a-490ae60d0988",
-   "firma": "Luma Financial Technologies"
-  },
-  {
-   "titel": "Site Reliability Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
-   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/dca4c76d-526b-45e9-a6f4-c12109d57aee",
-   "firma": "Luma Financial Technologies"
-  },
-  {
-   "titel": "Software Development Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
-   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/f996c2a3-b387-4fce-b867-4d2d53243ce8",
-   "firma": "Luma Financial Technologies"
   },
   {
    "titel": "Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation",

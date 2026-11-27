@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-26T14:36Z",
-  "datum": "2026-11-26",
+  "stand": "2026-11-27T12:56Z",
+  "datum": "2026-11-27",
   "fertig": true,
   "firmen": 177,
-  "ok": 150,
-  "leer": 21,
-  "fehler": 6,
-  "stellen_lissabon": 862,
-  "kandidaten": 217,
-  "neu": 217,
-  "weg": 0
+  "ok": 149,
+  "leer": 23,
+  "fehler": 5,
+  "stellen_lissabon": 853,
+  "kandidaten": 210,
+  "neu": 3,
+  "weg": 37
  },
  "stellen": [
   {
@@ -332,9 +332,9 @@
    "firma": "Semapa Next"
   },
   {
-   "titel": "Junior Financial Crime | SG",
+   "titel": "Junior Financial Crime Officer | SG",
    "ort": "Portugal  pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163722489",
+   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163891079",
    "firma": "Natixis in Portugal"
   },
   {
@@ -389,12 +389,6 @@
    "titel": "Sales Development Representative - UK & I",
    "ort": "Lisbon / London",
    "url": "https://jobs.ashbyhq.com/pleo/53e879fd-10b0-42cf-9647-d623427c9b7a",
-   "firma": "Pleo"
-  },
-  {
-   "titel": "Account Manager ES",
-   "ort": "Lisbon / Madrid",
-   "url": "https://jobs.ashbyhq.com/pleo/daf01099-d709-4ba3-9ba2-d4172b29638f",
    "firma": "Pleo"
   },
   {
@@ -939,7 +933,7 @@
   },
   {
    "titel": "Advanced Product Manager - Digital Trust Portugal View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job Software Engineer - Customer Success Portugal View Job Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Advanced Software En",
+   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
    "url": "https://careers.feedzai.com/job_description?gh_jid=7978882",
    "firma": "Feedzai"
   },
@@ -1046,28 +1040,10 @@
    "firma": "Defined.ai"
   },
   {
-   "titel": "Finance and Analytics Trainee (F/M/X)",
-   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
-   "url": "https://careers.solvay.com/job/Portugal-Lisbon-Finance-and-Analytics-Trainee-%28FMX%29/1376460657/",
-   "firma": "Solvay"
-  },
-  {
    "titel": "Digital Technologies Controller Trainee (F/M/X)",
-   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
+   "ort": "Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X) Portugal - Lisbon, PT Human Resources Internship",
    "url": "https://careers.solvay.com/job/Portugal-Lisbon-Digital-Technologies-Controller-Trainee-%28FMX%29/1377177557/",
    "firma": "Solvay"
-  },
-  {
-   "titel": "IT PMO Trainee (F/M/X)",
-   "ort": "Finance and Analytics Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Digital Technologies Controller Trainee (F/M/X) Portugal - Lisbon, PT Finance Internship Talent Acquisition Trainee - French Speaker (F/M/X)",
-   "url": "https://careers.solvay.com/job/Portugal-Lisbon-IT-PMO-Trainee-%28FMX%29/1377029657/",
-   "firma": "Solvay"
-  },
-  {
-   "titel": "Route to Market Trade Analyst Location: Lisbon, Lisbon District",
-   "ort": "Save job Route to Market Trade Analyst Location: Lisbon, Lisbon District",
-   "url": "https://careers.bat.com/en/job/lisbon/route-to-market-trade-analyst/1045/47228866816",
-   "firma": "BAT Portugal (British American Tobacco)"
   },
   {
    "titel": "Collections Controller (m/f/d) - International Intermediary Business (B2P)",
@@ -1089,25 +1065,25 @@
   },
   {
    "titel": "Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/lisbon/associate-business-analyst-global-business-services-gbs/7684/97917643360",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Engagement Analyst , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Engagement Analyst , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/engagement-analyst/7684/103737663328",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Scientific Communication & Medical Information Analyst , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Scientific Communication & Medical Information Analyst , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/scientific-communication-and-medical-information-analyst/7684/102772905744",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
   {
    "titel": "Scientific Communication & Medical Information Analyst , Portugal",
-   "ort": "Operational Excellence Manager - Business Planning , Portugal VIEW ROLE Associate Business Analyst - Global Business Services (GBS) Lisbon, Lisbon District, Portugal VIEW ROLE Director - Lisbon Hub , Portugal VIEW ROLE E",
+   "ort": "Scientific Communication & Medical Information Analyst , Portugal VIEW ROLE",
    "url": "https://careers.astrazeneca.com/job/portugal/scientific-communication-and-medical-information-analyst/7684/102772905728",
    "firma": "AstraZeneca (Global Hub Lisbon)"
   },
@@ -1172,9 +1148,9 @@
    "firma": "DHL Portugal"
   },
   {
-   "titel": "Estagio profissional GTW & Operations Support",
-   "ort": "Estagio profissional GTW & Operations Support Location Lisbon, Lisboa, Portugal Full-time Queres iniciar a tua carreira numa empresa líder mundial em logística e transporte expresso? Na DHL Express procuramos um(a) Estag",
-   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV386784ENGLOBALEXTERNAL/Estagio-profissional-GTW-Operations-Support",
+   "titel": "CUSTOMS CONTACT - DHL EXPRESS",
+   "ort": "CUSTOMS CONTACT - DHL EXPRESS Location Lisbon, Lisboa, Portugal Full-time O Customs Contact é responsável pelo contacto junto do cliente transmitindo e solicitando informação / documentação referente a todos os envios ex",
+   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV392083ENGLOBALEXTERNAL/CUSTOMS-CONTACT-DHL-EXPRESS",
    "firma": "DHL Portugal"
   },
   {
@@ -1190,6 +1166,12 @@
    "firma": "Roche Portugal"
   },
   {
+   "titel": "Sales Account Manager - Cardiometabolic & Diabetes Care (Aveiro/Gaia/Porto)",
+   "ort": "Sales Account Manager - Cardiometabolic & Diabetes Care (Aveiro/Gaia/Porto) Location Lisbon, Portugal Category Sales & Marketing We are expanding our team: As a Sales Account Manager in Cardiometabolic & Diabetes Care, y",
+   "url": "https://careers.roche.com/global/en/job/202611-130018/Sales-Account-Manager-Cardiometabolic-Diabetes-Care-Aveiro-Gaia-Porto",
+   "firma": "Roche Portugal"
+  },
+  {
    "titel": "Formulário de contacto Vorwerk Portugal",
    "ort": "Entre em contacto connosco Podemos ajudá-lo? Apoio ao Cliente: 210 11 76 76 bimbyapoioaocliente@vorwerk.pt kobold.apoioaocliente@vorwerk.pt Chamada para a rede fixa nacional Horário de funcionamento: 2ª a 6ª das 9h00 às",
    "url": "https://support-portugal.vorwerk.com/hc/pt/requests/new?ticket_form_id=17426194304796",
@@ -1202,14 +1184,8 @@
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
-   "titel": "Salesforce Business Analyst | DCX-SFS / ABL Lisboa - Colombo, VNG - Lake Towers SaaS Solutions Permanent Experienced Professionals",
-   "ort": "Salesforce Business Analyst | DCX-SFS / ABL Lisboa - Colombo, VNG - Lake Towers SaaS Solutions Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/391394-en_US+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
    "titel": "Sales Executive (all genders)",
-   "ort": "Sales Executive (all genders) Lisbon, PT Oct 29, 2026",
+   "ort": "Sales Executive (all genders) Lisbon, PT Nov 27, 2026",
    "url": "https://jobs.valantic.com/job/Lisbon-Sales-Executive-%28all-genders%29/1153083155/",
    "firma": "valantic Portugal (valantic BT)"
   },
@@ -1278,24 +1254,6 @@
    "ort": "Start and elevate your business in Portugal All it takes to succeed, in one platform: global business payments, certified invoicing*, online accounting, and more. Business account Accounting *Certified invoicing is manda",
    "url": "https://rauva.com/accounting",
    "firma": "Rauva"
-  },
-  {
-   "titel": "Casas à venda em Portugal",
-   "ort": "Estás à procura de casa? Motor de pesquisa principal Pesquisa mais rapidamente com a nossa app Apartamentos de bancos Casas à venda em Portugal Arrendamento de casas em Portugal Casas e apartamentos em arrendamento Apart",
-   "url": "https://www.idealista.pt/properties-for-sale-in-portugal",
-   "firma": "idealista"
-  },
-  {
-   "titel": "Apartamentos e casas de luxo à venda em Portugal",
-   "ort": "Estás à procura de casa? Motor de pesquisa principal Pesquisa mais rapidamente com a nossa app Apartamentos de bancos Casas à venda em Portugal Arrendamento de casas em Portugal Casas e apartamentos em arrendamento Apart",
-   "url": "https://www.idealista.pt/luxury-homes-portugal",
-   "firma": "idealista"
-  },
-  {
-   "titel": "Product Owner, Asset Management",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
-   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/3c5728b1-9398-485a-b955-8455fca552ba",
-   "firma": "Luma Financial Technologies"
   },
   {
    "titel": "Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation",

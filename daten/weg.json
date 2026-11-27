@@ -1,16 +1,276 @@
 {
  "meta": {
-  "stand": "2026-11-26T14:36Z",
-  "datum": "2026-11-26",
+  "stand": "2026-11-27T12:56Z",
+  "datum": "2026-11-27",
   "fertig": true,
   "firmen": 177,
-  "ok": 150,
-  "leer": 21,
-  "fehler": 6,
-  "stellen_lissabon": 862,
-  "kandidaten": 217,
-  "neu": 217,
-  "weg": 0
+  "ok": 149,
+  "leer": 23,
+  "fehler": 5,
+  "stellen_lissabon": 853,
+  "kandidaten": 210,
+  "neu": 3,
+  "weg": 37
  },
- "stellen": []
+ "stellen": [
+  {
+   "url": "https://jobs.lever.co/emma-sleep/254985be-9a9e-4863-bbaa-d8245167a43b",
+   "erst": "2026-11-26",
+   "firma": "Emma – The Sleep Company",
+   "titel": "Employer Branding Manager",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://jobs.lever.co/emma-sleep/ecfd5129-0dc0-4a43-86bb-28aad76bd95e",
+   "erst": "2026-11-26",
+   "firma": "Emma – The Sleep Company",
+   "titel": "Global Key Account Management Intern",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163722489",
+   "erst": "2026-11-26",
+   "firma": "Natixis in Portugal",
+   "titel": "Junior Financial Crime | SG",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163271409",
+   "erst": "2026-11-26",
+   "firma": "Natixis in Portugal",
+   "titel": "Junior QA Analyst (French Speaker) | BPCE-SI",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://jobs.ashbyhq.com/pleo/daf01099-d709-4ba3-9ba2-d4172b29638f",
+   "erst": "2026-11-26",
+   "firma": "Pleo",
+   "titel": "Account Manager ES",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://jobs.ashbyhq.com/pleo/c894dbed-0c90-44d1-81db-0de99f1197a0",
+   "erst": "2026-11-26",
+   "firma": "Pleo",
+   "titel": "Senior Campaign Manager (Temp Contract)",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://jobs.smartrecruiters.com/Devoteam/744000148475979",
+   "erst": "2026-11-26",
+   "firma": "Devoteam Portugal",
+   "titel": "Devoteam Cyber Trust | Engagement Manager",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://jobs.smartrecruiters.com/Devoteam/744000115893057",
+   "erst": "2026-11-26",
+   "firma": "Devoteam Portugal",
+   "titel": "Software Development | Angular Developer",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://axiansdigitalconsulting.teamtailor.com/jobs/8180796-sap-developer-german-speaker",
+   "erst": "2026-11-26",
+   "firma": "Axians Digital Consulting Portugal",
+   "titel": "SAP Developer (German speaker)",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://careers.mastercard.com/us/en/job/R-290013/Director-Product-Management",
+   "erst": "2026-11-26",
+   "firma": "Mastercard",
+   "titel": "Director, Product Management",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://careers.coverflex.com/jobs/8384730-fp-a-manager",
+   "erst": "2026-11-26",
+   "firma": "Coverflex",
+   "titel": "FP&A Manager",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://careers.loreal.com/en/job/lisbon/l-internship-program-december-2026-brand-activation-pr-and-advocacy-key-account-and-commercial-oper/3456/47247592576",
+   "erst": "2026-11-26",
+   "firma": "L'Oréal Portugal",
+   "titel": "L' Internship Program December 2026: Brand Activation, PR & Advocacy, Key Account & Commercial Operations (Lisbon) Lisbon, Lisbon District, Portugal",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://jobs.deloitte.pt/job/Porto-Operate-Associate-Analyst-Backoffice-Porto/1354196655/",
+   "erst": "2026-11-26",
+   "firma": "Deloitte Portugal",
+   "titel": "Operate Associate Analyst | Backoffice Porto",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://jobs.deloitte.pt/job/Lisboa-Operate-Associate-Analyst-Backoffice-Lisboa/1374120155/",
+   "erst": "2026-11-26",
+   "firma": "Deloitte Portugal",
+   "titel": "Operate Associate Analyst | Backoffice Lisboa",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://pwcportugal.csod.com/ux/ats/careersite/4/home/requisition/578?c=pwcportugal",
+   "erst": "2026-11-26",
+   "firma": "PwC Portugal",
+   "titel": "Administrative Support Assistant",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://careers.solvay.com/job/Portugal-Lisbon-Finance-and-Analytics-Trainee-%28FMX%29/1376460657/",
+   "erst": "2026-11-26",
+   "firma": "Solvay",
+   "titel": "Finance and Analytics Trainee (F/M/X)",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://careers.solvay.com/job/Portugal-Lisbon-RPA-Developer-Trainee-%28HMX%29/1375975457/",
+   "erst": "2026-11-26",
+   "firma": "Solvay",
+   "titel": "RPA Developer Trainee (H/M/X)",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://careers.solvay.com/job/Portugal-Lisbon-IT-PMO-Trainee-%28FMX%29/1377029657/",
+   "erst": "2026-11-26",
+   "firma": "Solvay",
+   "titel": "IT PMO Trainee (F/M/X)",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://careers.beyondgravity.com/BeyondGravity/job/Lisbon-Accounts-Payable-Specialist-%28all-genders%29/1447571133/",
+   "erst": "2026-11-26",
+   "firma": "Beyond Gravity",
+   "titel": "Accounts Payable Specialist (all genders)",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://careers.bat.com/en/job/lisbon/route-to-market-trade-analyst/1045/47228866816",
+   "erst": "2026-11-26",
+   "firma": "BAT Portugal (British American Tobacco)",
+   "titel": "Route to Market Trade Analyst Location: Lisbon, Lisbon District",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://www.sixt.jobs/pt/jobs/9c0d7aee-fb56-4a06-a9a8-1d2849845023",
+   "erst": "2026-11-26",
+   "firma": "Sixt",
+   "titel": "Software Engineering Manager – Strategic Fleet Planning (m/f/d)",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://www.jobs.global.fujitsu.com/job/Workplace-&amp;-Facilities-Coordinator-%28GRF10%29/13152-en_US",
+   "erst": "2026-11-26",
+   "firma": "Fujitsu Global Delivery Centre Portugal",
+   "titel": "Workplace & Facilities Coordinator (GRF10)",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV386784ENGLOBALEXTERNAL/Estagio-profissional-GTW-Operations-Support",
+   "erst": "2026-11-26",
+   "firma": "DHL Portugal",
+   "titel": "Estagio profissional GTW & Operations Support",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://www.novartis.com/careers/career-search/job/details/req-10092737-business-insights-execution-excellence-head",
+   "erst": "2026-11-26",
+   "firma": "Novartis Portugal",
+   "titel": "Business Insights & Execution Excellence Head",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/227090-en_GB+sap_btp",
+   "erst": "2026-11-26",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Validation Engineer Lisboa - Expo, VNG - Lake Towers, Fundão Software Engineering Permanent Experienced Professionals",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/338971-en_US+sap_btp",
+   "erst": "2026-11-26",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Microsoft Dynamics 365 Developer Lisboa - Colombo, VNG - Lake Towers Software Engineering Permanent Experienced Professionals",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/570170-en_GB+sap_btp",
+   "erst": "2026-11-26",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "IpTel - Technical Project Manager Lisboa - Expo, Fundão, VNG - Lake Towers, VNG - Cais Gaia, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/391394-en_US+sap_btp",
+   "erst": "2026-11-26",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Salesforce Business Analyst | DCX-SFS / ABL Lisboa - Colombo, VNG - Lake Towers SaaS Solutions Permanent Experienced Professionals",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/539123-en_GB+sap_btp",
+   "erst": "2026-11-26",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Senior RTL Engineer Lisboa - Expo, Fundão, VNG - Cais Gaia Products & Systems Engineering Permanent Experienced Professionals",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/3c5728b1-9398-485a-b955-8455fca552ba",
+   "erst": "2026-11-26",
+   "firma": "Luma Financial Technologies",
+   "titel": "Product Owner, Asset Management",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/63c5b8a6-4efb-477f-9574-ee51a310f7e5",
+   "erst": "2026-11-26",
+   "firma": "Luma Financial Technologies",
+   "titel": "Production Support Engineer",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/d264873c-f6fb-4ff0-acf1-854bd6bb298b",
+   "erst": "2026-11-26",
+   "firma": "Luma Financial Technologies",
+   "titel": "Production Support Engineer",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/140707de-cba9-417d-8518-fd3aeea252fc",
+   "erst": "2026-11-26",
+   "firma": "Luma Financial Technologies",
+   "titel": "Senior Software Development Engineer",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/2a3757d9-6762-4c89-af2a-490ae60d0988",
+   "erst": "2026-11-26",
+   "firma": "Luma Financial Technologies",
+   "titel": "Senior Software Development Engineer",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/dca4c76d-526b-45e9-a6f4-c12109d57aee",
+   "erst": "2026-11-26",
+   "firma": "Luma Financial Technologies",
+   "titel": "Site Reliability Engineer",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/f996c2a3-b387-4fce-b867-4d2d53243ce8",
+   "erst": "2026-11-26",
+   "firma": "Luma Financial Technologies",
+   "titel": "Software Development Engineer",
+   "zuletzt": "2026-11-26"
+  },
+  {
+   "url": "https://careers.loreal.com/en/job/madrid/brand-media-manager-l-oreal-spain-and-portugal/3456/47253890240",
+   "erst": "2026-11-26",
+   "firma": "L'Oréal Portugal",
+   "titel": "Brand Media Manager || L'Oréal Spain & Portugal Madrid, Madrid, Spain",
+   "zuletzt": "2026-11-26"
+  }
+ ]
 }
