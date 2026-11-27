@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-27T12:56Z",
+  "stand": "2026-11-27T14:30Z",
   "datum": "2026-11-27",
   "fertig": true,
   "firmen": 177,
-  "ok": 149,
-  "leer": 23,
-  "fehler": 5,
-  "stellen_lissabon": 853,
-  "kandidaten": 210,
-  "neu": 3,
-  "weg": 37
+  "ok": 147,
+  "leer": 24,
+  "fehler": 6,
+  "stellen_lissabon": 857,
+  "kandidaten": 211,
+  "neu": 4,
+  "weg": 0
  },
  "firmen": [
   {
@@ -19,6 +19,13 @@
    "status": "fehler",
    "treffer": 0,
    "fehler": "Schnittstelle: greenhouse: RuntimeError: Greenhouse-Board nicht gefunden (Name falsch?) | Browser: Seite leer oder gesperrt"
+  },
+  {
+   "name": "Glovo / Delivery Hero",
+   "methode": "browser",
+   "status": "fehler",
+   "treffer": 0,
+   "fehler": "Seite leer oder gesperrt"
   },
   {
    "name": "Inetum Portugal",
@@ -54,6 +61,13 @@
    "status": "leer",
    "treffer": 0,
    "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/jobs | Browser: ok"
+  },
+  {
+   "name": "Alvarez & Marsal Portugal",
+   "methode": "browser",
+   "status": "leer",
+   "treffer": 0,
+   "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
    "name": "Atlys",
@@ -105,18 +119,11 @@
    "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
-   "name": "Compass Lexecon (FTI)",
-   "methode": "browser",
-   "status": "leer",
-   "treffer": 0,
-   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkdayjobs.com/wday/cxs/fticonsulting/Compas | Browser: ok"
-  },
-  {
    "name": "Ferring Pharmaceuticals (Lisbon Hub)",
    "methode": "browser",
    "status": "leer",
    "treffer": 0,
-   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://ferring.wd3.myworkdayjobs.com/wday/cxs/ferring/Ferring/jobs | Browser: ok"
+   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://ferring.wd3.myworkdayjobs.com/wday/cxs/ferring/Ferring/jobs | Browser: keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
    "name": "Finastra",
@@ -141,6 +148,13 @@
   },
   {
    "name": "Landing.jobs",
+   "methode": "browser",
+   "status": "leer",
+   "treffer": 0,
+   "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
+  },
+  {
+   "name": "Lime",
    "methode": "browser",
    "status": "leer",
    "treffer": 0,
@@ -252,13 +266,6 @@
    "fehler": ""
   },
   {
-   "name": "Alvarez & Marsal Portugal",
-   "methode": "browser",
-   "status": "ok",
-   "treffer": 0,
-   "fehler": ""
-  },
-  {
    "name": "Amazon / AWS Portugal",
    "methode": "amazon",
    "status": "ok",
@@ -367,7 +374,7 @@
    "name": "Bosch Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 6,
+   "treffer": 4,
    "fehler": ""
   },
   {
@@ -431,6 +438,13 @@
    "methode": "greenhouse",
    "status": "ok",
    "treffer": 63,
+   "fehler": ""
+  },
+  {
+   "name": "Compass Lexecon (FTI)",
+   "methode": "workday",
+   "status": "ok",
+   "treffer": 0,
    "fehler": ""
   },
   {
@@ -637,13 +651,6 @@
    "fehler": ""
   },
   {
-   "name": "Glovo / Delivery Hero",
-   "methode": "browser",
-   "status": "ok",
-   "treffer": 0,
-   "fehler": ""
-  },
-  {
    "name": "Goparity",
    "methode": "browser",
    "status": "ok",
@@ -770,17 +777,10 @@
    "fehler": ""
   },
   {
-   "name": "Lime",
-   "methode": "browser",
-   "status": "ok",
-   "treffer": 2,
-   "fehler": ""
-  },
-  {
    "name": "Luma Financial Technologies",
    "methode": "browser",
    "status": "ok",
-   "treffer": 0,
+   "treffer": 7,
    "fehler": ""
   },
   {
@@ -1130,7 +1130,7 @@
    "name": "Unilever Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 0,
+   "treffer": 1,
    "fehler": ""
   },
   {

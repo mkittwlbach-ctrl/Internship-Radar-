@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-27T12:56Z",
+  "stand": "2026-11-27T14:30Z",
   "datum": "2026-11-27",
   "fertig": true,
   "firmen": 177,
-  "ok": 149,
-  "leer": 23,
-  "fehler": 5,
-  "stellen_lissabon": 853,
-  "kandidaten": 210,
-  "neu": 3,
-  "weg": 37
+  "ok": 147,
+  "leer": 24,
+  "fehler": 6,
+  "stellen_lissabon": 857,
+  "kandidaten": 211,
+  "neu": 4,
+  "weg": 0
  },
  "stellen": [
   {
@@ -30,6 +30,12 @@
    "ort": "Sales Account Manager - Cardiometabolic & Diabetes Care (Aveiro/Gaia/Porto) Location Lisbon, Portugal Category Sales & Marketing We are expanding our team: As a Sales Account Manager in Cardiometabolic & Diabetes Care, y",
    "url": "https://careers.roche.com/global/en/job/202611-130018/Sales-Account-Manager-Cardiometabolic-Diabetes-Care-Aveiro-Gaia-Porto",
    "firma": "Roche Portugal"
+  },
+  {
+   "titel": "Product Owner, Asset Management",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/3c5728b1-9398-485a-b955-8455fca552ba",
+   "firma": "Luma Financial Technologies"
   }
  ]
 }

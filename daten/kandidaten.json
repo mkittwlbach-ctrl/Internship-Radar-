@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-27T12:56Z",
+  "stand": "2026-11-27T14:30Z",
   "datum": "2026-11-27",
   "fertig": true,
   "firmen": 177,
-  "ok": 149,
-  "leer": 23,
-  "fehler": 5,
-  "stellen_lissabon": 853,
-  "kandidaten": 210,
-  "neu": 3,
-  "weg": 37
+  "ok": 147,
+  "leer": 24,
+  "fehler": 6,
+  "stellen_lissabon": 857,
+  "kandidaten": 211,
+  "neu": 4,
+  "weg": 0
  },
  "stellen": [
   {
@@ -933,7 +933,7 @@
   },
   {
    "titel": "Advanced Product Manager - Digital Trust Portugal View Job",
-   "ort": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Software Engineer - Customer Success Portugal View Job Instructional Designer Portugal View Job Head of GTM OS & Regional Business Partn",
+   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
    "url": "https://careers.feedzai.com/job_description?gh_jid=7978882",
    "firma": "Feedzai"
   },
@@ -1254,6 +1254,12 @@
    "ort": "Start and elevate your business in Portugal All it takes to succeed, in one platform: global business payments, certified invoicing*, online accounting, and more. Business account Accounting *Certified invoicing is manda",
    "url": "https://rauva.com/accounting",
    "firma": "Rauva"
+  },
+  {
+   "titel": "Product Owner, Asset Management",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/3c5728b1-9398-485a-b955-8455fca552ba",
+   "firma": "Luma Financial Technologies"
   },
   {
    "titel": "Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation",
