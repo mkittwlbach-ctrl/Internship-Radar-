@@ -1,23 +1,29 @@
 {
  "meta": {
-  "stand": "2026-11-28T12:08Z",
+  "stand": "2026-11-28T13:46Z",
   "datum": "2026-11-28",
   "fertig": true,
   "firmen": 177,
-  "ok": 149,
+  "ok": 152,
   "leer": 20,
-  "fehler": 8,
-  "stellen_lissabon": 861,
-  "kandidaten": 209,
-  "neu": 1,
-  "weg": 21
+  "fehler": 5,
+  "stellen_lissabon": 872,
+  "kandidaten": 211,
+  "neu": 2,
+  "weg": 0
  },
  "stellen": [
   {
    "titel": "Nov. 27, 2026 Italian Speaking Business Operations Coordinator Portugal - Lisbon",
-   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
+   "ort": "Nov. 27, 2026 Italian Speaking Business Operations Coordinator Portugal - Lisbon Save Job Button",
    "url": "https://careers.amgen.com/en/job/lisbon/italian-speaking-business-operations-coordinator/87/103868230480",
    "firma": "Amgen Capability Center Portugal"
+  },
+  {
+   "titel": "Promotora Lamar Development aterra em Portugal com compra da Casa ValmorLer mais",
+   "ort": "idealista news Artigos de atualidade sobre o mercado imobiliário e negócios. Artigos destacadosImobiliárioFinançasPara fériasDecoração Puxadores: a forma rápida e barata de dar identidade própria à tua casa Ler mais Cons",
+   "url": "https://www.idealista.pt/news/financas/investimentos/2026/11/27/79262-promotora-lamar-development-aterra-em-portugal-com-compra-da-casa-valmor",
+   "firma": "idealista"
   }
  ]
 }

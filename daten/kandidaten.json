@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-28T12:08Z",
+  "stand": "2026-11-28T13:46Z",
   "datum": "2026-11-28",
   "fertig": true,
   "firmen": 177,
-  "ok": 149,
+  "ok": 152,
   "leer": 20,
-  "fehler": 8,
-  "stellen_lissabon": 861,
-  "kandidaten": 209,
-  "neu": 1,
-  "weg": 21
+  "fehler": 5,
+  "stellen_lissabon": 872,
+  "kandidaten": 211,
+  "neu": 2,
+  "weg": 0
  },
  "stellen": [
   {
@@ -927,7 +927,7 @@
   },
   {
    "titel": "Advanced Product Manager - Digital Trust Portugal View Job",
-   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
+   "ort": "Engineering Manager - Risk Experience Portugal View Job Instructional Designer Portugal View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View Job Advanced Product Manager - Digital Trust Portugal",
    "url": "https://careers.feedzai.com/job_description?gh_jid=7978882",
    "firma": "Feedzai"
   },
@@ -966,12 +966,6 @@
    "ort": "In Lisbon, our product and engineering teams are building the future of payments. It’s where innovation meets collaboration, all against the backdrop of stunning ocean views 🌊 and plenty of sunshine ☀️. Here, solving co",
    "url": "https://jobs.mollie.com/articles/from-rio-to-lisbon-and-back-to-mollie-alicia-zavalis-journey-of-courage-and-career-growth",
    "firma": "Mollie"
-  },
-  {
-   "titel": "Corporate Office Sustainability, Environment, Health and Safety - Own Operations Expert (f/m/div)",
-   "ort": "Corporate Office Sustainability, Environment, Health and Safety - Own Operations Expert (f/m/div) Áreas de trabalho Outros Locais da Bosch Lisboa Híbrido Vaga publicada 11/25/2026",
-   "url": "https://jobs.bosch.com/pt/job/REF298891Y-corporate-office-sustainability-environment-health-and-safety-own-operations-expert-f-m-div",
-   "firma": "Bosch Portugal"
   },
   {
    "titel": "Consultant Incentivos",
@@ -1083,19 +1077,19 @@
   },
   {
    "titel": "Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon",
-   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
+   "ort": "Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button",
    "url": "https://careers.amgen.com/en/job/lisbon/operations-performance-and-reporting-analyst/87/103726673296",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Nov. 27, 2026 Italian Speaking Business Operations Coordinator Portugal - Lisbon",
-   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
+   "ort": "Nov. 27, 2026 Italian Speaking Business Operations Coordinator Portugal - Lisbon Save Job Button",
    "url": "https://careers.amgen.com/en/job/lisbon/italian-speaking-business-operations-coordinator/87/103868230480",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Oct. 15, 2026 CRM Operations Specialist Portugal - Lisbon",
-   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
+   "ort": "Oct. 15, 2026 CRM Operations Specialist Portugal - Lisbon Save Job Button",
    "url": "https://careers.amgen.com/en/job/lisbon/crm-operations-specialist/87/101999675024",
    "firma": "Amgen Capability Center Portugal"
   },
@@ -1242,6 +1236,24 @@
    "ort": "Start and elevate your business in Portugal All it takes to succeed, in one platform: global business payments, certified invoicing*, online accounting, and more. Business account Accounting *Certified invoicing is manda",
    "url": "https://rauva.com/accounting",
    "firma": "Rauva"
+  },
+  {
+   "titel": "Promotora Lamar Development aterra em Portugal com compra da Casa ValmorLer mais",
+   "ort": "idealista news Artigos de atualidade sobre o mercado imobiliário e negócios. Artigos destacadosImobiliárioFinançasPara fériasDecoração Puxadores: a forma rápida e barata de dar identidade própria à tua casa Ler mais Cons",
+   "url": "https://www.idealista.pt/news/financas/investimentos/2026/11/27/79262-promotora-lamar-development-aterra-em-portugal-com-compra-da-casa-valmor",
+   "firma": "idealista"
+  },
+  {
+   "titel": "Casas à venda em Portugal",
+   "ort": "Estás à procura de casa? Motor de pesquisa principal Pesquisa mais rapidamente com a nossa app Apartamentos de bancos Casas à venda em Portugal Arrendamento de casas em Portugal Casas e apartamentos em arrendamento Apart",
+   "url": "https://www.idealista.pt/properties-for-sale-in-portugal",
+   "firma": "idealista"
+  },
+  {
+   "titel": "Apartamentos e casas de luxo à venda em Portugal",
+   "ort": "Estás à procura de casa? Motor de pesquisa principal Pesquisa mais rapidamente com a nossa app Apartamentos de bancos Casas à venda em Portugal Arrendamento de casas em Portugal Casas e apartamentos em arrendamento Apart",
+   "url": "https://www.idealista.pt/luxury-homes-portugal",
+   "firma": "idealista"
   },
   {
    "titel": "Product Owner, Asset Management",

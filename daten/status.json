@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-28T12:08Z",
+  "stand": "2026-11-28T13:46Z",
   "datum": "2026-11-28",
   "fertig": true,
   "firmen": 177,
-  "ok": 149,
+  "ok": 152,
   "leer": 20,
-  "fehler": 8,
-  "stellen_lissabon": 861,
-  "kandidaten": 209,
-  "neu": 1,
-  "weg": 21
+  "fehler": 5,
+  "stellen_lissabon": 872,
+  "kandidaten": 211,
+  "neu": 2,
+  "weg": 0
  },
  "firmen": [
   {
@@ -28,13 +28,6 @@
    "fehler": "Browser: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.cgi.com/portugal/pt-pt/cgi-summer-internship\", waiting until \"domcontent"
   },
   {
-   "name": "Ferring Pharmaceuticals (Lisbon Hub)",
-   "methode": "browser",
-   "status": "fehler",
-   "treffer": 0,
-   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://ferring.wd3.myworkdayjobs.com/wday/cxs/ferring/Ferring/jobs | Browser: Seite leer oder gesperrt"
-  },
-  {
    "name": "Inetum Portugal",
    "methode": "browser",
    "status": "fehler",
@@ -50,20 +43,6 @@
   },
   {
    "name": "Nestlé Portugal",
-   "methode": "browser",
-   "status": "fehler",
-   "treffer": 0,
-   "fehler": "Seite leer oder gesperrt"
-  },
-  {
-   "name": "Revolut",
-   "methode": "browser",
-   "status": "fehler",
-   "treffer": 0,
-   "fehler": "Seite leer oder gesperrt"
-  },
-  {
-   "name": "Schneider Electric Portugal",
    "methode": "browser",
    "status": "fehler",
    "treffer": 0,
@@ -126,6 +105,13 @@
    "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
+   "name": "Ferring Pharmaceuticals (Lisbon Hub)",
+   "methode": "browser",
+   "status": "leer",
+   "treffer": 0,
+   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://ferring.wd3.myworkdayjobs.com/wday/cxs/ferring/Ferring/jobs | Browser: ok"
+  },
+  {
    "name": "Finastra",
    "methode": "browser",
    "status": "leer",
@@ -168,14 +154,14 @@
    "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
-   "name": "OutSystems",
+   "name": "SOMAÍ Pharmaceuticals",
    "methode": "browser",
    "status": "leer",
    "treffer": 0,
-   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://outsystems.wd503.myworkdayjobs.com/wday/cxs/outsystems/OutSystems/j | Browser: ok"
+   "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
-   "name": "SOMAÍ Pharmaceuticals",
+   "name": "Schneider Electric Portugal",
    "methode": "browser",
    "status": "leer",
    "treffer": 0,
@@ -197,13 +183,6 @@
   },
   {
    "name": "Zeoos",
-   "methode": "browser",
-   "status": "leer",
-   "treffer": 0,
-   "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
-  },
-  {
-   "name": "idealista",
    "methode": "browser",
    "status": "leer",
    "treffer": 0,
@@ -269,7 +248,7 @@
    "name": "Amgen Capability Center Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 13,
+   "treffer": 12,
    "fehler": ""
   },
   {
@@ -367,7 +346,7 @@
    "name": "Bosch Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 4,
+   "treffer": 3,
    "fehler": ""
   },
   {
@@ -875,6 +854,13 @@
    "fehler": ""
   },
   {
+   "name": "OutSystems",
+   "methode": "workday",
+   "status": "ok",
+   "treffer": 30,
+   "fehler": ""
+  },
+  {
    "name": "PNO Consultants Portugal",
    "methode": "browser",
    "status": "ok",
@@ -953,6 +939,13 @@
   },
   {
    "name": "Remote",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
+   "name": "Revolut",
    "methode": "browser",
    "status": "ok",
    "treffer": 0,
@@ -1236,6 +1229,13 @@
    "methode": "greenhouse",
    "status": "ok",
    "treffer": 9,
+   "fehler": ""
+  },
+  {
+   "name": "idealista",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 3,
    "fehler": ""
   },
   {
