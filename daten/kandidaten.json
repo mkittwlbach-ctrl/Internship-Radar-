@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-27T14:30Z",
-  "datum": "2026-11-27",
+  "stand": "2026-11-28T12:08Z",
+  "datum": "2026-11-28",
   "fertig": true,
   "firmen": 177,
-  "ok": 147,
-  "leer": 24,
-  "fehler": 6,
-  "stellen_lissabon": 857,
-  "kandidaten": 211,
-  "neu": 4,
-  "weg": 0
+  "ok": 149,
+  "leer": 20,
+  "fehler": 8,
+  "stellen_lissabon": 861,
+  "kandidaten": 209,
+  "neu": 1,
+  "weg": 21
  },
  "stellen": [
   {
@@ -407,12 +407,6 @@
    "titel": "Account Manager II (German Speaking)",
    "ort": "Berlin / Lisbon",
    "url": "https://jobs.ashbyhq.com/pleo/3501c4b5-c2d0-43cf-ad22-99a4c46d75ae",
-   "firma": "Pleo"
-  },
-  {
-   "titel": "Sales Operations Business Partner",
-   "ort": "Lisbon / London / Madrid",
-   "url": "https://jobs.ashbyhq.com/pleo/2e97058b-71ce-4ba9-8eb3-2462ce369521",
    "firma": "Pleo"
   },
   {
@@ -933,7 +927,7 @@
   },
   {
    "titel": "Advanced Product Manager - Digital Trust Portugal View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
    "url": "https://careers.feedzai.com/job_description?gh_jid=7978882",
    "firma": "Feedzai"
   },
@@ -1089,21 +1083,21 @@
   },
   {
    "titel": "Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon",
-   "ort": "Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/operations-performance-and-reporting-analyst/87/103726673296",
    "firma": "Amgen Capability Center Portugal"
   },
   {
-   "titel": "Oct. 15, 2026 CRM Operations Specialist Portugal - Lisbon",
-   "ort": "Oct. 15, 2026 CRM Operations Specialist Portugal - Lisbon Save Job Button",
-   "url": "https://careers.amgen.com/en/job/lisbon/crm-operations-specialist/87/101999675024",
+   "titel": "Nov. 27, 2026 Italian Speaking Business Operations Coordinator Portugal - Lisbon",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
+   "url": "https://careers.amgen.com/en/job/lisbon/italian-speaking-business-operations-coordinator/87/103868230480",
    "firma": "Amgen Capability Center Portugal"
   },
   {
-   "titel": "Supply Network Planner",
-   "ort": "Supply Network Planner Lisbon, Portugal Global Operations & Production 2 Nov 2026",
-   "url": "https://careers.grunenthal.com/job/Lisbon-Supply-Network-Planner/1453478533/",
-   "firma": "Grünenthal (Lisbon Hub)"
+   "titel": "Oct. 15, 2026 CRM Operations Specialist Portugal - Lisbon",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
+   "url": "https://careers.amgen.com/en/job/lisbon/crm-operations-specialist/87/101999675024",
+   "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Contacts",
@@ -1124,15 +1118,15 @@
    "firma": "Henkel Portugal"
   },
   {
-   "titel": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers",
-   "ort": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026",
-   "url": "https://opportunities.vodafone.com/job/Lisbon-Operations-Intelligence-&-Performance-Insights-Expert-%28mfd%29-for-Vantage-Towers/1446603033/",
+   "titel": "Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers",
+   "ort": "Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026",
+   "url": "https://opportunities.vodafone.com/job/Lisbon-Automation%2C-AI-and-Zero-Touch-Operations-Expert-%28mfd%29-for-Vantage-Towers/1446602833/",
    "firma": "Vodafone Portugal"
   },
   {
-   "titel": "Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers",
-   "ort": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026",
-   "url": "https://opportunities.vodafone.com/job/Lisbon-Automation%2C-AI-and-Zero-Touch-Operations-Expert-%28mfd%29-for-Vantage-Towers/1446602833/",
+   "titel": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers",
+   "ort": "Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026",
+   "url": "https://opportunities.vodafone.com/job/Lisbon-Operations-Intelligence-&-Performance-Insights-Expert-%28mfd%29-for-Vantage-Towers/1446603033/",
    "firma": "Vodafone Portugal"
   },
   {
@@ -1214,12 +1208,6 @@
    "firma": "Celfocus"
   },
   {
-   "titel": "Contacte-nos",
-   "ort": "MenuPortugal Open submenu (Serviços)Serviços Open submenu (Indústrias)Indústrias Open submenu (Insights)Insights Open submenu (Carreiras)Carreiras Contacte-nos",
-   "url": "https://www.cgi.com/portugal/pt-pt/contacte-nos",
-   "firma": "CGI Portugal"
-  },
-  {
    "titel": "About Strategy&",
    "ort": "Menu About Strategy& About Strategy& History Corporate responsibility Alumni Leadership Contact Strategy & Portugal",
    "url": "https://www.strategyand.pwc.com/pt/en/about-us.html",
@@ -1257,7 +1245,7 @@
   },
   {
    "titel": "Product Owner, Asset Management",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering Lisbon, Portugal View job Production Support Engineer Engineering India View job Senior",
    "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/3c5728b1-9398-485a-b955-8455fca552ba",
    "firma": "Luma Financial Technologies"
   },

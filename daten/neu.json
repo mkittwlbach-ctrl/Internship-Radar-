@@ -1,41 +1,23 @@
 {
  "meta": {
-  "stand": "2026-11-27T14:30Z",
-  "datum": "2026-11-27",
+  "stand": "2026-11-28T12:08Z",
+  "datum": "2026-11-28",
   "fertig": true,
   "firmen": 177,
-  "ok": 147,
-  "leer": 24,
-  "fehler": 6,
-  "stellen_lissabon": 857,
-  "kandidaten": 211,
-  "neu": 4,
-  "weg": 0
+  "ok": 149,
+  "leer": 20,
+  "fehler": 8,
+  "stellen_lissabon": 861,
+  "kandidaten": 209,
+  "neu": 1,
+  "weg": 21
  },
  "stellen": [
   {
-   "titel": "Junior Financial Crime Officer | SG",
-   "ort": "Portugal  pt",
-   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000163891079",
-   "firma": "Natixis in Portugal"
-  },
-  {
-   "titel": "CUSTOMS CONTACT - DHL EXPRESS",
-   "ort": "CUSTOMS CONTACT - DHL EXPRESS Location Lisbon, Lisboa, Portugal Full-time O Customs Contact é responsável pelo contacto junto do cliente transmitindo e solicitando informação / documentação referente a todos os envios ex",
-   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV392083ENGLOBALEXTERNAL/CUSTOMS-CONTACT-DHL-EXPRESS",
-   "firma": "DHL Portugal"
-  },
-  {
-   "titel": "Sales Account Manager - Cardiometabolic & Diabetes Care (Aveiro/Gaia/Porto)",
-   "ort": "Sales Account Manager - Cardiometabolic & Diabetes Care (Aveiro/Gaia/Porto) Location Lisbon, Portugal Category Sales & Marketing We are expanding our team: As a Sales Account Manager in Cardiometabolic & Diabetes Care, y",
-   "url": "https://careers.roche.com/global/en/job/202611-130018/Sales-Account-Manager-Cardiometabolic-Diabetes-Care-Aveiro-Gaia-Porto",
-   "firma": "Roche Portugal"
-  },
-  {
-   "titel": "Product Owner, Asset Management",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
-   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/3c5728b1-9398-485a-b955-8455fca552ba",
-   "firma": "Luma Financial Technologies"
+   "titel": "Nov. 27, 2026 Italian Speaking Business Operations Coordinator Portugal - Lisbon",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
+   "url": "https://careers.amgen.com/en/job/lisbon/italian-speaking-business-operations-coordinator/87/103868230480",
+   "firma": "Amgen Capability Center Portugal"
   }
  ]
 }

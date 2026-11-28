@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-27T14:30Z",
-  "datum": "2026-11-27",
+  "stand": "2026-11-28T12:08Z",
+  "datum": "2026-11-28",
   "fertig": true,
   "firmen": 177,
-  "ok": 147,
-  "leer": 24,
-  "fehler": 6,
-  "stellen_lissabon": 857,
-  "kandidaten": 211,
-  "neu": 4,
-  "weg": 0
+  "ok": 149,
+  "leer": 20,
+  "fehler": 8,
+  "stellen_lissabon": 861,
+  "kandidaten": 209,
+  "neu": 1,
+  "weg": 21
  },
  "stellen": [
   {
@@ -65,12 +65,6 @@
    "titel": "Accounts Receivable Accountant",
    "ort": "Lisbon / Lisbon",
    "url": "https://jobs.lever.co/emma-sleep/859c3397-b890-41d8-896a-17aa67d5f68e",
-   "firma": "Emma – The Sleep Company"
-  },
-  {
-   "titel": "Analytics Engineer",
-   "ort": "Frankfurt / Frankfurt / Lisbon / Berlin",
-   "url": "https://jobs.lever.co/emma-sleep/0b987a9f-c040-4abc-a9c0-4ca205f702cf",
    "firma": "Emma – The Sleep Company"
   },
   {
@@ -596,6 +590,18 @@
    "firma": "Unbabel"
   },
   {
+   "titel": "Senior Electronics Engineer",
+   "ort": "Lisbon, Portugal Lisbon Portugal",
+   "url": "https://bloqit.teamtailor.com/jobs/8809672-senior-electronics-engineer",
+   "firma": "Bloq.it"
+  },
+  {
+   "titel": "Hardware Test Engineer",
+   "ort": "Lisbon, Portugal Lisbon Portugal \n           Porto, Portugal Porto Portugal",
+   "url": "https://bloqit.teamtailor.com/jobs/8809515-hardware-test-engineer",
+   "firma": "Bloq.it"
+  },
+  {
    "titel": "Key Account Manager",
    "ort": "Lisbon, Portugal Lisbon Portugal",
    "url": "https://bloqit.teamtailor.com/jobs/8777377-key-account-manager",
@@ -623,6 +629,12 @@
    "titel": "Head of Marketing",
    "ort": "Lisbon, Portugal Lisbon Portugal \n           Porto, Portugal Porto Portugal",
    "url": "https://bloqit.teamtailor.com/jobs/8175935-head-of-marketing",
+   "firma": "Bloq.it"
+  },
+  {
+   "titel": "Field Service Coordinator - Italy & Germany",
+   "ort": "Lisbon, Portugal Lisbon Portugal \n           Porto, Portugal Porto Portugal",
+   "url": "https://bloqit.teamtailor.com/jobs/8155977-field-service-coordinator-italy-germany",
    "firma": "Bloq.it"
   },
   {
@@ -932,12 +944,6 @@
    "firma": "Efficio Consulting"
   },
   {
-   "titel": "Senior Recruitment Advisor",
-   "ort": "London / London / Lisbon",
-   "url": "https://jobs.eu.lever.co/efficioconsulting/8ca2fda4-438c-491a-af37-57a4ec770683",
-   "firma": "Efficio Consulting"
-  },
-  {
    "titel": "Senior Software Engineer (Internal Products)",
    "ort": "Lisbon / Lisbon",
    "url": "https://jobs.eu.lever.co/efficioconsulting/1d11cd8d-1491-4f7e-839a-a294578755f7",
@@ -978,6 +984,12 @@
    "ort": "Algarve Algarve Portugal",
    "url": "https://winid.teamtailor.com/jobs/7901835-tecnico-eletromecanico-algarve",
    "firma": "Actual Talent"
+  },
+  {
+   "titel": "QA Engineer | DSI Corporate",
+   "ort": "Portugal  pt",
+   "url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000164050559",
+   "firma": "Natixis in Portugal"
   },
   {
    "titel": "Junior Financial Crime Officer | SG",
@@ -1226,6 +1238,12 @@
    "firma": "Pleo"
   },
   {
+   "titel": "Financial Crimes Framework & Innovations Manager",
+   "ort": "London / Lisbon / Copenhagen / Madrid",
+   "url": "https://jobs.ashbyhq.com/pleo/25db2474-f765-4c29-b02d-f435aa36ce49",
+   "firma": "Pleo"
+  },
+  {
    "titel": "Billing Operations Analyst (Maternity Cover)",
    "ort": "Lisbon",
    "url": "https://jobs.ashbyhq.com/pleo/dbfe3f31-f3d2-4db8-972d-2d55d8564703",
@@ -1241,12 +1259,6 @@
    "titel": "Account Manager II (German Speaking)",
    "ort": "Berlin / Lisbon",
    "url": "https://jobs.ashbyhq.com/pleo/3501c4b5-c2d0-43cf-ad22-99a4c46d75ae",
-   "firma": "Pleo"
-  },
-  {
-   "titel": "Sales Operations Business Partner",
-   "ort": "Lisbon / London / Madrid",
-   "url": "https://jobs.ashbyhq.com/pleo/2e97058b-71ce-4ba9-8eb3-2462ce369521",
    "firma": "Pleo"
   },
   {
@@ -2318,6 +2330,12 @@
    "firma": "Valtech Portugal"
   },
   {
+   "titel": "Senior/Lead Project Manager",
+   "ort": "Portugal - Remote",
+   "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5017442101",
+   "firma": "Valtech Portugal"
+  },
+  {
    "titel": "Senior QA Automation Engineer (Playwright)",
    "ort": "Portugal - Remote",
    "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5027188101",
@@ -2950,13 +2968,13 @@
   {
    "titel": "Credit Experience Advisor",
    "ort": "Lisboa",
-   "url": "https://job-boards.greenhouse.io/comparaja/jobs/8044285003",
+   "url": "https://job-boards.greenhouse.io/comparaja/jobs/8044250003",
    "firma": "ComparaJá (CEG)"
   },
   {
    "titel": "Credit Experience Advisor",
    "ort": "Lisboa",
-   "url": "https://job-boards.greenhouse.io/comparaja/jobs/8044250003",
+   "url": "https://job-boards.greenhouse.io/comparaja/jobs/8044285003",
    "firma": "ComparaJá (CEG)"
   },
   {
@@ -3308,12 +3326,6 @@
    "firma": "Mastercard"
   },
   {
-   "titel": "Director, Business Development",
-   "ort": "Director, Business Development Location Portugal, P-1269-046 Category Sales Job Type Full time Job Id R-274530 We are currently hiring a Director, Business Development to oversee the portfolio of Financial Institutions,",
-   "url": "https://careers.mastercard.com/us/en/job/R-274530/Director-Business-Development",
-   "firma": "Mastercard"
-  },
-  {
    "titel": "Senior Software Engineer",
    "ort": "Senior Software Engineer Location Lisboa, Portugal, 1050-227 Category Engineering Job Type Full time Job Id R-290748 We are looking for a Senior Software Engineer to design, develop, and maintain secure, scalable blockch",
    "url": "https://careers.mastercard.com/us/en/job/R-290748/Senior-Software-Engineer",
@@ -3326,63 +3338,69 @@
    "firma": "Mastercard"
   },
   {
+   "titel": "Director, Product Management",
+   "ort": "Director, Product Management Location Portugal, P-1269-046 Category Product Job Type Full time Job Id R-290013 Director, Product Management will lead the productisation of Mastercard’s Global Portfolio Optimisation frame",
+   "url": "https://careers.mastercard.com/us/en/job/R-290013/Director-Product-Management",
+   "firma": "Mastercard"
+  },
+  {
+   "titel": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8414412",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Head of GTM OS & Regional Business Partner Netherlands View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8414408",
+   "firma": "Feedzai"
+  },
+  {
    "titel": "Engineering Manager - Performance & Reliability Portugal View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
    "url": "https://careers.feedzai.com/job_description?gh_jid=7745616",
    "firma": "Feedzai"
   },
   {
-   "titel": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8414352",
+   "titel": "Instructional Designer Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8278640",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Engineering Manager - Risk Experience Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8400549",
    "firma": "Feedzai"
   },
   {
    "titel": "Advanced Software Engineer - Customer Success São Paulo, Brazil View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
    "url": "https://careers.feedzai.com/job_description?gh_jid=8121243",
    "firma": "Feedzai"
   },
   {
    "titel": "Software Engineer - Customer Success Portugal View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
    "url": "https://careers.feedzai.com/job_description?gh_jid=7412899",
    "firma": "Feedzai"
   },
   {
-   "titel": "Engineering Manager - Risk Experience Portugal View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8400549",
+   "titel": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8414402",
+   "firma": "Feedzai"
+  },
+  {
+   "titel": "Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
+   "url": "https://careers.feedzai.com/job_description?gh_jid=8414352",
    "firma": "Feedzai"
   },
   {
    "titel": "Advanced Product Manager - Digital Trust Portugal View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
+   "ort": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job Head of GTM OS & Regional Business Partner Netherlands View Job Engineering Manager - Performance & Reliability Portugal View Job Instructional",
    "url": "https://careers.feedzai.com/job_description?gh_jid=7978882",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Head of GTM OS & Regional Business Partner Berlin, Berlin, Germany View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8414412",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Instructional Designer Portugal View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8278640",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Head of GTM OS & Regional Business Partner Netherlands View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8414408",
-   "firma": "Feedzai"
-  },
-  {
-   "titel": "Head of GTM OS & Regional Business Partner Lisbon, Portugal View Job",
-   "ort": "Engineering Manager - Performance & Reliability Portugal View Job Head of GTM OS & Regional Business Partner London, England, United Kingdom View Job Advanced Software Engineer - Customer Success São Paulo, Brazil View J",
-   "url": "https://careers.feedzai.com/job_description?gh_jid=8414402",
    "firma": "Feedzai"
   },
   {
@@ -3576,12 +3594,6 @@
    "ort": "Corporate Office Sustainability, Environment, Health and Safety - Own Operations Expert (f/m/div) Áreas de trabalho Outros Locais da Bosch Lisboa Híbrido Vaga publicada 11/25/2026",
    "url": "https://jobs.bosch.com/pt/job/REF298891Y-corporate-office-sustainability-environment-health-and-safety-own-operations-expert-f-m-div",
    "firma": "Bosch Portugal"
-  },
-  {
-   "titel": "Skip to main content",
-   "ort": "Skip to main content Life at Unilever Experienced Professionals Early Careers Events Locations Saved Jobs Talent Community EN Portugal A Bright, New Future In Portugal we've been helping people innovate in their fields.",
-   "url": "https://careers.unilever.com/en/portugal#content",
-   "firma": "Unilever Portugal"
   },
   {
    "titel": "Saltar para o conteúdo principal",
@@ -3855,7 +3867,7 @@
   },
   {
    "titel": "View & Apply >",
-   "ort": "LEGAL Telecom Regulatory Counsel (9-Month FTC with Potential to Extend) Amsterdam, Netherlands Berlin, Germany Lisbon, Portugal View & Apply >",
+   "ort": "LEGAL Telecom Regulatory Counsel (9-Month FTC with Potential to Extend) , Netherlands , Germany , Portugal , Spain , Ireland , United Kingdom View & Apply >",
    "url": "https://www.1global.com/vacancy/CF524A4218",
    "firma": "1GLOBAL"
   },
@@ -3992,6 +4004,12 @@
    "firma": "Solvay"
   },
   {
+   "titel": "Financial Controller (all genders)",
+   "ort": "Title Financial Controller (all genders) Other Locations Lisbon, PT Business Unit Finance Job Experience Level Professionals Job Category/Job Family Finance / Controlling",
+   "url": "https://careers.beyondgravity.com/BeyondGravity/job/Lisbon-Financial-Controller-%28all-genders%29/1453520733/",
+   "firma": "Beyond Gravity"
+  },
+  {
    "titel": "Senior Automation Engineer (m/f/d)",
    "ort": "TECH & Engineering View Senior Automation Engineer (m/f/d) Full-time Lisbon, Portugal",
    "url": "https://www.sixt.jobs/pt/jobs/12b7cfde-965e-4a9f-9cb4-4bdc1f4f1fa8",
@@ -4031,6 +4049,12 @@
    "titel": "Software Engineer - Backend Java (m/f/d)",
    "ort": "TECH & Engineering View Software Engineer - Backend Java (m/f/d) Full-time Lisbon, Portugal",
    "url": "https://www.sixt.jobs/pt/jobs/21fc8ddf-d0f7-403f-b86e-e150fe17e649",
+   "firma": "Sixt"
+  },
+  {
+   "titel": "Senior Accounts Receivable Agent - French speaker (m/f/d)",
+   "ort": "Finance & Internal Audit View Senior Accounts Receivable Agent - French speaker (m/f/d) Full-time Lisbon, Portugal",
+   "url": "https://www.sixt.jobs/pt/jobs/000afda3-4bae-46f2-858d-bad164d2a4a0",
    "firma": "Sixt"
   },
   {
@@ -4097,12 +4121,6 @@
    "titel": "Specialist Partner Business for Franchise Markets (m/f/d)",
    "ort": "Branches & Operations View Specialist Partner Business for Franchise Markets (m/f/d) Full-time Lisbon, Portugal",
    "url": "https://www.sixt.jobs/pt/jobs/5295cf08-2ef1-4dd3-952f-bcae4fc030ef",
-   "firma": "Sixt"
-  },
-  {
-   "titel": "Payroll Specialist (m/f/d)",
-   "ort": "Human Resources & Training View Payroll Specialist (m/f/d) Full-time Lisbon, Portugal",
-   "url": "https://www.sixt.jobs/pt/jobs/d1bde0e4-c6d8-45c9-94b7-68f53fc44084",
    "firma": "Sixt"
   },
   {
@@ -4197,74 +4215,80 @@
   },
   {
    "titel": "Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon",
-   "ort": "Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/corporate-audit-manager/87/95661846416",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon",
-   "ort": "Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/operations-performance-and-reporting-analyst/87/103726673296",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Nov. 23, 2026 Cloud Security Engineering Manager Portugal - Lisbon",
-   "ort": "Nov. 23, 2026 Cloud Security Engineering Manager Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/cloud-security-engineering-manager/87/103692456352",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Nov. 04, 2026 Senior Associate Endpoint Security Engineer Portugal - Lisbon",
-   "ort": "Nov. 04, 2026 Senior Associate Endpoint Security Engineer Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/senior-associate-endpoint-security-engineer/87/102757857696",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Oct. 13, 2026 AI Security Engineer Portugal - Lisbon",
-   "ort": "Oct. 13, 2026 AI Security Engineer Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/ai-security-engineer/87/100751912432",
    "firma": "Amgen Capability Center Portugal"
   },
   {
+   "titel": "Nov. 27, 2026 Italian Speaking Business Operations Coordinator Portugal - Lisbon",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
+   "url": "https://careers.amgen.com/en/job/lisbon/italian-speaking-business-operations-coordinator/87/103868230480",
+   "firma": "Amgen Capability Center Portugal"
+  },
+  {
    "titel": "Nov. 23, 2026 Senior Cloud Security Engineer Portugal - Lisbon",
-   "ort": "Nov. 23, 2026 Senior Cloud Security Engineer Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/senior-cloud-security-engineer/87/98690842352",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Nov. 17, 2026 Senior Associate Business Planning & Analysis Portugal - Lisbon",
-   "ort": "Nov. 17, 2026 Senior Associate Business Planning & Analysis Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/senior-associate-business-planning-and-analysis/87/103429689856",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Nov. 17, 2026 Talent Acquisition Manager & Regional Talent Scout Portugal - Lisbon",
-   "ort": "Nov. 17, 2026 Talent Acquisition Manager & Regional Talent Scout Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/talent-acquisition-manager-and-regional-talent-scout/87/103429689552",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Oct. 15, 2026 CRM Operations Specialist Portugal - Lisbon",
-   "ort": "Oct. 15, 2026 CRM Operations Specialist Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/crm-operations-specialist/87/101999675024",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Oct. 13, 2026 Commercial Forecasting Senior Associate Portugal - Lisbon",
-   "ort": "Oct. 13, 2026 Commercial Forecasting Senior Associate Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/commercial-forecasting-senior-associate/87/100143020224",
    "firma": "Amgen Capability Center Portugal"
   },
   {
    "titel": "Nov. 24, 2026 Facilities Operations & Performance Manager Portugal - Lisbon",
-   "ort": "Nov. 24, 2026 Facilities Operations & Performance Manager Portugal - Lisbon Save Job Button",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
    "url": "https://careers.amgen.com/en/job/lisbon/facilities-operations-and-performance-manager/87/103726673232",
    "firma": "Amgen Capability Center Portugal"
   },
   {
-   "titel": "Nov. 18, 2026 Finance Manager - Product Analytics and Insights Portugal - Lisbon",
-   "ort": "Nov. 18, 2026 Finance Manager - Product Analytics and Insights Portugal - Lisbon Save Job Button",
-   "url": "https://careers.amgen.com/en/job/lisbon/finance-manager-product-analytics-and-insights/87/103472823184",
+   "titel": "Show All",
+   "ort": "37 Results for Lisbon Aug. 13, 2026 Corporate Audit Manager Portugal - Lisbon Save Job Button Nov. 24, 2026 Operations Performance & Reporting Analyst Portugal - Lisbon Save Job Button Nov. 23, 2026 Cloud Security Engine",
+   "url": "https://careers.amgen.com/en/search-jobs/Lisbon#",
    "firma": "Amgen Capability Center Portugal"
   },
   {
@@ -4328,27 +4352,33 @@
    "firma": "Grünenthal (Lisbon Hub)"
   },
   {
+   "titel": "Director Quality Transformation & Site Excellence",
+   "ort": "Director Quality Transformation & Site Excellence Aachen, Origgio, Lisbon, Germany, Italy, Portugal Global Operations & Production 28 Nov 2026 Supplier Quality Expert / Auditor Lisbon, Portugal Global Operations & Produc",
+   "url": "https://careers.grunenthal.com/job/Aachen%2C-Origgio%2C-Lisbon-Director-Quality-Transformation-&-Site-Excellence/1443387433/",
+   "firma": "Grünenthal (Lisbon Hub)"
+  },
+  {
    "titel": "Supplier Quality Expert / Auditor",
-   "ort": "Supplier Quality Expert / Auditor Lisbon, Portugal Global Operations & Production 24 Nov 2026",
+   "ort": "Director Quality Transformation & Site Excellence Aachen, Origgio, Lisbon, Germany, Italy, Portugal Global Operations & Production 28 Nov 2026 Supplier Quality Expert / Auditor Lisbon, Portugal Global Operations & Produc",
    "url": "https://careers.grunenthal.com/job/Lisbon-Supplier-Quality-Expert-Auditor/1451378133/",
    "firma": "Grünenthal (Lisbon Hub)"
   },
   {
    "titel": "Global Freight Forwarding & Logistics Manager (m/f/d)",
-   "ort": "Global Freight Forwarding & Logistics Manager (m/f/d) Aachen, Lisbon, Germany, Portugal Global Operations & Production 21 Nov 2026",
+   "ort": "Director Quality Transformation & Site Excellence Aachen, Origgio, Lisbon, Germany, Italy, Portugal Global Operations & Production 28 Nov 2026 Supplier Quality Expert / Auditor Lisbon, Portugal Global Operations & Produc",
    "url": "https://careers.grunenthal.com/job/Aachen%2C-Lisbon-Global-Freight-Forwarding-&-Logistics-Manager-%28mfd%29/1429932833/",
    "firma": "Grünenthal (Lisbon Hub)"
   },
   {
-   "titel": "Supply Network Planner",
-   "ort": "Supply Network Planner Lisbon, Portugal Global Operations & Production 2 Nov 2026",
-   "url": "https://careers.grunenthal.com/job/Lisbon-Supply-Network-Planner/1453478533/",
+   "titel": "Oligonucleotide Design Lead (f/m/d)",
+   "ort": "Director Quality Transformation & Site Excellence Aachen, Origgio, Lisbon, Germany, Italy, Portugal Global Operations & Production 28 Nov 2026 Supplier Quality Expert / Auditor Lisbon, Portugal Global Operations & Produc",
+   "url": "https://careers.grunenthal.com/job/Various-Locations-Oligonucleotide-Design-Lead-%28fmd%29/1379494533/",
    "firma": "Grünenthal (Lisbon Hub)"
   },
   {
-   "titel": "Director Quality Transformation & Site Excellence",
-   "ort": "Director Quality Transformation & Site Excellence Aachen, Origgio, Lisbon, Germany, Italy, Portugal Global Operations & Production 30 Oct 2026",
-   "url": "https://careers.grunenthal.com/job/Aachen%2C-Origgio%2C-Lisbon-Director-Quality-Transformation-&-Site-Excellence/1443387433/",
+   "titel": "Global Regulatory Strategist (m/f/d)",
+   "ort": "Director Quality Transformation & Site Excellence Aachen, Origgio, Lisbon, Germany, Italy, Portugal Global Operations & Production 28 Nov 2026 Supplier Quality Expert / Auditor Lisbon, Portugal Global Operations & Produc",
+   "url": "https://careers.grunenthal.com/job/Various-Locations-Global-Regulatory-Strategist-%28mfd%29/1458465433/",
    "firma": "Grünenthal (Lisbon Hub)"
   },
   {
@@ -4532,15 +4562,15 @@
    "firma": "Henkel Portugal"
   },
   {
-   "titel": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers",
-   "ort": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026",
-   "url": "https://opportunities.vodafone.com/job/Lisbon-Operations-Intelligence-&-Performance-Insights-Expert-%28mfd%29-for-Vantage-Towers/1446603033/",
+   "titel": "Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers",
+   "ort": "Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026",
+   "url": "https://opportunities.vodafone.com/job/Lisbon-Automation%2C-AI-and-Zero-Touch-Operations-Expert-%28mfd%29-for-Vantage-Towers/1446602833/",
    "firma": "Vodafone Portugal"
   },
   {
-   "titel": "Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers",
-   "ort": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026",
-   "url": "https://opportunities.vodafone.com/job/Lisbon-Automation%2C-AI-and-Zero-Touch-Operations-Expert-%28mfd%29-for-Vantage-Towers/1446602833/",
+   "titel": "Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers",
+   "ort": "Automation, AI and Zero-Touch Operations Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026 Operations Intelligence & Performance Insights Expert (m/f/d) for Vantage Towers Lisbon, PT 11 Nov 2026",
+   "url": "https://opportunities.vodafone.com/job/Lisbon-Operations-Intelligence-&-Performance-Insights-Expert-%28mfd%29-for-Vantage-Towers/1446603033/",
    "firma": "Vodafone Portugal"
   },
   {
@@ -4628,12 +4658,6 @@
    "firma": "DHL Portugal"
   },
   {
-   "titel": "CUSTOMER SERVICE ADVISOR - DHL EXPRESS PORTUGAL",
-   "ort": "CUSTOMER SERVICE ADVISOR - DHL EXPRESS PORTUGAL Location Lisbon, Lisboa, Portugal Full-time CUSTOMER SERVICE ADVISOR . (M/F) . Missão da Função . Assegurar o tratamento de todos os contactos telefónicos dos Clientes rece",
-   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV386083ENGLOBALEXTERNAL/CUSTOMER-SERVICE-ADVISOR-DHL-EXPRESS-PORTUGAL",
-   "firma": "DHL Portugal"
-  },
-  {
    "titel": "PRICING SPECIALIST - DH EXPRESS PORTUGAL",
    "ort": "PRICING SPECIALIST - DH EXPRESS PORTUGAL Location Lisbon, Lisboa, Portugal Full-time Pricing Specialist (m/f). Na DHL Express, ligamos pessoas e melhoramos vidas. Como líder mundial em transporte expresso internacional,",
    "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV391207ENGLOBALEXTERNAL/PRICING-SPECIALIST-DH-EXPRESS-PORTUGAL",
@@ -4718,75 +4742,81 @@
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
-   "titel": "E2E Tester (IMS / PaCO / SDM) Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão, VNG - Lake Towers + 1 Products & Systems Engineering Permanent Experienced Professionals",
-   "ort": "E2E Tester (IMS / PaCO / SDM) Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão, VNG - Lake Towers + 1 Products & Systems Engineering Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/567214-en_GB+sap_btp",
+   "titel": "Knowledge Graph Engineer (Life Sciences) Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Data & AI Permanent Experienced Professionals",
+   "ort": "Knowledge Graph Engineer (Life Sciences) Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Data & AI Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/577846-en_US+sap_btp",
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
-   "titel": "Packet core TPM VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "ort": "Packet core TPM VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/567159-en_GB+sap_btp",
+   "titel": "Senior Data Architect VNG - Cais Gaia, VNG - Lake Towers, Lisboa - Expo Data & AI Permanent Experienced Professionals",
+   "ort": "Senior Data Architect VNG - Cais Gaia, VNG - Lake Towers, Lisboa - Expo Data & AI Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/544118-en_GB+sap_btp",
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
-   "titel": "Test Manager / Technical Project Manager Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão, VNG - Lake Towers + 1 Products & Systems Engineering Permanent Experienced Professionals",
-   "ort": "Test Manager / Technical Project Manager Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão, VNG - Lake Towers + 1 Products & Systems Engineering Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/567198-en_GB+sap_btp",
+   "titel": "Senior Quality Engineer VNG - Cais Gaia, Fundão, Lisboa - Colombo Quality Engineering & Testing Permanent Experienced Professionals",
+   "ort": "Senior Quality Engineer VNG - Cais Gaia, Fundão, Lisboa - Colombo Quality Engineering & Testing Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/577092-en_US+sap_btp",
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
-   "titel": "Packet Core Technical Project Manager VNG - Lake Towers, Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão + 1 Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "ort": "Packet Core Technical Project Manager VNG - Lake Towers, Évora, Lisboa - Colombo, VNG - Cais Gaia, Fundão + 1 Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "titel": "Data Engineer AWS Évora, VNG - Cais Gaia, Fundão, VNG - Lake Towers, Lisboa - Expo Data & AI Permanent Experienced Professionals",
+   "ort": "Data Engineer AWS Évora, VNG - Cais Gaia, Fundão, VNG - Lake Towers, Lisboa - Expo Data & AI Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/396902-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Quality Engineer VNG - Cais Gaia, Fundão, Lisboa - Colombo Quality Engineering & Testing Permanent Experienced Professionals",
+   "ort": "Quality Engineer VNG - Cais Gaia, Fundão, Lisboa - Colombo Quality Engineering & Testing Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/570347-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Data Engineer VNG - Cais Gaia, VNG - Lake Towers, Lisboa - Expo Data & AI Permanent Experienced Professionals",
+   "ort": "Data Engineer VNG - Cais Gaia, VNG - Lake Towers, Lisboa - Expo Data & AI Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/544059-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "IpTel - Technical Project Manager Lisboa - Expo, VNG - Cais Gaia, Fundão, VNG - Lake Towers, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "ort": "IpTel - Technical Project Manager Lisboa - Expo, VNG - Cais Gaia, Fundão, VNG - Lake Towers, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/570170-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Validation Engineer Lisboa - Expo, Fundão, VNG - Lake Towers Software Engineering Permanent Experienced Professionals",
+   "ort": "Validation Engineer Lisboa - Expo, Fundão, VNG - Lake Towers Software Engineering Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/227090-en_GB+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Data & AI Senior Engineer VNG - Cais Gaia, Fundão, VNG - Lake Towers, Lisboa - Expo Data & AI Permanent Experienced Professionals",
+   "ort": "Data & AI Senior Engineer VNG - Cais Gaia, Fundão, VNG - Lake Towers, Lisboa - Expo Data & AI Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/530829-en_US+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Telco Business/Technical Analyst Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Permanent Experienced Professionals",
+   "ort": "Telco Business/Technical Analyst Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Permanent Experienced Professionals",
+   "url": "https://www.capgemini.com/pt-en/jobs/562203-en_US+sap_btp",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+  },
+  {
+   "titel": "Packet Core Technical Project Manager Évora, VNG - Lake Towers, VNG - Cais Gaia, Lisboa - Colombo, Fundão + 1 Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "ort": "Packet Core Technical Project Manager Évora, VNG - Lake Towers, VNG - Cais Gaia, Lisboa - Colombo, Fundão + 1 Products & Systems Engineering Fixed Term Contract Experienced Professionals",
    "url": "https://www.capgemini.com/pt-en/jobs/399414-en_GB+sap_btp",
    "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
   },
   {
-   "titel": "Market Services - CTPM/ Test Manager VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "ort": "Market Services - CTPM/ Test Manager VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/569181-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "AI Engineer (Data Science / Data Engineering) Évora, Lisboa - Expo, Fundão, VNG - Cais Gaia Data & AI Permanent Experienced Professionals",
-   "ort": "AI Engineer (Data Science / Data Engineering) Évora, Lisboa - Expo, Fundão, VNG - Cais Gaia Data & AI Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/570730-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "Core Network Customer Technical Project Manager - IMS/VoLTE VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "ort": "Core Network Customer Technical Project Manager - IMS/VoLTE VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/399068-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "Costumer Technical Project Manager - Market Services VNG - Lake Towers, Lisboa - Expo, VNG - Cais Gaia, Fundão, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "ort": "Costumer Technical Project Manager - Market Services VNG - Lake Towers, Lisboa - Expo, VNG - Cais Gaia, Fundão, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/568798-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "Core CS Network Operations Engineer VNG - Lake Towers, Évora, VNG - Cais Gaia, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "ort": "Core CS Network Operations Engineer VNG - Lake Towers, Évora, VNG - Cais Gaia, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/529216-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
-  },
-  {
-   "titel": "Test Manager VNG - Lake Towers, Évora, Lisboa - Expo, Lisboa - Colombo, Fundão + 1 Quality Engineering & Testing Permanent Experienced Professionals",
-   "ort": "Test Manager VNG - Lake Towers, Évora, Lisboa - Expo, Lisboa - Colombo, Fundão + 1 Quality Engineering & Testing Permanent Experienced Professionals",
-   "url": "https://www.capgemini.com/pt-en/jobs/528664-en_GB+sap_btp",
-   "firma": "Capgemini Portugal (inkl. Capgemini Invent)"
+   "titel": "Machine Learning Engineer (all genders)",
+   "ort": "Machine Learning Engineer (all genders) Lisbon, PT +1 more… Nov 20, 2026",
+   "url": "https://jobs.valantic.com/job/Lisbon-Machine-Learning-Engineer-%28all-genders%29/1329670755/",
+   "firma": "valantic Portugal (valantic BT)"
   },
   {
    "titel": "Sales Executive (all genders)",
    "ort": "Sales Executive (all genders) Lisbon, PT Nov 27, 2026",
    "url": "https://jobs.valantic.com/job/Lisbon-Sales-Executive-%28all-genders%29/1153083155/",
-   "firma": "valantic Portugal (valantic BT)"
-  },
-  {
-   "titel": "Senior Consultant (all genders) - SAP SF Employee Central Core",
-   "ort": "Senior Consultant (all genders) - SAP SF Employee Central Core Lisbon, PT +1 more… Nov 6, 2026",
-   "url": "https://jobs.valantic.com/job/Lisbon-Senior-Consultant-%28all-genders%29-SAP-SF-Employee-Central-Core/1169256855/",
    "firma": "valantic Portugal (valantic BT)"
   },
   {
@@ -4796,15 +4826,9 @@
    "firma": "valantic Portugal (valantic BT)"
   },
   {
-   "titel": "Senior Data Engineer - Financial Services Data Lake (all genders)",
-   "ort": "Senior Data Engineer - Financial Services Data Lake (all genders) Lisbon, PT +1 more… Nov 12, 2026",
-   "url": "https://jobs.valantic.com/job/Lisbon-Senior-Data-Engineer-Financial-Services-Data-Lake-%28all-genders%29/1372747655/",
-   "firma": "valantic Portugal (valantic BT)"
-  },
-  {
-   "titel": "SAP MM Consultant (all genders)",
-   "ort": "SAP MM Consultant (all genders) Lisbon, PT +1 more… Nov 19, 2026",
-   "url": "https://jobs.valantic.com/job/Lisbon-SAP-MM-Consultant-%28all-genders%29/1373584755/",
+   "titel": "Senior Consultant (all genders) - SAP SF Employee Central Core",
+   "ort": "Senior Consultant (all genders) - SAP SF Employee Central Core Lisbon, PT +1 more… Nov 6, 2026",
+   "url": "https://jobs.valantic.com/job/Lisbon-Senior-Consultant-%28all-genders%29-SAP-SF-Employee-Central-Core/1169256855/",
    "firma": "valantic Portugal (valantic BT)"
   },
   {
@@ -4820,9 +4844,15 @@
    "firma": "valantic Portugal (valantic BT)"
   },
   {
-   "titel": "Machine Learning Engineer (all genders)",
-   "ort": "Machine Learning Engineer (all genders) Lisbon, PT +1 more… Nov 20, 2026",
-   "url": "https://jobs.valantic.com/job/Lisbon-Machine-Learning-Engineer-%28all-genders%29/1329670755/",
+   "titel": "Senior Data Engineer - Financial Services Data Lake (all genders)",
+   "ort": "Senior Data Engineer - Financial Services Data Lake (all genders) Lisbon, PT +1 more… Nov 12, 2026",
+   "url": "https://jobs.valantic.com/job/Lisbon-Senior-Data-Engineer-Financial-Services-Data-Lake-%28all-genders%29/1372747655/",
+   "firma": "valantic Portugal (valantic BT)"
+  },
+  {
+   "titel": "SAP MM Consultant (all genders)",
+   "ort": "SAP MM Consultant (all genders) Lisbon, PT +1 more… Nov 19, 2026",
+   "url": "https://jobs.valantic.com/job/Lisbon-SAP-MM-Consultant-%28all-genders%29/1373584755/",
    "firma": "valantic Portugal (valantic BT)"
   },
   {
@@ -4866,24 +4896,6 @@
    "ort": "Global - English Australia - English Austria - German Belgium - English Brazil - Portuguese Canada - English Canada - French France - French Germany - German India - English Italy - Italian Japan - Japanese Netherlands -",
    "url": "https://www.avanade.com/pt-pt/career",
    "firma": "Avanade Portugal"
-  },
-  {
-   "titel": "Contacte-nos",
-   "ort": "MenuPortugal Open submenu (Serviços)Serviços Open submenu (Indústrias)Indústrias Open submenu (Insights)Insights Open submenu (Carreiras)Carreiras Contacte-nos",
-   "url": "https://www.cgi.com/portugal/pt-pt/contacte-nos",
-   "firma": "CGI Portugal"
-  },
-  {
-   "titel": "Portugal Careers site",
-   "ort": "Close submenuCarreiras Portugal Careers site Global careers site Estudantes e Recém-Licenciados | CGI Connect",
-   "url": "https://www.cgi.com/portugal/pt-pt/portugal/careers",
-   "firma": "CGI Portugal"
-  },
-  {
-   "titel": "Global careers site",
-   "ort": "Close submenuCarreiras Portugal Careers site Global careers site Estudantes e Recém-Licenciados | CGI Connect",
-   "url": "https://www.cgi.com/en/careers",
-   "firma": "CGI Portugal"
   },
   {
    "titel": "English",
@@ -5096,44 +5108,56 @@
    "firma": "Rauva"
   },
   {
+   "titel": "NetSuite SCM Engineer - Inventory, WMS & Fulfillment Corporate Technology • Remote, Portugal • Full time • Remote",
+   "ort": "NetSuite SCM Engineer - Inventory, WMS & Fulfillment Corporate Technology • Remote, Portugal • Full time • Remote",
+   "url": "https://www.li.me/about/careers?ashby_jid=1ba01f11-1abf-4e27-9f6a-14a1bf85c91f",
+   "firma": "Lime"
+  },
+  {
+   "titel": "Recruiter (High Volume) FTC 6M Recruiting • Remote, Portugal • Full time • Remote",
+   "ort": "Recruiter (High Volume) FTC 6M Recruiting • Remote, Portugal • Full time • Remote",
+   "url": "https://www.li.me/about/careers?ashby_jid=cb3779fa-3db7-4c81-8ced-03cf49f6fdd3",
+   "firma": "Lime"
+  },
+  {
    "titel": "Product Owner, Asset Management",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering Lisbon, Portugal View job Production Support Engineer Engineering India View job Senior",
    "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/3c5728b1-9398-485a-b955-8455fca552ba",
    "firma": "Luma Financial Technologies"
   },
   {
    "titel": "Production Support Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
-   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/63c5b8a6-4efb-477f-9574-ee51a310f7e5",
-   "firma": "Luma Financial Technologies"
-  },
-  {
-   "titel": "Production Support Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering Lisbon, Portugal View job Production Support Engineer Engineering India View job Senior",
    "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/d264873c-f6fb-4ff0-acf1-854bd6bb298b",
    "firma": "Luma Financial Technologies"
   },
   {
+   "titel": "Production Support Engineer",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering Lisbon, Portugal View job Production Support Engineer Engineering India View job Senior",
+   "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/63c5b8a6-4efb-477f-9574-ee51a310f7e5",
+   "firma": "Luma Financial Technologies"
+  },
+  {
    "titel": "Senior Software Development Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering Lisbon, Portugal View job Production Support Engineer Engineering India View job Senior",
    "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/140707de-cba9-417d-8518-fd3aeea252fc",
    "firma": "Luma Financial Technologies"
   },
   {
    "titel": "Senior Software Development Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering Lisbon, Portugal View job Production Support Engineer Engineering India View job Senior",
    "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/2a3757d9-6762-4c89-af2a-490ae60d0988",
    "firma": "Luma Financial Technologies"
   },
   {
    "titel": "Site Reliability Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering Lisbon, Portugal View job Production Support Engineer Engineering India View job Senior",
    "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/dca4c76d-526b-45e9-a6f4-c12109d57aee",
    "firma": "Luma Financial Technologies"
   },
   {
    "titel": "Software Development Engineer",
-   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering India View job Production Support Engineer Engineering Lisbon, Portugal View job Senior",
+   "ort": "Engineering Product Owner, Asset Management Engineering Cincinnati, OH New York, NY View job Production Support Engineer Engineering Lisbon, Portugal View job Production Support Engineer Engineering India View job Senior",
    "url": "https://ats.rippling.com/en-US/luma-financial-technologies/jobs/f996c2a3-b387-4fce-b867-4d2d53243ce8",
    "firma": "Luma Financial Technologies"
   },

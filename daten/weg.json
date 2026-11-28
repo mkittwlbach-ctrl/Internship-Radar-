@@ -1,16 +1,164 @@
 {
  "meta": {
-  "stand": "2026-11-27T14:30Z",
-  "datum": "2026-11-27",
+  "stand": "2026-11-28T12:08Z",
+  "datum": "2026-11-28",
   "fertig": true,
   "firmen": 177,
-  "ok": 147,
-  "leer": 24,
-  "fehler": 6,
-  "stellen_lissabon": 857,
-  "kandidaten": 211,
-  "neu": 4,
-  "weg": 0
+  "ok": 149,
+  "leer": 20,
+  "fehler": 8,
+  "stellen_lissabon": 861,
+  "kandidaten": 209,
+  "neu": 1,
+  "weg": 21
  },
- "stellen": []
+ "stellen": [
+  {
+   "url": "https://jobs.eu.lever.co/efficioconsulting/8ca2fda4-438c-491a-af37-57a4ec770683",
+   "erst": "2026-11-26",
+   "firma": "Efficio Consulting",
+   "titel": "Senior Recruitment Advisor",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://jobs.ashbyhq.com/pleo/2e97058b-71ce-4ba9-8eb3-2462ce369521",
+   "erst": "2026-11-26",
+   "firma": "Pleo",
+   "titel": "Sales Operations Business Partner",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://careers.mastercard.com/us/en/job/R-274530/Director-Business-Development",
+   "erst": "2026-11-26",
+   "firma": "Mastercard",
+   "titel": "Director, Business Development",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://www.sixt.jobs/pt/jobs/d1bde0e4-c6d8-45c9-94b7-68f53fc44084",
+   "erst": "2026-11-26",
+   "firma": "Sixt",
+   "titel": "Payroll Specialist (m/f/d)",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://careers.amgen.com/en/job/lisbon/finance-manager-product-analytics-and-insights/87/103472823184",
+   "erst": "2026-11-26",
+   "firma": "Amgen Capability Center Portugal",
+   "titel": "Nov. 18, 2026 Finance Manager - Product Analytics and Insights Portugal - Lisbon",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://careers.grunenthal.com/job/Lisbon-Supply-Network-Planner/1453478533/",
+   "erst": "2026-11-26",
+   "firma": "Grünenthal (Lisbon Hub)",
+   "titel": "Supply Network Planner",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV386083ENGLOBALEXTERNAL/CUSTOMER-SERVICE-ADVISOR-DHL-EXPRESS-PORTUGAL",
+   "erst": "2026-11-26",
+   "firma": "DHL Portugal",
+   "titel": "CUSTOMER SERVICE ADVISOR - DHL EXPRESS PORTUGAL",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/568798-en_GB+sap_btp",
+   "erst": "2026-11-26",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Costumer Technical Project Manager - Market Services Lisboa - Expo, Fundão, VNG - Lake Towers, VNG - Cais Gaia, Évora Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/528664-en_GB+sap_btp",
+   "erst": "2026-11-26",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Test Manager Lisboa - Colombo, Évora, Lisboa - Expo, Fundão, VNG - Lake Towers + 1 Quality Engineering & Testing Permanent Experienced Professionals",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/567198-en_GB+sap_btp",
+   "erst": "2026-11-26",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Test Manager / Technical Project Manager Lisboa - Colombo, Évora, Fundão, VNG - Lake Towers, VNG - Cais Gaia + 1 Products & Systems Engineering Permanent Experienced Professionals",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/567214-en_GB+sap_btp",
+   "erst": "2026-11-26",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "E2E Tester (IMS / PaCO / SDM) Lisboa - Colombo, Évora, Fundão, VNG - Lake Towers, VNG - Cais Gaia + 1 Products & Systems Engineering Permanent Experienced Professionals",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://jobs.lever.co/emma-sleep/0b987a9f-c040-4abc-a9c0-4ca205f702cf",
+   "erst": "2026-11-27",
+   "firma": "Emma – The Sleep Company",
+   "titel": "Analytics Engineer",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://jobs.bosch.com/pt/job/REF299333K-senior-ai-solution-developer-erp-f-m-div",
+   "erst": "2026-11-27",
+   "firma": "Bosch Portugal",
+   "titel": "Senior AI Solution Developer - ERP (f/m/div.)",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://jobs.bosch.com/pt/job/REF299332X-senior-ai-solution-developer-crm-f-m-div",
+   "erst": "2026-11-27",
+   "firma": "Bosch Portugal",
+   "titel": "Senior AI Solution Developer - CRM (f/m/div.)",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://jobs.bosch.com/pt/job/REF298034N-export-control-classification-engineer-f-m-div",
+   "erst": "2026-11-27",
+   "firma": "Bosch Portugal",
+   "titel": "Export Control Classification Engineer (f/m/div.)",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/567159-en_GB+sap_btp",
+   "erst": "2026-11-27",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Packet core TPM VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/569181-en_GB+sap_btp",
+   "erst": "2026-11-27",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Market Services - CTPM/ Test Manager VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/570730-en_GB+sap_btp",
+   "erst": "2026-11-27",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "AI Engineer (Data Science / Data Engineering) Évora, Lisboa - Expo, Fundão, VNG - Cais Gaia Data & AI Permanent Experienced Professionals",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/399068-en_GB+sap_btp",
+   "erst": "2026-11-27",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Core Network Customer Technical Project Manager - IMS/VoLTE VNG - Lake Towers, Évora, VNG - Cais Gaia, Fundão, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://www.capgemini.com/pt-en/jobs/529216-en_GB+sap_btp",
+   "erst": "2026-11-27",
+   "firma": "Capgemini Portugal (inkl. Capgemini Invent)",
+   "titel": "Core CS Network Operations Engineer VNG - Lake Towers, Évora, VNG - Cais Gaia, Lisboa - Expo Products & Systems Engineering Fixed Term Contract Experienced Professionals",
+   "zuletzt": "2026-11-27"
+  },
+  {
+   "url": "https://careers.unilever.com/en/portugal#content",
+   "erst": "2026-11-27",
+   "firma": "Unilever Portugal",
+   "titel": "Skip to main content",
+   "zuletzt": "2026-11-27"
+  }
+ ]
 }

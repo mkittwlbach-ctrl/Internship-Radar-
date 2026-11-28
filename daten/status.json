@@ -1,16 +1,16 @@
 {
  "meta": {
-  "stand": "2026-11-27T14:30Z",
-  "datum": "2026-11-27",
+  "stand": "2026-11-28T12:08Z",
+  "datum": "2026-11-28",
   "fertig": true,
   "firmen": 177,
-  "ok": 147,
-  "leer": 24,
-  "fehler": 6,
-  "stellen_lissabon": 857,
-  "kandidaten": 211,
-  "neu": 4,
-  "weg": 0
+  "ok": 149,
+  "leer": 20,
+  "fehler": 8,
+  "stellen_lissabon": 861,
+  "kandidaten": 209,
+  "neu": 1,
+  "weg": 21
  },
  "firmen": [
   {
@@ -21,11 +21,18 @@
    "fehler": "Schnittstelle: greenhouse: RuntimeError: Greenhouse-Board nicht gefunden (Name falsch?) | Browser: Seite leer oder gesperrt"
   },
   {
-   "name": "Glovo / Delivery Hero",
+   "name": "CGI Portugal",
    "methode": "browser",
    "status": "fehler",
    "treffer": 0,
-   "fehler": "Seite leer oder gesperrt"
+   "fehler": "Browser: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.cgi.com/portugal/pt-pt/cgi-summer-internship\", waiting until \"domcontent"
+  },
+  {
+   "name": "Ferring Pharmaceuticals (Lisbon Hub)",
+   "methode": "browser",
+   "status": "fehler",
+   "treffer": 0,
+   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://ferring.wd3.myworkdayjobs.com/wday/cxs/ferring/Ferring/jobs | Browser: Seite leer oder gesperrt"
   },
   {
    "name": "Inetum Portugal",
@@ -56,18 +63,18 @@
    "fehler": "Seite leer oder gesperrt"
   },
   {
+   "name": "Schneider Electric Portugal",
+   "methode": "browser",
+   "status": "fehler",
+   "treffer": 0,
+   "fehler": "Seite leer oder gesperrt"
+  },
+  {
    "name": "Airbus",
    "methode": "browser",
    "status": "leer",
    "treffer": 0,
    "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/jobs | Browser: ok"
-  },
-  {
-   "name": "Alvarez & Marsal Portugal",
-   "methode": "browser",
-   "status": "leer",
-   "treffer": 0,
-   "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
    "name": "Atlys",
@@ -119,13 +126,6 @@
    "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
-   "name": "Ferring Pharmaceuticals (Lisbon Hub)",
-   "methode": "browser",
-   "status": "leer",
-   "treffer": 0,
-   "fehler": "Schnittstelle: workday: HTTPError: 429 Client Error: Too Many Requests for url: https://ferring.wd3.myworkdayjobs.com/wday/cxs/ferring/Ferring/jobs | Browser: keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
-  },
-  {
    "name": "Finastra",
    "methode": "browser",
    "status": "leer",
@@ -154,13 +154,6 @@
    "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
   },
   {
-   "name": "Lime",
-   "methode": "browser",
-   "status": "leer",
-   "treffer": 0,
-   "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
-  },
-  {
    "name": "Mercadão",
    "methode": "browser",
    "status": "leer",
@@ -183,13 +176,6 @@
   },
   {
    "name": "SOMAÍ Pharmaceuticals",
-   "methode": "browser",
-   "status": "leer",
-   "treffer": 0,
-   "fehler": "keine Stellenliste erkannt (Startseite, Sperre oder falsche URL?)"
-  },
-  {
-   "name": "Schneider Electric Portugal",
    "methode": "browser",
    "status": "leer",
    "treffer": 0,
@@ -266,6 +252,13 @@
    "fehler": ""
   },
   {
+   "name": "Alvarez & Marsal Portugal",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
    "name": "Amazon / AWS Portugal",
    "methode": "amazon",
    "status": "ok",
@@ -276,7 +269,7 @@
    "name": "Amgen Capability Center Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 12,
+   "treffer": 13,
    "fehler": ""
   },
   {
@@ -346,14 +339,14 @@
    "name": "Beyond Gravity",
    "methode": "browser",
    "status": "ok",
-   "treffer": 0,
+   "treffer": 1,
    "fehler": ""
   },
   {
    "name": "Bloq.it",
    "methode": "teamtailor",
    "status": "ok",
-   "treffer": 6,
+   "treffer": 9,
    "fehler": ""
   },
   {
@@ -385,17 +378,10 @@
    "fehler": ""
   },
   {
-   "name": "CGI Portugal",
-   "methode": "browser",
-   "status": "ok",
-   "treffer": 3,
-   "fehler": ""
-  },
-  {
    "name": "Capgemini Portugal (inkl. Capgemini Invent)",
    "methode": "browser",
    "status": "ok",
-   "treffer": 12,
+   "treffer": 13,
    "fehler": ""
   },
   {
@@ -472,7 +458,7 @@
    "name": "DHL Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 7,
+   "treffer": 6,
    "fehler": ""
   },
   {
@@ -563,14 +549,14 @@
    "name": "Efficio Consulting",
    "methode": "lever",
    "status": "ok",
-   "treffer": 9,
+   "treffer": 8,
    "fehler": ""
   },
   {
    "name": "Emma – The Sleep Company",
    "methode": "lever",
    "status": "ok",
-   "treffer": 25,
+   "treffer": 24,
    "fehler": ""
   },
   {
@@ -651,6 +637,13 @@
    "fehler": ""
   },
   {
+   "name": "Glovo / Delivery Hero",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 0,
+   "fehler": ""
+  },
+  {
    "name": "Goparity",
    "methode": "browser",
    "status": "ok",
@@ -675,7 +668,7 @@
    "name": "Grünenthal (Lisbon Hub)",
    "methode": "browser",
    "status": "ok",
-   "treffer": 14,
+   "treffer": 15,
    "fehler": ""
   },
   {
@@ -777,6 +770,13 @@
    "fehler": ""
   },
   {
+   "name": "Lime",
+   "methode": "browser",
+   "status": "ok",
+   "treffer": 2,
+   "fehler": ""
+  },
+  {
    "name": "Luma Financial Technologies",
    "methode": "browser",
    "status": "ok",
@@ -836,7 +836,7 @@
    "name": "Natixis in Portugal",
    "methode": "smartrecruiters",
    "status": "ok",
-   "treffer": 32,
+   "treffer": 33,
    "fehler": ""
   },
   {
@@ -1130,7 +1130,7 @@
    "name": "Unilever Portugal",
    "methode": "browser",
    "status": "ok",
-   "treffer": 1,
+   "treffer": 0,
    "fehler": ""
   },
   {
@@ -1151,7 +1151,7 @@
    "name": "Valtech Portugal",
    "methode": "greenhouse",
    "status": "ok",
-   "treffer": 6,
+   "treffer": 7,
    "fehler": ""
   },
   {
